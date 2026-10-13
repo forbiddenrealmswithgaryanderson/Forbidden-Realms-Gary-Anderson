@@ -1,0 +1,8 @@
+<!-- Replace YOUR-GITHUB-USERNAME with your actual GitHub username. -->
+<iframe
+  src="https://YOUR-GITHUB-USERNAME.github.io/forbidden-realms-news/"
+  title="Forbidden Realms Automatic Paranormal News"
+  loading="lazy"
+  style="width:100%;height:1100px;border:0;background:#070706;border-radius:12px;"
+  referrerpolicy="strict-origin-when-cross-origin">
+</iframe>

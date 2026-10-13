@@ -1,0 +1,51 @@
+FORBIDDEN REALMS — 100% FREE AUTOMATIC NEWS FEED
+
+WHAT YOU GET
+- Google News RSS collector (collector.py), covering six topic categories.
+- Black-and-gold responsive news website (site/index.html).
+- Scheduled GitHub Actions workflow (.github/workflows/news.yml).
+- GoDaddy iframe embed (GO_DADDY_EMBED.txt).
+- No RSS2JSON API key, no paid subscription.
+
+ONE-TIME SETUP (DESKTOP BROWSER RECOMMENDED)
+1. Sign up/sign in at https://github.com
+2. Create a new PUBLIC repository named exactly: forbidden-realms-news
+   (Public is required for the GitHub Free hosting setup.)
+3. Upload ALL files and folders from this ZIP into the repository, preserving their paths.
+   IMPORTANT: The hidden .github folder must be uploaded, too. An easy option is to
+   unzip locally, then use GitHub's 'Add file > Upload files' and drag the folder's
+   contents, including the .github folder, into the uploader. Some browsers do not
+   preserve folder paths; verify the paths after upload.
+   Alternative: create each file via GitHub's Add file > Create new file and type
+   the exact path, e.g. .github/workflows/news.yml
+4. Open repository Settings > Pages > Build and deployment > Source: GitHub Actions.
+5. Open repository Actions > 'Update Forbidden Realms News' > Run workflow.
+   Wait for the workflow to finish successfully (green check).
+6. Open https://YOUR-GITHUB-USERNAME.github.io/forbidden-realms-news/
+   replacing YOUR-GITHUB-USERNAME with your actual GitHub username.
+   Confirm real headlines load and open correctly.
+7. Open GO_DADDY_EMBED.txt, replace YOUR-GITHUB-USERNAME, and copy the entire
+   iframe snippet into GoDaddy Website Builder > Add Section > HTML > Custom Code.
+   Set Forced Height to ~1100 px or larger as needed, then publish.
+
+HOW UPDATES WORK
+- GitHub checks Google News RSS around minute 17 of every hour. GitHub can delay
+  or occasionally skip scheduled jobs; hourly is an intention, not a guarantee.
+- The page refreshes its saved news.json every 15 minutes while open.
+- The published headlines are from external sources; not independently verified.
+- Links open the original Google News article link (which may redirect to publisher).
+- No images or full copyrighted article text are copied.
+
+TROUBLESHOOTING
+- Blank stories? Check repository Actions for errors and confirm site/news.json
+  is published. If Google News changes or blocks RSS access, collection can fail.
+- Missing news.json initially? Run the workflow manually once.
+- Wrong iframe URL? Use the GitHub Pages URL shown under Settings > Pages.
+- Only half the widget visible? Increase GoDaddy section Forced Height and iframe height.
+- No updates? Check Actions tab. GitHub may disable schedules on inactive public
+  repositories; re-enable the workflow if needed.
+- If you choose a different repo name, change the URL in GO_DADDY_EMBED.txt.
+
+This is a working source-code package, not a hosted live deployment. You must
+publish it in your own GitHub account once. No account credentials should be
+shared in chat.
