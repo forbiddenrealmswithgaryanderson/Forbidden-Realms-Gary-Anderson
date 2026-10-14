@@ -1,6 +1,6 @@
-"""Forbidden Realms automatic news collector.
+"""Forbidden Realms automated paranormal news collector.
 
-Direct publisher RSS feeds. No Google News redirects.
+Uses direct publisher RSS links, not Google News redirects.
 """
 
 import json
@@ -31,11 +31,11 @@ FEEDS = {
     ],
     "Bigfoot & Sasquatch": [
         "https://www.singularfortean.com/news?format=rss",
-        "https://thedebrief.org/feed/",
+        "https://www.singularfortean.com/singularjournal?format=rss",
     ],
     "Ghosts & Hauntings": [
         "https://www.singularfortean.com/news?format=rss",
-        "https://thedebrief.org/feed/",
+        "https://www.singularfortean.com/singularjournal?format=rss",
     ],
     "Space & Cosmos": [
         "https://www.nasa.gov/news-release/feed/",
@@ -63,26 +63,35 @@ KEYWORDS = {
     "Bigfoot & Sasquatch": [
         "bigfoot", "sasquatch", "yeti", "skunk ape",
         "wood ape", "wildman", "wild man",
-        "hairy humanoid", "cryptid",
+        "hairy humanoid", "cryptid", "primate",
+        "dogman", "dogmen", "mothman",
+        "cryptozoology", "mysterious creature",
     ],
     "Ghosts & Hauntings": [
         "ghost", "haunt", "apparition", "poltergeist",
         "spirit", "specter", "spectre", "phantom",
-        "paranormal investigation", "supernatural",
-        "haunted house", "haunted location",
+        "paranormal", "supernatural",
+        "shadow person", "shadow figure",
+        "possession", "exorcism",
     ],
     "Space & Cosmos": [],
     "Ancient Mysteries": [
         "archaeolog", "ancient", "egypt", "pyramid",
         "maya", "aztec", "civilization", "artifact",
-        "excavation", "temple", "tomb", "prehistoric",
-        "stonehenge", "ruins", "fossil",
+        "excavation", "temple", "tomb",
+        "prehistoric", "stonehenge", "ruins",
+        "fossil",
     ],
 }
 
 OLD_CATEGORIES = {
     "Bigfoot & Cryptids": "Bigfoot & Sasquatch",
     "Ghosts & Paranormal": "Ghosts & Hauntings",
+}
+
+SPECIAL_CATEGORIES = {
+    "Bigfoot & Sasquatch",
+    "Ghosts & Hauntings",
 }
 
 
@@ -107,6 +116,19 @@ def valid_link(url):
 
 
 def get_date(entry):
+    # Prefer structured RSS dates when available.
+    for key in ("published_parsed", "updated_parsed"):
+        value = entry.get(key)
+
+        if value:
+            try:
+                return datetime(
+                    *value[:6],
+                    tzinfo=timezone.utc,
+                )
+            except (ValueError, TypeError):
+                pass
+
     for key in ("published", "updated"):
         value = entry.get(key)
 
@@ -121,7 +143,8 @@ def get_date(entry):
             except (ValueError, TypeError, IndexError):
                 pass
 
-    return datetime.now(timezone.utc)
+    # No publication date provided.
+    return None
 
 
 def collect(url, category):
@@ -140,11 +163,9 @@ def collect(url, category):
     articles = []
     words = KEYWORDS[category]
 
-    for entry in parsed.entries[:60]:
+    for entry in parsed.entries[:100]:
         title = re.sub(
-            r"\s+",
-            " ",
-            entry.get("title", ""),
+            r"\s+", " ", entry.get("title", "")
         ).strip()
 
         link = entry.get("link", "").strip()
@@ -152,18 +173,30 @@ def collect(url, category):
         if not title or not valid_link(link):
             continue
 
-        # Match against the headline and short description.
         summary = re.sub(
             r"<[^>]*>",
             " ",
             entry.get("summary", ""),
         )
 
-        searchable = (title + " " + summary).lower()
+        tags = " ".join(
+            tag.get("term", "")
+            for tag in entry.get("tags", [])
+        )
+
+        searchable = (
+            title + " " + summary + " " + tags
+        ).lower()
 
         if words and not any(
             word in searchable for word in words
         ):
+            continue
+
+        date = get_date(entry)
+
+        # Don't invent publication dates.
+        if date is None:
             continue
 
         articles.append({
@@ -173,7 +206,7 @@ def collect(url, category):
                 "title", "News publisher"
             )[:90],
             "url": link,
-            "published": get_date(entry).isoformat(),
+            "published": date.isoformat(),
         })
 
     return articles
@@ -213,8 +246,7 @@ def main():
             pass
 
     now = datetime.now(timezone.utc)
-    cutoff = now - timedelta(days=90)
-    paranormal_cutoff = now - timedelta(days=365)
+    recent_cutoff = now - timedelta(days=90)
 
     unique = set()
     articles = []
@@ -228,8 +260,10 @@ def main():
         if not valid_link(link):
             continue
 
-        category = item.get("category", "")
-        category = OLD_CATEGORIES.get(category, category)
+        category = OLD_CATEGORIES.get(
+            item.get("category", ""),
+            item.get("category", ""),
+        )
 
         if category not in FEEDS:
             continue
@@ -242,16 +276,15 @@ def main():
             if date.tzinfo is None:
                 date = date.replace(tzinfo=timezone.utc)
 
-            limit = (
-                paranormal_cutoff
-                if category in (
-                    "Bigfoot & Sasquatch",
-                    "Ghosts & Hauntings",
-                )
-                else cutoff
-            )
+            date = date.astimezone(timezone.utc)
 
-            if date < limit or date > now + timedelta(days=1):
+            # Preserve older Bigfoot and ghost articles.
+            # Their original dates remain visible on the site.
+            if category not in SPECIAL_CATEGORIES:
+                if date < recent_cutoff:
+                    continue
+
+            if date > now + timedelta(days=1):
                 continue
 
         except (KeyError, TypeError, ValueError):
@@ -274,6 +307,7 @@ def main():
         articles.append({
             **item,
             "category": category,
+            "published": date.isoformat(),
         })
 
     articles.sort(
@@ -288,6 +322,7 @@ def main():
             item for item in articles
             if item["category"] == category
         ]
+
         balanced.extend(matching[:25])
 
     balanced.sort(
@@ -323,6 +358,7 @@ def main():
             item["category"] == category
             for item in balanced
         )
+
         print(
             "FINAL CATEGORY:",
             category,
