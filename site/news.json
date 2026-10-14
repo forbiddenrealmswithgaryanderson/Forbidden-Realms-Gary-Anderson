@@ -1,880 +1,432 @@
 {
-  "updated": "2026-10-14T00:28:04.894653+00:00",
+  "updated": "2026-10-14T00:53:02.612915+00:00",
   "articles": [
     {
-      "category": "Ghosts & Paranormal",
-      "title": "Default May Be the Tail Risk Haunting French Bonds - WSJ",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQclF0LWozQllldTNlRk1YT0ZRVEQ3eTI5OVVMaGxKYV9RSWdYdzVxaUxlaWpZSWhTcmV5LTdhQXN3Z1lPWG91VHpSak45dDBNamJTTnJ6eDQ3NG9vajJ4Yy1GbnFQS2RCVFNCUUk0bGJITkE4Z2hzZFhZbktIcThEQ2lpMlFiRlREY05CQkJlVGZKTUEwYmpQUDRKd2NnVGt6dTRLcHln?oc=5",
-      "published": "2026-10-13T21:25:36+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "Las Vegas, Area 51 maps released in 'Battlefield 6' video game - Yahoo",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6dmZBeGJ1TzFZR08wQzlROUx6RUtaNC1RS2lyaVlwcHlOR3lVVTdNNDFrdU56NHVxQi11SEpCT2FjM0pSbXZxdkxlYzlrT1ZxbjJ4enpDLU1NX18wNEJjM0xhQm0tRmVVOVpNTVpSRVV2cGZSWHdGdDg2OA?oc=5",
-      "published": "2026-10-13T20:47:00+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "Las Vegas, Area 51 maps released in ‘Battlefield 6’ video game – KLAS - KLAS 8 News Now",
-      "source": "KLAS 8 News Now",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmR6ejlSQ1BpRGdpQjZGcGJVdEJZWEpLQUY1c1c0Z3Jid0wxcTdRX0ZMTDJaSllXT0tCdk1lendkMm5VcnVfbk1ObmI4UHpXWnVrYnllQ2RuaFlWRDdrVnkyN2RBWk9hclNtek9CaUVxMjQtU1pvMVpCcmlkeGF4V25YZ0I1Yk5Nc0U3ZUI5OGUwbGVQdzRKbEo3Um1lOTAwbFE?oc=5",
-      "published": "2026-10-13T20:47:00+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "Las Vegas, Area 51 maps released in ‘Battlefield 6’ video game - KLAS 8 News Now",
-      "source": "KLAS 8 News Now",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcjB5MElfdEhUX0JBaTl1d1BLeWx5c3YxLUxibFJibEYxcENOSlEzeGdDeVVRMlFlakJxYXdkTUl4UkVRQmkweXB3SG9uLXVVc2pfSnlpVFNCS1VONmJnZFZ0c0xQbHRERkFsajN6RHRucUtVZjFjTXVXYmNKX1M3RjVhMHNXZmpub2xRVFotMVNSTFhW?oc=5",
-      "published": "2026-10-13T20:04:08+00:00"
+      "category": "Space & Cosmos",
+      "title": "On this day in space! Oct. 13, 1773: Astronomer Charles Messier discovers the Whirlpool Galaxy before we ever knew it was a galaxy",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-13-2026",
+      "published": "2026-10-13T21:00:00+00:00"
     },
     {
       "category": "Space & Cosmos",
-      "title": "NASA Completes Artemis III Booster Stacking, Shares Status Update - NASA (.gov)",
-      "source": "NASA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa2hpRzZqWGl4Zm1qeHV0VHkzQWNjWlE0RFFzNTFBY1JTQndiYTU2N1E1aG42Z1U4RXZGd0xiSU5ZVkMzZWNKbmNEaWNJNmg2UjA0Si10dkxDUnNRQjVEMHJDdGJ3RjFMOWRnSlpGOTNYWWJ1ZjNoYm85SW1NOE5fXzN4ZDhUX0xfX0dPalJRNEF0NVN0bm9VOXBKcXJOSmhvQzRhdmRzOV8xX2xsaXN1a1hR?oc=5",
-      "published": "2026-10-13T18:49:25+00:00"
+      "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/",
+      "published": "2026-10-13T20:41:11+00:00"
     },
     {
       "category": "Space & Cosmos",
-      "title": "NASA Launches CubeSats to Test Communications, Build Experience - NASA (.gov)",
-      "source": "NASA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVzJHandhZ3FybG5aWnczODlWbkQ1TDhvaVBVMDBBcnRxMVdhVVRUVVlvYXlSR1FIaWVQN3YzMnBmR251TVFfUmJOVHczbVBXMUdHMTR2Z2J3VW44bjVITzFlMFBWTWNxVjVnZUlnNFlNcFBZTHkyQUN4bjVveG01dDFzNlFqTklZa0VHT21QNndGb2pobTBxaE9sMlhlaXQ2RWZzTzI5Rmd6djV3SnNTNUZYNi1qdjBi?oc=5",
-      "published": "2026-10-13T18:49:25+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "Pentagon’s UFO Hunter Reveals Himself and What He Learned, Including the Video He Can’t Forget (Exclusive) - People.com",
-      "source": "People.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVUNfX2xVQm9Eek5TVUFIYlU3RmJKUkVLeUhhcHpJNlNEQU5kM3YtaFZSQXdQMWNMZi1yMkd6YWhKaENUYzdYal9fWHRpMkVoXzhJUlpCV21VMjdmN2k2dTRSTlRlLVJNanVvWTJzZDF0QlhkRGRIN3FrbUdMZWQ3UQ?oc=5",
-      "published": "2026-10-13T16:07:23+00:00"
+      "title": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/entertainment/star-treks-galileo-shuttle-warps-into-new-york-as-part-of-the-original-series-set-tour",
+      "published": "2026-10-13T20:00:00+00:00"
     },
     {
       "category": "Space & Cosmos",
-      "title": "Dragon Launches New Cargo as Crew Works Biomedicine, Advanced Space Tech - NASA (.gov)",
-      "source": "NASA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONG40Sl9menpoVmtqdWtJSzF5YWd5a2JmUTFzZHNaa1FEc1RDdHY5UmZFZVRKN2ZOZkJwTDQ1cmZTbUNwcGtvZ0VLQnY4NDNxQzFaS1lnVGNJYXhQRVFjeVFsOUw0R1d3MG9YN05MamRDU19rZkxLMjN6S29XYkJZMDI3VU9BbmxzbGdiMzJzTl9TMDhGeE9OUTlJeTBRZEFsb3hET1p3RDZOekZKNDI3bGxGQjdLNnJ4WW5wVDdYYjA?oc=5",
-      "published": "2026-10-13T15:54:23+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "Battlefield 6 Season 5 Adds New Maps, Modes, and a Dead Space Collaboration - PlayDayOne",
-      "source": "PlayDayOne",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFd2SnM0cUhuenN1YkhLRTZiRnJ4d2RyaGZ3OEFXTmlwYnNJQ1VHdDdJN2pBSFBUVWZlZjVoUmQySklxeGh3SXpTRHFIUXY5c2dzV0pCQ1hVM01xNzZUTDR6U2VHUUZLTE1sZTd3bktsRGVVMmFQRGswV0c4LUZSclNleXp6MERINVRJRWNGNVZBekVzQlFLTEJTbkM5dTRJT0lkc1M3Y28?oc=5",
-      "published": "2026-10-13T15:52:09+00:00"
-    },
-    {
-      "category": "Ancient Mysteries",
-      "title": "indie tribe Give Chaotic Interview After 2026 Dove Awards Win - Rapzilla",
-      "source": "Rapzilla",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY2IwVjVSNDVIMGxYX3AtbkRENlVXazdaSjV5STlzRGxLa3lPWnBiYTF4UnRlTmh1aldOY05rY2tDS2x5XzVQWmM1MHZuTXpUVVd3ZlFWTkptd0VoYTlicFo4SUFDcVVYUk1rVWhxWGlHMklOVm1HRE5JUDQyNGNhR0VIdzJDLVk?oc=5",
-      "published": "2026-10-13T14:11:02+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "A Man Says He Found Bigfoot’s Dead Body in New York—and Has the DNA to Prove It - Popular Mechanics",
-      "source": "Popular Mechanics",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2N3dNU3pvNkNId0NmcUtRY3Y5V1NpYjJpeXVRVURLREZ3b2lDVUEyOVB0aTBOdWRmaDE2dktYY0hKTkRGM3hWb2hKaXB4dlVhcjNSbHpfbUh6MmlRVDFraG53QW9jdlFFY2xUZjUzMDNmXzRRTGtIM0Nua2xxZw?oc=5",
-      "published": "2026-10-13T13:30:00+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "Digital Data or Material Evidence Please; The Time is Ripe to Go Beyond Verbal Testimonies on UAP! - Medium",
-      "source": "Medium",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU2tObkE2NzlZWW1zR2d3enpEaTVMUERPaXVoSGJBbTNRZ0QtclA0NkhpVHc4bUVEb3NLT1dzbHNDWUd4SkhzeDVNZ2xEMTFiSGdZRUlzN0VmWXFqcVNwb1hZemFZY28zMC1KOHU0djVXck5VZ0JXUW1zYW90ZzcyUDVCS1NEZ0JpVF84T2Q3RzE5aGgyQU5UeVZCelI3dGR5QTVYb0FyWDZKVFZNS2VRVzJoMlZXQ3JXcVNYei1Eal9RYWNwdUUxZHI3UGN0N3p3djhZ?oc=5",
-      "published": "2026-10-13T13:24:02+00:00"
+      "title": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
+      "published": "2026-10-13T20:00:00+00:00"
     },
     {
       "category": "Space & Cosmos",
-      "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission - NASA (.gov)",
-      "source": "NASA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTXBQVzFTeXhydkFHdjA0azdxb1A2ZjQwdnpRRVB5SlMxVEx6U3JoS19BNng4d1hmeEc4OE8wZGRPb3lZNEVHMktRWVlra3JEWVlieEc5TWVhbkstVXNGODBZbzNVLTYxc29Ia2lkSXE2RVpFWllOcm9OQlNyVVlNbC02T0owMmV6V0ZOcjlzRDE4ZC1BY3oycGNMdFU1ekZoQ1Mybm5pYlJlb0dpcW84?oc=5",
+      "title": "Earth's poles shifted surprisingly fast during the age of dinosaurs, ancient sea levels reveal",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/earth/earths-poles-shifted-surprisingly-fast-during-the-age-of-dinosaurs-ancient-sea-levels-reveal",
+      "published": "2026-10-13T18:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Comparing Off-World Rover Driving Distances",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/",
+      "published": "2026-10-13T17:56:08+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA’s Record-Setting Perseverance Rover Team",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team/",
+      "published": "2026-10-13T17:48:46+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "How to watch 'VisionQuest' online — stream the MCU's 'WandaVision' spinoff series from anywhere",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-visionquest",
+      "published": "2026-10-13T17:45:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Perseverance Navcam Image Marks Record Drive",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/photojournal/perseverance-navcam-image-marks-record-drive/",
+      "published": "2026-10-13T17:42:51+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Transporter-18 SmallSats Encapsulation",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/transporter-18-smallsats-encapsulation/",
+      "published": "2026-10-13T17:38:37+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "New solar model maps sun more accurately by checking far-side activity",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-solar-sun-accurately-side.html",
+      "published": "2026-10-13T17:20:20+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "JOB OPPORTUNITIES: NASA OFFICE OF THE GENERAL COUNSEL",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/organizations/ogc/job-opportunities-nasa-office-of-the-general-counsel/",
+      "published": "2026-10-13T17:16:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Voyager Technologies’ Griffin-1 Completes Environmental Testing at NASA JPL",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/photojournal/voyager-technologies-griffin-1-completes-environmental-testing-at-nasa-jpl/",
+      "published": "2026-10-13T17:11:11+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "SpaceX rocket launch creates incredible 'space jellyfish' visible throughout US East Coast (photos)",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-creates-incredible-space-jellyfish-visible-throughout-us-east-coast-photos",
+      "published": "2026-10-13T17:02:48+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "2 spacecraft in orbit and 8 more coming soon: Varda has big plans for in-space manufacturing",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/2-spacecraft-in-orbit-and-8-more-coming-soon-varda-has-big-plans-for-in-space-manufacturing",
+      "published": "2026-10-13T16:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Structure in the unstructured: New phenomenon discovered in the solar wind",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-unstructured-phenomenon-solar.html",
+      "published": "2026-10-13T15:20:06+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems: A Two-Mode Interaction Perspective",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
+      "published": "2026-10-13T15:02:21+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "'Space Gal' Emily Calandrelli launches into the Marvel Universe this week on Disney Jr.'s 'Iron Man' series (exclusive)",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/entertainment/space-movies-shows/space-gal-emily-calandrelli-launches-into-the-marvel-universe-this-week-on-disney-jr-s-iron-man-series-exclusive",
+      "published": "2026-10-13T15:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Webb spots possible early-universe supernova just days after it happened",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-webb-early-universe-supernova-days.html",
+      "published": "2026-10-13T14:50:01+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Planetary systems reveal two distinct families tied to their host stars",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-planetary-reveal-distinct-families-host.html",
+      "published": "2026-10-13T14:20:46+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA's Perseverance Mars rover breaks interplanetary driving record — and it's far from done",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-breaks-interplanetary-driving-record-and-its-far-from-done",
+      "published": "2026-10-13T14:14:29+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Astronaut captures mesmerizing auroras with iPhone from ISS | Space photo of the day for Oct. 13, 2026",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/stargazing/astrophotography/astronaut-captures-auroras-with-iphone-from-iss-space-photo-of-the-day-for-oct-13-2026",
+      "published": "2026-10-13T14:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Space waves reveal where Earth's magnetic shield is under pressure",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-space-reveal-earth-magnetic-shield.html",
+      "published": "2026-10-13T13:00:18+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
       "published": "2026-10-13T13:00:00+00:00"
     },
     {
-      "category": "Ghosts & Paranormal",
-      "title": "‘A Haunting’ Lands 16 New Episodes, Its First Since 2022 - iHorror",
-      "source": "iHorror",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Gd0VVT0tnOXVKZGdmSU1GTTI5UnM5YkJXRjdRaHppTjVPSUR1c19sQ1NXVDJ2cTJhYkNoNUFUbWo5U3dFaG1wbDVnZFB0ZWZXZUlyZG9OQkJrb2tmZi1lMXI4V0liS01KNVU4MlFFMU42Ty1ETVFMWG5B?oc=5",
-      "published": "2026-10-13T11:41:46+00:00"
-    },
-    {
       "category": "Space & Cosmos",
-      "title": "We're Zeroing In On The Source Of Unusual Ghost Particles From A Supermassive Black Hole - IFLScience",
-      "source": "IFLScience",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeDJaTWJIY2NneUQ3R2JzZDR5aEtkSnlKVW1xLTNja1dkZUtBcEVqWlYyYjVNV0dNUlBJb1Z3Q1N3amsxNFVqbnRsZ3A3WW9zRVZKc0w3T0w0cUYzdjRvRHdpNXRsRE5WXzQ2b2RocFZoS0djSVdlMExFbEUtUGdfNF9GNHJkXzVuQ2h1enA4VlB5Rm5fYTJsQmh5dWVjXzlBVC05WmM0ZUk2aHFTR2VuSUt4aDYyX1RJUWVTVA?oc=5",
-      "published": "2026-10-13T11:36:13+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "How Larry Kirchner built a business on his mania for haunting - St. Louis Magazine",
-      "source": "St. Louis Magazine",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRDlJUWZoM2sxNW9EdFBzWkJjU2JLWTc4TnJwMXdiY1I2ZEltbGhGdnc1T1pNbUlEaHZkbFlhTFpXY1dncGFXSWFacVhQNi1hZmk3Mkl5U1dMRlk5UjZJOF9BUWttMXZ5aF9kSUNURi1CZlV5ZEJiZE5rZ1lxRERzSw?oc=5",
-      "published": "2026-10-13T10:50:00+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "Propagate Content Adds Four Docuseries From Monster Films - IMDb",
-      "source": "IMDb",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ybVRfX0NNcG01c3RoUWktLWhRdTZYaFFtVE5lRU00RFdLbDRkNWFSbWxPQVY5RnNoN3dxbmh6azFReF9GeG1SMFJSVU8wSllKLXFwaExxTzZyX2pIQTZPTEFwNjU?oc=5",
-      "published": "2026-10-13T09:53:58+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "Nuclear Armageddon will wipe out one major city declassified documents show - Daily Star",
-      "source": "Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDFXcC1CZzAwaG9mcS1BekdXc19UanJzMkFEaGZRaFdPUjhwQU01ZmhTRE9OcWF1b1RSMm95b3JtTTVHZjVROWNvOEV2T1h5RFFGRHlNLXVCMzQ0TW0wdGNPUFZYZHdLUnNqaFgtNmRNOV8wYkJXeFhMTVdTcGIxSktPeTdnY3Jwb0hkSQ?oc=5",
-      "published": "2026-10-13T08:05:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Vodka, Burgers, and a Black Hole: How Sweden Learned the Limits of State Ownership - Cato Institute",
-      "source": "Cato Institute",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNDlQTGUyVGg5UEFpREw0aklFYWN6eWxmN0FkTE82aWluN2RoRjNhWGF4a2lESDFOODh1NS1USTl1M0pFRmlRQVgwNk9TNjdJbE5qYW01Z2l2TVdpWGJSV05zN2VQaUN5VFZ5YlpBZ09ZU1BsWFVWM3Q0NEs1cVBkSk0yZ3lGSXZFa3g0T2FFSE0yZGo1RFRTNkdHU2w2QTE2SWZFeW1Ta0Vqbzdmazk3Q3dLcw?oc=5",
-      "published": "2026-10-13T07:00:00+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "Propagate Content Adds Four Docuseries From Monster Films - Deadline",
-      "source": "Deadline",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUzNYSG5MaUVxWGIzYzZ1bVNSYlVCLUdqVGZWdmFJbktvNE92RlpfWFBXRWZDUnJDNDVyVkZ2SWVic0ozSGlUZFZzV181ajNZNVJYU05sdkZvNXJmb3RraEg5NW5lWmg5VjFDS0JValo2WG5wTVQtVWZWYkN3LUZjbFotN1AzLVh4a3pz?oc=5",
-      "published": "2026-10-13T06:19:00+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "Why Ross Coulthart says NASA’s UAP disclosure isn’t complete - NewsNation",
-      "source": "NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ3FRODNlSzVONkdSRl9TcDdScUtJdHRBV0ZIRkpXMEJwR1FWajAzM2Nsdk1BYVlJQUJtM2c0bDdxQkUyRFpmOGpUTllBakZlMXl2al8zRFZjUzAzTklsdWpKMTRYM3Z1UElfMWhCOEhZbFFRNzRtSzB6RDV4elJNR3h1aEtTZVNLNUgxN2xxWdIBlAFBVV95cUxPZHRqbG1wSFhQRGR3M0xIV3lqcGdkU1JzTng2cDZKYXhYUXA3LWRFNFdaSUU3UXhodk5GbDM4clUybkEwUVlSS3dIMjV1OFE0aXlBNy1sSFgycDNsVE1IcG5zbVpvUEV4SEowYUZiNEdHX1ZQQzFJNUhWUUw0d1V6eVg3R3YxMkdoZjhkc1hMaTkwVFpN?oc=5",
-      "published": "2026-10-13T05:17:41+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "Blacksite Area 51 Review | Botluck Productions - YouTube",
-      "source": "YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sZ1RHMUdyUGpXYUhURVFpUXBqdWdTd1FHYXJsYjdBSU5kMGNXMVlvd2VNRVdtSzJEaWhHOXBTcXBLbHVWeE9XSTljYXRQUC14Y3ZfR0dzMG5YdVFP?oc=5",
-      "published": "2026-10-13T03:00:14+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Cynthia Simmons - NASA (.gov)",
-      "source": "NASA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXWVVGNG9YdjFhQk50b01JZ213UTFYZnNGZGtaeEV5NW9FM1Fxb05RYjNyZko2QTFvNjRpczBPUVJKOWVmQVJESjZqMXF2OXpJVTVCd0JsSQ?oc=5",
-      "published": "2026-10-12T22:12:06+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Super Intelligence - NASA (.gov)",
-      "source": "NASA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5",
-      "published": "2026-10-12T22:07:44+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Unique Conjunction Events - NASA (.gov)",
-      "source": "NASA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02bVl0Y05JalZuNFNTVDg3RndOaGpDcUhFS3dmZ1dGS2NuM1Vzby04a0FxSC1kbTVxR1Z1UnVDT0pvZ1B6QzJXMzZIQ0htR25YYmRFYWRmN3ZubjJwUjUyMFZn?oc=5",
-      "published": "2026-10-12T21:59:38+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Astronomers witness supermassive black hole gorge on a cosmic meal before 'burping' radio jets 300 days later - Space",
-      "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRGgwYldJRUZobEY1MF9XQk5rZVBWU3lWQ0pUVFVwVHljOWJRX0M0UElmQlZvM082Z241a1E3Z2hkRzhKSmZzNGhrdjVoNVNNMGVZMmM0Y2VlRVQ3SUNHeUJtWXJieC1OSWRUa0lOODJPZkUzUXNYWHdKTFlNNERkeUtieUlyVWZRaDI4eTNkOXNSUXpKaWRrdFVwSFFHSWg1OGZ6aVFBWG1sOFNMM3lGeGxlV2JhOXViUS1INzNSc0lnUkdwMlpqam9WdExyZmdzMEFscTlHZkk3WjFPRkd1cXB3MndWcW8?oc=5",
-      "published": "2026-10-12T20:00:00+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "Midwest Access: Haunting with Hawk Ghost Tours 2026 - KTTC",
-      "source": "KTTC",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdjE3bUc3dXJ3YkZoMGVaSTlGTFhBREZEcVhpM04wQVNHMjkzaUVSTXc3TWFXa2tPREhEcW9ENjF5LWpncWZJQVFkYi11RmNRdFdjWnhrblhGdkFLV3lPZzctTGpxYUl1T1VlaEVoNUoxXzlZNnZKVDhLRTFZYnVqaTJTdXpkUFB6V2xvTE5jN0FXNms?oc=5",
-      "published": "2026-10-12T19:50:00+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "Will a film made in Bremerton answer a secret about Bigfoot? - Kitsap Sun",
-      "source": "Kitsap Sun",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZHlCVGExNllCc1hiOEF6dnpZY0tZR0NkbHppNE5LbmpXdUJTU3pnVmVHVGlpSE40WlZaWG9DZXFkMGV3NE92eDhGNU93SE84dXkyQ29LeEFQZmRrMm1aOHhvZTFMaE5sLUhoekM2R0Ywd2dLQm9wZ0dVUFQ3SWU0eWVhaEcyeXJSUFl4bGRnSlhHOE9HQjZ5Y0QwdUxDcG9tNmZYUVM0ZXc3ZV9DQURabDhBUGQ5WW56MC13RU8tYW04SXlvOGxr?oc=5",
-      "published": "2026-10-12T15:56:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Black Hole Grown In A Lab Traps Sound Waves In Wild Physics Experiment - HotHardware",
-      "source": "HotHardware",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHdXWWRreW4yelB4bENXaURRSW9NVEpVTGEwb1ZpU2ZXVzdVd1lRSkhvWW9XM0p4RkhtSWZ1WWU4ZmN6cmxNVG5XVVdjZ2pSYXJyUkhabWNVYXJhX193RWNTekVhNUFpVUE1OUpIZlZhZ3NUbjdQU1ZYQ1JPLTlfQ3NJcE9PdGpJMXpFSmxYOHJwWlNNTFh3WlhvVm9xdGFG?oc=5",
-      "published": "2026-10-12T15:48:00+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "Hands On! Discovery Center hosts Boo-seum and Haunting Tales - WJHL",
-      "source": "WJHL",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY014azVUbmowSDF5VEpvMEN2NEJpRzN1Z2pVNkJZTkg5Z1RfUWJ3WEs4cUhRNmZCa2RJT19kaEtqSUFvaWtlR0swUDJQdzV4aFY1OExpRV9uMk1kWUdJQlByazVxMC1xWFFHc29OUGdQeEZKRllrSWVkQk5ramhaYzVWV1JudVJDQVZNYWt0VmZYYXpZTGJnQXRsWko?oc=5",
-      "published": "2026-10-12T15:25:28+00:00"
+      "title": "NASA's SpaceX CRS-35 mission to launch health research",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-nasa-spacex-crs-mission-health.html",
+      "published": "2026-10-13T12:00:02+00:00"
     },
     {
       "category": "Ancient Mysteries",
-      "title": "ITV The Chase star exploring UFOs in 'mysterious' new series - Liverpool Echo",
-      "source": "Liverpool Echo",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWUtKSWRpUE5yWHJ4SjUwNWRJcml6eW44VGcwd0dFSTBla1Q0SDNqYTdfNlhyTFRNZTZ0bXlHUFhnbUpncHJxOHJZdFljeE5tQms2RGh4TFZGNDVETk9SS0ZYN19VdG5nMGtvTC1COHJ5OFVZYUp2cTJ5Vk1oVjBkX0swWHpPVlV5VFHSAYoBQVVfeXFMUFlLSklkaVBOclhyeEo1MDVkSXJpenluOFRnMHdHRUkwZWtUNEgzamE3XzZYckxUTWU2dG15R1BYZ21KZ3BycThyWXRZY3hObUJrNkRoeExWRjQ1RE5PUktGWDdfVXRuZzBrb0wtQjhyeThVWWFKdnEyeVZNaFYwZF9LMFh6T1ZVeVRR?oc=5",
-      "published": "2026-10-12T15:25:00+00:00"
+      "title": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008005256.htm",
+      "published": "2026-10-11T00:45:37+00:00"
+    },
+    {
+      "category": "Government Secrets",
+      "title": "Scientists Discover Ancient Genetic Shake-Up That May Explain the Extraordinary Intelligence of Octopuses",
+      "source": "The Debrief",
+      "url": "https://thedebrief.org/scientists-discover-ancient-genetic-shake-up-that-may-explain-the-extraordinary-intelligence-of-octopuses/",
+      "published": "2026-10-10T14:37:24+00:00"
+    },
+    {
+      "category": "Government Secrets",
+      "title": "Flying Through a Magnetic Switchback, the ESA’s Solar Orbiter Provides Crucial New Space Weather Data",
+      "source": "The Debrief",
+      "url": "https://thedebrief.org/flying-through-a-magnetic-switchback-the-esas-solar-orbiter-provides-crucial-new-space-weather-data/",
+      "published": "2026-10-08T18:27:12+00:00"
+    },
+    {
+      "category": "Government Secrets",
+      "title": "Mysterious Death at Russian Plague Lab Sparks International Alarm as U.S. Officials Seek Answers",
+      "source": "The Debrief",
+      "url": "https://thedebrief.org/mysterious-death-at-russian-plague-lab-sparks-international-alarm-as-u-s-officials-seek-answers/",
+      "published": "2026-10-08T15:49:03+00:00"
     },
     {
       "category": "Ancient Mysteries",
-      "title": "Bradley Walsh returning to screens in new series after confirming BBC show exit - Daily Express",
-      "source": "Daily Express",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa0toRkVvakd3YWJOV1FjYnUwTmRfVTFjMHAwZXc5cHBjNWk1bEN1aE5xNDlfM3pIbkN5UEpLbFFPRlNmaDlkUjZnczJYd3hiWDNnQlFSZFdJUW0yZFl0S2FoNkZjdzJJTmVzT3NIS3V0TWdOUmtGb214bFN4M1NtSGV4MGdWejBMbnMwVFRYSXRYdjdpX3l3aW95UEd3WkRRWHB5RFV0NUxhazNiamxSVzhMeEpmSmNzVXVWMmpNMnFoaGNXV2840gHHAUFVX3lxTFBrS2hGRW9qR3dhYk5XUWNidTBOZF9VMWMwcDBldzlwcGM1aTVsQ3VoTnE0OV8zekhuQ3lQSktsUU9GU2ZoOWRSNmdzMlh3eGJYM2dCUVJkV0lRbTJkWXRLYWg2RmN3MklOZXNPc0hLdXRNZ05Sa0ZvbXhsU3gzU21IZXgwZ1Z6MExuczBUVFhJdFh2N2lfeXdpb3lQR3daRFFYcHlEVXQ1TGFrM2JqbFJXOEx4SmZKY3NVdVYyak0ycWhoY1dXbzg?oc=5",
-      "published": "2026-10-12T15:17:00+00:00"
+      "title": "Archaeologists may have finally solved a 100-year-old Florida mystery",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261004001835.htm",
+      "published": "2026-10-06T12:41:48+00:00"
+    },
+    {
+      "category": "Government Secrets",
+      "title": "NASA Officials Reveal New PRIMA Space Telescope Will Peer into the Unknown by Exploring Mysteries of the Electromagnetic Spectrum",
+      "source": "The Debrief",
+      "url": "https://thedebrief.org/nasa-officials-reveal-new-prima-space-telescope-will-peer-into-the-unknown-by-exploring-mysteries-of-the-electromagnetic-spectrum/",
+      "published": "2026-10-05T13:21:23+00:00"
+    },
+    {
+      "category": "UFO & UAP",
+      "title": "Strange Signals Were Just Detected Coming from an Alien World—and They Reveal Something Astronomers Have Never Seen Before",
+      "source": "The Debrief",
+      "url": "https://thedebrief.org/strange-signals-were-just-detected-coming-from-an-alien-world-and-they-reveal-something-astronomers-have-never-seen-before/",
+      "published": "2026-10-04T15:05:00+00:00"
+    },
+    {
+      "category": "Government Secrets",
+      "title": "A Mysterious Life-Sized Carving in Sudan Has Long Baffled Researchers—Now Its Secret History Could Finally Be Revealed",
+      "source": "The Debrief",
+      "url": "https://thedebrief.org/a-mysterious-life-sized-carving-in-sudan-has-long-baffled-researchers-now-its-secret-history-could-finally-be-revealed/",
+      "published": "2026-10-02T16:56:08+00:00"
     },
     {
       "category": "Ancient Mysteries",
-      "title": "The Chase's Bradley Walsh lands new role away from ITV series - Daily Mirror",
-      "source": "Daily Mirror",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaEw1ZFY1R2xtWFBVMnpLaUtvdW9BbUhzcXAtREw5aDNzN0toREw3N2Z4aVdleTMtcGJRZFZsbVdzVHkxQWNwQldobXh3aG5ZeVVyYmVXdlNZUGl0bmJuZTBfTjZLeUdNVmppMTltbG1BSGF5STBQMndLeGtNTzJvYdIBhgFBVV95cUxNU1djVm96a3pFUms1bS1xOXFCenhEdWpxMHZSWEtGMEdhbHN2OWNhTjkyTnN0ekZ1UFNTOThDZXVXOTEtN3gtWFA4N2lXY0NPSVRsZjdLV1ZfT1J0Ukt4cDltRmlYYjNaaHBvajQ5SlBEbTBTODBtcUNtcVExTEFOUEdzMEMzQQ?oc=5",
-      "published": "2026-10-12T15:05:00+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "How the impossible geometry of 'Tomb Raider III''s UFO level was made - Space",
-      "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZmxMampqdVlPSTRzc19HRGFFMURKU1hqdmRmZ1VWZWc5SlpPeGUxdnhoZEs3TmNoRG5Wc21HUWVha0paODJLcnREcnEzX19ZZngtN1ZiRzBDU2JlXzJVLWd0Qy16X2ZIbkxzTXpFWmlXUnJ6cncwTWVodVcyWW1CRkxnUkVGM2xzVGRMdmowNVlyMnJFY002UUkzNmtiTnMtUkhtMzRZa1VHZ2h1VEo4eUJTRDQ?oc=5",
-      "published": "2026-10-12T14:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Yes, scientists have captured real images showing black holes and their ferocious power. Here are some of the most spectacular - BBC Sky at Night Magazine",
-      "source": "BBC Sky at Night Magazine",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TVTJxTW9VcDFNXzN2LXhWZ1RRbFV4QVpTVGJQVDE0WENqX2NqbVFZYUp1M3FVVm1LeW4wTE1qSnNGaHRuem5KTzdpNFRZZmVwLU1VMTZlR1NwQWYtRUhWRUkzSzlmM1BTWGxkbXBKOXZYMnFhUk1NNGJ3TDM?oc=5",
-      "published": "2026-10-12T12:27:26+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "‘The Haunting of Bly Manor’ (2021; Season One, Episodes 1-9); Review - Substack",
-      "source": "Substack",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IMDBicXA0YVlWdVlpVzA3anM1VXBGclozWFpSSUQ5Y0dXX2NMWlNtaUJULUV4T2RtODVab2tCODgyM2F0ZUVnOGxabzM1UERaQk01SkNGdVpLU0E1QWdOaXlKNlBJcmxFOUljQ21vRDJ2dFprU3M5bXowaDBENmM?oc=5",
-      "published": "2026-10-12T12:14:40+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Physicists Built a Black Hole in a Lab. Then It Swallowed Sound. - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY1Z2XzdaZ21WTjEzbkpuX1RSTGtYWWgyT0tQZFZUZTJtTUJNcE5ZNnFiX3B5enRaSjBqaGxGc0NGMExYc2EyMS1CS0VrRmFNM0RQMmQ2dThFaDNRT3BXaExmVEtmajduZVRaQTFfN29sdU1iT3NrUmVGZzA2dWRYZHV0ZlNVOUE4R1JGN2RXb2d2TG1MRVE?oc=5",
-      "published": "2026-10-12T10:00:14+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "'Portrait of a Haunting' - An Eerie Story That’s Full of Heart - Out South Florida",
-      "source": "Out South Florida",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU1ZtM0xtell5MzM3TnNfQzFjZXV1dDBVWnd4Ul9WTDZuaGJNdXZ3LV9idm95Tm50dEtUVzFEU2R4SzZxdkJOc2k0eHJSdVdhZWhBVXgzQ2NpU3MwVkc0Zzh2MzV6U3hPcnE2ZzNCV1hTUWdDbFRhdFRnNmFacG9uTGpkVkF3cFA3Q0Zqa2s0d1pvZGNiRGVZ?oc=5",
-      "published": "2026-10-12T08:57:12+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "'A Haunting' Revived At Radial Entertainment With Jupiter Pictures - Deadline",
-      "source": "Deadline",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWkgtbnpqNjh0SVo5bWtRcjhMTGdOcjhqcW9SV19BdmpHOTNGVzVwcVplZHpJaFFuTEdyWk9nUk5hZzBfMDM5NkxLU1V6U0xod1p6SGZ0eDlnX3NFa2lCQlVGM0FuU2ktVXlwdjZQdkFCa2kzRDc0ZVlybmVPZThyS2NkWHNRazhSN1NET0k1c1dWbGNpZkJNdm1NczJnUQ?oc=5",
-      "published": "2026-10-12T05:26:00+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "Crossville is center of Bigfoot universe - Main Street Media of Tennessee",
-      "source": "Main Street Media of Tennessee",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMlVZLUdZaEp0Sm1KZndEYTVpRWdvMnJHSXJ0VDcwLVVkQ0F6bnFOVzJjTmFfUWdrd081azVXaF9nMjJjd2t5MGhINVNxSE5Td2hkME9vUE9uVVhsVkpYamJfU2kyem9mV0lVZFV5bkM5ckFvZ0dFcE1UelVLOEZSd3FabGFBY2Z4VjNuODljTWdlX191ZGxvdHBGSlkzbGROMmttSF9R?oc=5",
-      "published": "2026-10-12T05:11:11+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "Discover Bellevue’s haunting history at Boo in the Vue guided ghost walk on October 16 - Northern Kentucky Tribune",
-      "source": "Northern Kentucky Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcHNIOUxvNFpMLXpWNGhKWmp0UzlCVklFNm4yOHg5TGtlUnJTNktOTUVJZEFXNnVMendveWhFZTNwYzV0RktPTmNlelUxTHBKVHlzMnRQRW4tMWMzNnV0UXdmUm1XRTFKdWhiSWFlWmVOVW9uUVRhOGxEZ0hXNG1idjdZZU0zc0hEUERfU0FlNFBldHEtMFg5YkdCM01GOFdzcVk5cXI5UUxyVUVjc1lQSk5uR2o0RF9C?oc=5",
-      "published": "2026-10-12T04:34:36+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Three quantum-inspired cores leave opposite fingerprints on the ringing of black holes - Science X",
-      "source": "Science X",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMFdjck1Jc0NUSlRDNEtSVXViTjlHYUlTX1o5bExsODF4RE0wQkVnMmhFbzBlQ2JfNm1DZmJvNVBWRnJQc3NOdTBtcmtKUmZMWEhOcG5GZldrMENCY2FRVi0wVTlSdDVvNENhZW93eDMzc2tqRHVaanRkVVBteDdhMDNxUFBxa3g40gGIAUFVX3lxTE4wV2NyTUlzQ1RKVEM0S1JVdWJOOUdhSVNfWjlsTGw4MXhETTBCRWcyaEVvMGVDYl82bUNmYm81UFZGclBzc051MG1ya0pSZkxYSE5wbkZmV2swQ0JjYVFWLTBVOVJ0NW80Q2Flb3d4MzNza2pEdVpqdGRVUG14N2EwM3FQUHFreDg?oc=5",
-      "published": "2026-10-11T19:44:48+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "‘The Haunting of Hill House’ Meets ‘From’ in Apple TV’s Forgotten 4-Part Horror Series - Collider",
-      "source": "Collider",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcVZVa1JUclR6RGRMRTh6T1RrTmlxSEtwSFMzbjE2cTlFeURUdEpwQlRPM1V3XzNPNDFqbm1TX3BMRU5Uejhjb21yNk44MGNsRmVwSE1Zci03TUVEVHNsZTg5c3UzeDExLVI5QXZMREx4S0JVQVV1OWphUlpZQldsU3B1ZlRDUV8tWkNtVjYwaDFGNW8?oc=5",
-      "published": "2026-10-11T17:58:11+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "They Saved a UFO-Like Home From Demolition. Now It’s Landing on the Market. - Realtor.com",
-      "source": "Realtor.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTVJOMm5pakFFQWtPamItT3VJNTB0ZThhS25Ec0NZTEUzeHRQQUE1UmY5QVQ3U2xsc2tWaktGVUViZlFPblJhSlhONk1sb0xBZ2tpWjE0Y2d2Vmdjc0taM0dwSS02REVKRXJvdjdkeGlVWHBkUVZVOWxDVnJqMTdobVp1ZDl4Y1lxaU5hTDY3eTY2U0pCOVZ3?oc=5",
-      "published": "2026-10-11T17:37:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "A Star Getting Shredded Leads To Surprise Discovery Of A Roaming Black Hole 1 Million Times The Mass Of The Sun - IFLScience",
-      "source": "IFLScience",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY0RzdE95bkY2bklaXzlMZUs0b2YwUHdoZmxHYXBHWmpELWFmNWNaRWY0RHJlUUlFbDZXNkluVVZJamEzUENDbWRsai1hU19tUFJZeFlwRk5lR3JOYTVtRWd3aUhScHpYNXo3YnQ4WS1oelNORlNkbHBjamRfXzZJdFpXNVlPeklEZHZwVGJQU3FDV3JpNWJSQi0xWXdHbC1fWnJjeUtqcG5vY2Ztak5ZNFZKT0NPbm9IcmhCRWQtN2g2Q2x5RzVzQ3hiSDZoSHZhbVVkRGxnWG4xUDly?oc=5",
-      "published": "2026-10-11T15:57:28+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Astronomers Discover a “Universal” Trigger for Black Hole Jets - SciTechDaily",
-      "source": "SciTechDaily",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0pQbTZfazJ6U0NfdE5NdWtMdEE3dWp3LXFUSENPRFFFaVJIRzI1S0V0eV9EWUdrU29BU292VV90eVUycnNYV3M0TF9EX3ZQOG9pcEdxbWZHRS1GVUZENnpVLW5WMktSZ2NFWDQ0VWNJZE9tMUhkU0l3YkxfV1Q0NWR0cHhXN2dJbElod2hNTQ?oc=5",
-      "published": "2026-10-11T15:28:06+00:00"
+      "title": "97-million-year-old fossils reveal the earliest known animal “GPS”",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930020329.htm",
+      "published": "2026-10-02T11:54:34+00:00"
     },
     {
       "category": "Government Secrets",
-      "title": "'CIA showing us a big middle finger!': GOP Senators explode over COVID cover-up in fiery hearing - The Economic Times",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPRXgtMFptMHYwSjZ5UmltZUtxQy1XUkpCdWNkaFo1TzhJcjJVZjl4aGRzSGxQVmlkVjkzTDVVMXlQQkJycVNQYzZPa3ptSGlFYXJGeW9QZlZmcW5ITWREc25vYTV4aDdoS08yTjRRNXUxTExocHN0c1R1UmVDd2Y1Nkt3S0R1X19IQW5yS253ZEtVSXExZFNhS2h2aW9QYnBrMGNiVXhWdjF2MHdsNFFlVlVMLVFSVVFKcjRiRlBQc0I1aC16Vko5X1ZCS3R1Zno2Y2lFTkhnRGNqOW80Um5fSE5YeHVSNEd5UTgyOWFGb2xYWjRLWXBEaHh5UDJ3c0FXTFo0R3o4aHlud9IBigJBVV95cUxPRXgtMFptMHYwSjZ5UmltZUtxQy1XUkpCdWNkaFo1TzhJcjJVZjl4aGRzSGxQVmlkVjkzTDVVMXlQQkJycVNQYzZPa3ptSGlFYXJGeW9QZlZmcW5ITWREc25vYTV4aDdoS08yTjRRNXUxTExocHN0c1R1UmVDd2Y1Nkt3S0R1X19IQW5yS253ZEtVSXExZFNhS2h2aW9QYnBrMGNiVXhWdjF2MHdsNFFlVlVMLVFSVVFKcjRiRlBQc0I1aC16Vko5X1ZCS3R1Zno2Y2lFTkhnRGNqOW80Um5fSE5YeHVSNEd5UTgyOWFGb2xYWjRLWXBEaHh5UDJ3c0FXTFo0R3o4aHludw?oc=5",
-      "published": "2026-10-11T14:44:00+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "Week in Review: Zapruder Film Redux - JFK Facts | Jefferson Morley",
-      "source": "JFK Facts | Jefferson Morley",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VZTFocjluUHpRc3JZR0dMSGFUNVhMM2dMSFpqQlNSMnlha0RDeU13d1BacnNiUk5CYzJ1UnJBQl9rY2VjaVZSYkVNMDdsZlBScTZ6TXlEVUVfZHkzUlhTZmJRUDZDWUxmbGx4bXNZa01CVWNy?oc=5",
-      "published": "2026-10-11T13:15:42+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "The Haunting of Hill House review – a slick and spooky fright night - The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSURKRVRVb19GMnhvcGwzMjgxNW40SlZYa0lnOFN4Y21sR092LUJpdTVzWWIxcTBvZ3g3cTN6SzhZQy1IWkNtWUI2dkdKUXlxZDY3c1EwUWJIU0RiYnphazVOeFFzeHI4cXNybk54ei0xRGswNG92Ukt1S2RRQ0E2cDIxaFJQVVJJOGRuM2Q1bmZXRDlfWGdfNktEQWVNZDBtVHFN?oc=5",
-      "published": "2026-10-11T13:08:00+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "White House leak loop: ‘Weaponization’ plot to spin Trump’s classified files - Alternet",
-      "source": "Alternet",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VbEJfemNMZXhhT0ZPclV5VGh4MFRvSkh5YVlNX3QwNTE3WG9WTzVlaWh1VTl2QlVxYjk1NXJnQW0tVEg0dy1xSnpwcm1vcVZxTmJsMFNRWklYaVU?oc=5",
-      "published": "2026-10-11T12:01:00+00:00"
+      "title": "U.S. Spy Chief Warns That “Super Intelligence” is a National Security Concern",
+      "source": "The Debrief",
+      "url": "https://thedebrief.org/u-s-spy-chief-warns-that-super-intelligence-is-a-national-security-concern/",
+      "published": "2026-10-01T17:21:21+00:00"
     },
     {
       "category": "Ancient Mysteries",
-      "title": "The mystery behind the giant stones: My visit to Stonehenge - Mathrubhumi English",
-      "source": "Mathrubhumi English",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSTFMQVpOMjV1NEU5ZHNnRWZTeFFaVmphbk9HRlJsR3FrN1ZsenB2dW9WWHAxQ1FKdy03c2VXMjctSlViWmxxMGU5b25KdkZlZkhKVzU0QjdEQ0pQTV9udGI2SHJjajhCZXhBd2Fuc0xqV0xTVlFrOFdEWHE0SGZxdHg2T185bnJmZHcxSk1mZmpwcG5nUTNBeGZpbnpfcnBxd0tqSVcycldaMFNEM2V1Sm9TclBLNG_SAbcBQVVfeXFMUEkxTEFaTjI1dTRFOWRzZ0VmU3hRWlZqYW5PR0ZSbEdxazdWbHpwdnVvVlhwMUNRSnctN3NlVzI3LUpVYlpscTBlOW9uSnZGZWZISlc1NEI3RENKUE1fbnRiNkhyY2o4QmV4QXdhbnNMaldMU1ZRazhXRFhxNEhmcXR4Nk9fOW5yZmR3MUpNZmZqcHBuZ1EzQXhmaW56X3JwcXdLaklXMnJXWjBTRDNldUpvU3JQSzRv?oc=5",
-      "published": "2026-10-11T09:32:53+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "US intelligence witnesses to 2025 UFO orb incident could testify before Congress - New York Post",
-      "source": "New York Post",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDRyVlpxcjdFNnZINDlZWDYySFhOXzZqY2x4di1ja1NOVXFRZWM1dkoxd0VvdGRWT0JkNV9jZ2VEaFpNdjhnY3hueWF5ZnpKdFF2X1Jqd1ZYdzFyUktkZHNZVzVfX09uNDRrUERYYUs0dldud1dMd21SNlFXTDZ0WG4yMmNwRFFGdDhFOGplblJuUllpUFlRcGlhNTR6TWxfT3E4eVBWQmtyNDd6WmlUenhTSGpxOEgzZ1V4TGNYaw?oc=5",
-      "published": "2026-10-10T23:45:00+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "Exclusive | Forget nukes: US, China and Russia could be in a new UFO arms race - New York Post",
-      "source": "New York Post",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUVlWXRGMHBIQXlfYnhScGtRSzJqcC16X3E2THZFVk1aSVRyU3loQXVIYWN4c254eWJlN2pHN0tiR2ZsWGNOa090TnRvTTJGQmpHUjF1T0FBTXkxSk03aDg2MHppdmhLSFVYNzJMcHcxWDBlaEctVERYRGdfMFY1QUpaOXdVSDN3M1RXQUdZZ1JWQVVSTngxSXg2SWhpV18xZzJIVHV3?oc=5",
-      "published": "2026-10-10T23:35:00+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "West Virginia Bigfoot Festival draws crowds from around the world - WDTV 5",
-      "source": "WDTV 5",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd3VrMDVRUlA5QVFmNE1jZUcyMGhyOFNPMG0wSm52RndKT1ItZnpwc2o0bVU2cjR2aFJINVV5VEpzUFdVXzVYOVNuR2pmT1IzMHFvRXlLSHhfdV9BTXhHUHVrMi1YeXFPelEwUTFyMUhpWGw1eTdlbl9pVGdXaFJoN1lWbXM1X0RTeU1DczFrLXNDdTDSAacBQVVfeXFMUGRVcWUtNFBDNWRJaXdaSzJNT1d6Y2pPQ3AxcG5EY0xYVDVlOV95SlBTX1E5ckhWWVZrc2V4anVKRDFIempFRzRKdFJBWmhDbGE3SXdaTVNYaFI0cG9vZXg0ZnVpb2xBT1p3eGQ1ZGxCMmI3WTIxbWdnb25wbWtqTWZFZi12X1J4eU94RXZGcDB6X2gyVnI5VHFvQktJRjdaaXFqZnR4MFE?oc=5",
-      "published": "2026-10-10T22:08:00+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "Original famed Bigfoot footage exposed as hoax after ‘rehearsal’ clip unearthed in new film - New York Post",
-      "source": "New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMk9sSGw1T09YczhmVUdwNkJKY0ZYTnVUWUtQVEFNakd6R0Zpenc4OXFDM3E2b0JEbjV1aGpfNFBheEx4eUdnNnZMM3pNRVNnMkU3dlpHU0dEazhGeHU0LUJtbk9ZTThqWkI2LUVlNkZwWTZQWkpRU1Q5aDFrV2k1aHJjdzFFNGpFclBnUTY2SmFXRmctZlZnLWVrZENKSnRXdU13SF9fanl5d2ZWcFFwN3hILTJ0ejJBaVNkQWo0NjgtR0lOaFVDSQ?oc=5",
-      "published": "2026-10-10T16:41:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "It’s the ‘black hole theory’ as Trump hits historic low in WA - The Seattle Times",
-      "source": "The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzE2eTFYSV9mNnR0S0h0NWphNFBQNXhhdERaSXRRZlcxdEFWZ0UzYWtZcElRS3pMdHp6RVVUMG5HTHFZSDhBbjd3NTEtUGZ4eUd2WHpsYW5MM1pNdUpVaGlfRTZqWlFpWGIzMk52NUxQQ0hKcWhfbWlEdngxQkgyWmhKcTQtcUtNcjRleVV1ckJacWJXbUVSUmZ0aEFEZldKVzVmdjlJZnNRbnNTek5V?oc=5",
-      "published": "2026-10-10T13:00:00+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "Is Tony DiNozzo Back? Is Michael Weatherly Returning to NCIS? - The Cinemaholic",
-      "source": "The Cinemaholic",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yNDA4T0syR0tfbXJ6MXM1WGFoQ0o0NTBfelBxUzRRdWV6MXNwS3hLTldKMEFvUDFFaFFOZUk1S1JFR1B0czk3OVpIT0VKZUx0RzFOSHBLTHZnaGxlTEhPN3QwUnhsNWUxOFFpRGg3US0?oc=5",
-      "published": "2026-10-10T06:24:44+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "South Carolina Bigfoot Festival - NewsChannel 10",
-      "source": "NewsChannel 10",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUmJyVk84S2hHQzZEUlg0dmQ0WlQ2MGN0UzM4eEwtUVhkd0cyUzFzOWpDNUZjamtXNnhCZkNXa1B0WFduWFh5UlFreV9ZQ1htVW5nTXFrMTF2WGh3WmRpMzVxOTBYQ3lVUkJYdmcxYzFtVFZuc19kRlpiNDc2elJTOGl1RHplQQ?oc=5",
-      "published": "2026-10-10T05:27:00+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "South Carolina Bigfoot festival held in Oconee County - FOX Carolina News",
-      "source": "FOX Carolina News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbmN2SFQ4WHJPNmhiMHFwem84SnRPSDFLcUFpMHNLOVpjdnIxY2pwUE1XbURKdEQ4a25jTTlianByY0ZDUmE4d0RoY0xITlBBZWNZVXVyY20xY1hodzZ2NUh4WnlYT3Bfcnh2Unhhck5aT3ItOE9aZXRqVGNfaWpTSWxObDJtcFp5XzRpV1V4X3c5NFVVdEI0dVpjNmU?oc=5",
-      "published": "2026-10-10T05:05:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Just4Kids: Do you need to worry about the Sun turning into a black hole? - The Detroit News",
-      "source": "The Detroit News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWk9vZDNjN2dZa2ctZ0luZFo5MWxSTXQyNjhJekRiYnRzQlR1SU02S2R3c0hEdjVSeXk3TlJHa3pNQlluaDY1Rk1tdzZpdDN5UHpOWm13LW1uS2QwSTJ6ZWtIQng2N1lwMWgzUk9RaHl5WE8ySGZ2QjhuTklwV3VtdmgyWnZ1UGI3cXpyVU5oQ3FpYy1qSEtuTzdCX3IzNlBra3FTeEt4WUVMOFBONjNobEFMS3NJbTFjMnJMMXZiTGNrMkhlX2hFb1UwSlByNUMwTWwzUkxtRFcyS2M?oc=5",
-      "published": "2026-10-10T04:01:00+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "SLO Film Center hosts 3rd Annual Haunting at Palm Theatre - KSBY News",
-      "source": "KSBY News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ2Nvd0RsN3UzX3N4b3FmWkRkcUJvWkNIQWRDY090YjJqZVprLW9zVktPdjFGR3dSRElVVE8zYjBhRGozYkVSOXBDTFJ2NDBpV0plXzE1QS15SVpHcnk0S19jcWtYNWQzUl9tWUQ5STRiWTFRVzhwQUF2dUVTSnR4eGo0MldxWEJmVVhRRVJXTlctUlg1clVTaFNR?oc=5",
-      "published": "2026-10-10T00:53:37+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "Battlefield 6 Officially Releases Season 5 First Look Trailer - Bleeding Cool News",
-      "source": "Bleeding Cool News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPelk5Y3lqUWRhWHl1Xzc0MzBwVnJubTdXSVBJMXdjU3VGT3NvckN0YzlUWHYybHR5emVEZFpxOEJjUHBfQUdna3BQR0JIYlVNbkplcFpOSVZXVi03YnJqOGtFN2Y0TWt3aFhsMW9PRnNRUmRvOTJLNUFqVUVlcVRJM1cyM0YzY2w4c3VzcmhBc2FyOW9xemhOag?oc=5",
-      "published": "2026-10-10T00:53:09+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "‘Capturing Bigfoot’ documentary has brand new footage - KPTV",
-      "source": "KPTV",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMWtrLXQ2VWZqQ2x4akVBdkJPdVdtb1FZbzVoLTZJUVhGYkNHTVFQR3R4dlRGY2dwcWU4M3NKMWVtNkQ5dVBBV2xZY3ZOTTRKdU4zYTI5TkEzeFFURjhJZ2hBNVZTLUhmaXhfejF0bmhOb3U0MlRhWEpQNkowTmcxV1ZhYTh0VnFqSDRWWUtCclNDdmpj?oc=5",
-      "published": "2026-10-10T00:30:00+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "Declassified documents spotlight claims China acquired US voter data - WCHS",
-      "source": "WCHS",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObFVrdEJILVQtLWtaa3ZpZy1SR2E4anZrWmI3akZtcS1SVXY0RHdMTU5OaUtNLTQ2bGdTQWczMjZDV2luZllSMGtGeXMwZFBoRTZzS1FHem1yM0pvLXVmZEJwbVVpemwzbnpBSkE0N3p6WG84TDFGbEdMb2I1bGhNNlRZeV9majVpeTdLUHpFRC13TUs0TGM4UGFLYXVjdEU2R2J1TjJVekZmTW0wN0VoWXIzU0duV1h6dlFuYXUtZUVpdDBoUU05dEZ4S3RIVkVRX3F2blNaQktreWxuOWJlT1lBT0MtakdaZW9TMkRoXzBIZS1pNHVqN1VYQlVYR3Y0?oc=5",
-      "published": "2026-10-09T22:24:33+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Early Supermassive Black Holes Aren’t All Monsters - Astrobites",
-      "source": "Astrobites",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11ZzJWOGNjVXJrdkVpY3RseldJWk90ZWNxbDUxdjJfemtjT1lMcVJseVgzMUM2YTRhWEkyV3ZjLWVWdWxRa1JHVjJYOUNOQmRSNktOeDZCMzhrUnpaUng3bXd4S0xwbUZVMzQ2LXhQR25mSFJ1MzdJd05hLVA?oc=5",
-      "published": "2026-10-09T22:03:46+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "UFO info from secret Las Vegas program expected to be compiled for release - KLAS 8 News Now",
-      "source": "KLAS 8 News Now",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTnNQaVY3MDJObUM4OWNxaDNjLTNpUmlyUW5GeXlIZlR5MWdCd3FKWC1TSXNTamtsUFRJTmVXY0xqZHFid1o2bi1qcTBlSXZzWjJDcWZUdUdGTm44Sk8xaFpiQ3JyOXp2d19sdC1CcXRCdktqYTE2X3RUaFM1bFFHSVhOVklXSjlYVkZvNHVBaml3bV9WbjkwcnlWa2dYTHVRT2JORXlTNW5saHdaS1VyUVVEONIBuAFBVV95cUxNSmVKd3dmLXRKU2ZwZ0Y1YkY5VVpJc2Uxc3k4Vm1JVmhhSnY3cmYwMXF4VHFRM09vMFZDeXdpWmlfVVRLSm1SaHlrdEdmU0NfX3ZyT3hKYzhJWU83TUhGdUZpWGxPd1VJbXR4bFloeWNRTWJlTnRDelN0dldMaDhyaVowQzY4MmNQY08xYjB0RU1sQXJ2TVl2YnZXemZqOUZzN3o4cnpZNC1hd2xPUjFyYXJ6ODB1bVRq?oc=5",
-      "published": "2026-10-09T21:03:07+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "Battlefield 6 Season 5 Schedule of Content Rollout Revealed; Dead Space Crossover Starts Haunting on October 20 - MP1st",
-      "source": "MP1st",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYTNGZmtCMXdKQ2tGUTY5WUFCbFczOGhmcVk1b0NrT2p5T1ZLTHI2bmFxZnJaOUlXQjh1SEpqdkRqV2FvdUxJdEpxRy16YXUzQkpPZ1E4aGZZMjFsOG4zOS16X3RaLUg0c0NSVndsb3hQMUlSZ0NaalAtVDRjUDlEcnloUGtRNklpNWJvbExuekFYYnllek91djVKMW9zVGs0UFpwbktRMWhlcVdkTHIwbTZDRngwSFdXUEE?oc=5",
-      "published": "2026-10-09T20:44:04+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "UFO searches in New Jersey average 62,550 monthly, placing state in top tier of alien interest - New Jersey 101.5",
-      "source": "New Jersey 101.5",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WRHVYbGlpcEFEVkFYdzBOMnVyRFZXeHVpSVFYTEN5cG9oOXRYS0J5TmZ3amQyQkFfY211UDFDTC1nLTI0bFJHQW50UVJQMTJPYjN6S1EydkRINFhkY0w0MA?oc=5",
-      "published": "2026-10-09T20:38:51+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "NASA chief says all UAP data released; Coulthart says no | Reality Check - NewsNation",
-      "source": "NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVWF5QzJKTGVtaFZjYWRFaFItNVdSWFphMU9TT2N6ZkdreXg4c2lIU1lOaGlyLXNWRHNjTi1VYVV3TGtMT1I5NWJnVG90WGhNOXduanByMWhacWtaMDByLWNDR1B1N2JsTjBkYk0tZFNFRWtqTVBYYVpYeUdOZzV3b0FyZnVWSUt4MERhTjg3SDdES29LSklERVFEbmF6VUx1LWcwZEQ3WXBibXJiS0g2YVNLajVFcFVKcmxUcW5ldWlCSmZPVUVISVE3dmlWNDDSAdQBQVVfeXFMTkJMNkMwN1pyOTdNSFRubGZRZmg4cU1RUHFnWFBqVm9VZXRJQ24yeDBtMUV5cGJiM2xLbkg1SjBCeWRNZ2Y1M2NJaV9HLWcxcWZLTVR2MGNIeWVlbVlXM2I5dmNwV2xSVWc5bzFFSGlwa3FUTmpIbFU0UVRLYUtrNHJIRThfb2EyT1BmYWxrUkQ5dmtVWEllbGxkay1NVnVMa1M5SFZ3TEc2ZTVwU0FBUDhnUGJicGtMemdYeTZ3YjE0cmRjTFVBUlNmSkxqeUZjeHctbk8?oc=5",
-      "published": "2026-10-09T19:16:04+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Our Universe Was Born From a Black Hole—and Now ‘Baby’ Realities Are Nested Inside of Our Own, Physicist Says - Popular Mechanics",
-      "source": "Popular Mechanics",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMlRHaDdxV19uSHQ4OHVodm5nOTN6RDk5a3pCdzBXQVF4WTJORVFnN0d4SlVBX2JFR3dUWjNNc3JvbWRldktxVUY4SGN4UUJUMXVJR2pNWVhQaGt0NzJUY0pYU0pqSDdDblJHTTJXclYtcUVEQ2ZJdi0xWjRjN2Z4aWVvNUxINmRhMDJWbDVB?oc=5",
-      "published": "2026-10-09T18:47:00+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "West Virginia Bigfoot Festival returns with new venue, same sasquatch sensation - WCHS",
-      "source": "WCHS",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGRkTUJxb29LSDhJTzJyZXI5bWZVRHRIMlF1eVFESDVnbkd1cFUwdGJhUFlCdndLM2tJNlFEUTJoQjB4cTFNdHVMX1oyMXhPZGF4aFJlY3lEczg4NmVGaGFGSklpa2k3MlM5cC10a24wRjFHc2phbGtCazEwV2JKbldQS1hfN1lmQzZWMXB2OFZVYXhyZmZF?oc=5",
-      "published": "2026-10-09T17:10:12+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "The 'Black Hole' Kilo-Class Submarine Isn't Reality: A US Navy Anti-Submarine Operator Had 'No Respect' For the Russian Sub - 19FortyFive",
-      "source": "19FortyFive",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZjBJb0Z3VnMtMGstXzl2QWpwSzhTLV84TkVVcXBadFpKYUJDVEdXempaLW9ueXB6VTBrSXB6M2RzbWlPdTZCVllMOUxWNXpoWDFtSTdGRDVqMjRmS2UwVTdGOF9scFZKaFJHcUJFTGlLWExnb2VWRVRhMFNoVFRkQmhialFPcEVRV1duZGduMGlvSnRwdjlGNDl4TW5QTmVQVzI1NERCaFpqNVc1dEFwcE83a2RZN1NlakJpSzVNMC0tSm5FWGs4Y25iWG9RM0FZeGFqQmlNNnMtLTFZZDQyUGZHZDA3UXRRMzd5TzBIMVNLdzFtVGtBeg?oc=5",
-      "published": "2026-10-09T16:45:20+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Cygnus XL Cargo Spacecraft Departing Station Soon on NASA+ - NASA (.gov)",
-      "source": "NASA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2hhaG5OU1pXbkpsaXFrYVRkQi1IdEZDLTVSV0c3cVFNeVYyVGpheV94N1pyZ2pqWFhFVm41RGpRcFY0Sl94MW54UTNveFZiX293OGZEc0pLV1RrZ3VYUmFibWlnNnRHd0ZzeFNYSms4MjdfNEVtLUU3SThaRldDV1ZIWElxc0ptb19fQUc0aGJkUkF4bDVxYmRJYVRVcENKdjVWamFZNjNDZ3lxY0E?oc=5",
-      "published": "2026-10-09T16:39:22+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "'A Celebration of Everything Dead Space' — New Battlefield 6 Event Has Players Storming Area 51 - IGN",
-      "source": "IGN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wN3VNSkpZdE1CLWl6aTJ1LXlwQW1QaEUwNmlJNGdQUnIxcm1mRVotMllsVFJIaVk1U3Iwb2lKSHo2U1oxTmw4RjA1Yy0wREtDc2R6ZmtWZEZSQnMybEtVMW01UUVTN2xnV19vUDRSTUhzNXlHSVE?oc=5",
-      "published": "2026-10-09T15:52:15+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "Historic Burlington County Prison Museum Hosts Family Ghost Tours, Haunting on High Street - 92.5 XTU",
-      "source": "92.5 XTU",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ1FYSkNaZmJVNzZGc2pjV2J6N0pkSXhIS1pUVFNKU1lDbnBCR2FaZk9RcVFxVDRKV3p3R2czU3FiZ0R0bkoxN19ENUVmZmFBMUxMcER4R1g1TFVFVFhiTmF6cHJPeFhZQUVVRzdCVmhTVXBrdm1NcGZjUGFDYTR4b0FKYlpNbmFoeHBkWUpqRUxCb3VLZUF0MnpQNEN1bmRzR21TY0dKY29fdldVOE5feXJhelowVXR2SGhPQQ?oc=5",
-      "published": "2026-10-09T15:07:26+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "NASA chief Jared Isaacman says we should stay 'open-minded' about UFOs - USA Today",
-      "source": "USA Today",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS2I1MVVXczV3YXcxOFJaNVFJMElQeS1aS0FvelByTjRjTTUzalV4QnNnSy1YLU1Rd3JpcVc0SVdzV2JGNW5aYmgzYllxNTBDR0ljRWI2cS04aXd4SmRRdFRnNkxGZ2N0eUVQVUNucS1mcVhUUkg5VnYzVEdtOGJQeGFfVU15bXpJc3o3Sm56Uk9MVVJ4X1RwejJJYXU1Z1Y2bFdCc3RlbUl5YnNHM0R3?oc=5",
-      "published": "2026-10-09T15:03:00+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "From Las Vegas to Dead Space Crossover: Battlefield 6 Season 5 - Inven Global",
-      "source": "Inven Global",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcHFMOFIyaTJPUTRoSkJrR0prQzVoVnRlbExBa3VKSXF4aGZES0x4WXd1MS1uTnlRam9ySUNtTlI1ei1DXzZxSWVLZnRNMXdicUNTaHJ4UWlMbHotd1VjX3Q2TjhMSnBoWkNaVDkwUXE2U1IyNjBoTWlYQ2FZV1EwamZpdGNBcldkSlhkRGlUYk5MbkhROXhMNmxKOFVqSk1GS3dqMk8wUQ?oc=5",
-      "published": "2026-10-09T15:00:02+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Cosmic House of Mirrors - NASA (.gov)",
-      "source": "NASA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yTE4wT3ByRzJaczJYZmprdzk0bVhWZTN0aTUzWFlnZVFIaTEwRVdheG5WMGtSelJIMEl4TjViQWdDR0U0dlN6ZXZIZ1JMRlZFRERKOXdfa3R2V1hCUHpXTnFSM0xCTjdVXzVV?oc=5",
-      "published": "2026-10-09T14:22:11+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "50 years after the attack on the Cubana flight in Barbados: declassified documents from the CIA and FBI point to Posada Carriles and Orlando Bosch - CiberCuba",
-      "source": "CiberCuba",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR0Q2WnUyN1VQUVBnbmx4aVY0cmhZQ2tkZVVkSUZ4NEdqWUpwQjdULTBZRllpYTZjMFNxRTJhazRUbWhrRUpUMEJNdWp5SlF4X2c2b04waVhDeHh4M1NncUx1ZExNVUlpVVZjTHNlUlEtczNkRmgxcEluVTItNURrOHFFM1hFY0FsdGRZcjhBVUFKYXhrUEdMOXdYbDN4OGVpRkZtdUVsRG9yTWFOb1pPMm9fWkhoLVV1?oc=5",
-      "published": "2026-10-09T14:16:22+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "What Germany's alleged leak of classified files means - DW.com",
-      "source": "DW.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWEpNWWRNek0yWmNGckRiam04OENpMmtZeURBSmlWU2tLRmpGTm9peFFsMzUweHhSQVNsS2p0MF9DOHg4eEdBMmRQZVdWNTdweFl4VC1zQUp1NXdmZ3VKbWYtbEpRU2Q0WmU2OUlMUUhaZ2taMG1UdDNLbVZWcWpYOTJmX3pDdDFYVHpDRmVSN1ZhVzg?oc=5",
-      "published": "2026-10-09T14:06:42+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "The Impact of Webb on Our Understanding of Black Holes - NASA Science (.gov)",
-      "source": "NASA Science (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYlBpWXBQSHNtX3lTai16dDQzQThpRC1RdXRFbkRzbmJLUzVoMG10ZWtUTG1rR25PMUFuTDQ0WUtFdXJkMFlhaVJ1OXBnV3o5andSNHNiMkhNMEVXTVJVWWMtalFwc3B6cGdCN0ViSEN3ZnlrdjhPb052MEN1NkJEWE9NYlBIdl96WWpoSTJKeldTN1N0d1dXNElCOERhSWpJU2tFYk4zWUh0THd3ZlpPYzZBNl9iekViQ1IzX2NBSFBFWFF0RnUxSg?oc=5",
-      "published": "2026-10-09T14:00:00+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "“Destroy the UFOs” – RFK Jr.’s crash retrieval claims spark Reddit frenzy - Cybernews",
-      "source": "Cybernews",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90c3o3M0NGZDZfU0RyTlFJSVdNYll0bWdtYVdyaTIwdkg5Tk0zbGxydkItb3FGM2loMFBTZWNISUI5bGJpTEloREJvVGtGS2FabjZtMktrX2FfU2JpakV3OFhOaVZ2M01DVk81TjVIN1FwdVE?oc=5",
-      "published": "2026-10-09T11:34:13+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Exploring Black Hole Stars - AZoQuantum",
-      "source": "AZoQuantum",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lZHV5V1ZHRW5rNG5iWjA4NTZ3UmxHdDluNFZCcHpPb0lKa3FMcFF4SGVjTXNVcTZ2UmhKc0VBUGhqSTZlYzRVTnFhS3B3eVN0S0hBM0tKOG41MWIzQnRReVNvcw?oc=5",
-      "published": "2026-10-09T10:23:00+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "The Haunting of Hill House at Richmond Theatre and on tour – review - WhatsOnStage",
-      "source": "WhatsOnStage",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSi1mVUVlc1RJWXZGdWtYUWxxMjgzcXJnQ3o5RHBSWnFvWmJsZTk0QmlGMzI1Zy1fd0dCWkp5UnBRNWFvclhxVDZ4NnE3UDUycVp2UnZzN1VuY3RRdFZmX0pzZjZ1QWpLUWtCaFc2Y1VPZDE2NU1LVEdKaTlkeUlUa0x3WDNDS3U4RTlrNUtaM3lUQkI0c01QS2F2S0hHZThvRE4tcG1UcE03cjhH?oc=5",
-      "published": "2026-10-09T09:13:00+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "Lights. Orbs. Oumuamua? What’s in 155,000 Pages of New U.F.O. Documents - The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2LXhsdEhzeUo2SnkzWjdhWDYwbm1mYjhaQjZISVV2OE5fTTVLNGR1cUNjTGtDWUkzX3dOMzRweWNrUS1zUXZYV1dpdnVOcFlKS0VJRTFrTnp6bVVHTi1hTHliNlhGMHdtOGtlZFJGMzlsbE9ob0V2LVRn?oc=5",
-      "published": "2026-10-09T07:00:00+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "Avi Loeb says he never said aliens could reveal themselves within 16 days - NewsNation",
-      "source": "NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxOFQ0SnpjclZvS2hBNExqNEgydm5HVTZQektTQV9XWUZIYnMwTHYxd05aTkp1cFdrcEd0d1VKNHVVXzZFZnhFT1N5aG5pSDh3T1ZoUDhhTUhlR1ZxQTdEbXNfWjJxc04zV21yVnM5eXFPTTdpVFBRdXR30gF_QVVfeXFMUGgzajNqb0wtWUJlVndTcjVoSDFrNDBYTldFX2VjUlNFclFTQzh1X3hucGF6Y19TMHR4NTBuM3prWndMN3dpYlExRHBZYW5vN0w1MndMOTFtbUFaRTdOWmpGUi00QUhpYWNOSV92VmJPcVM3UEFDYURtcEtEaDNycw?oc=5",
-      "published": "2026-10-09T05:54:34+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "Area 51: Alien Races, Secret Experiments & Hidden Technology | Classified Conversations - YouTube",
-      "source": "YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ucENYeUtGQ0d0UG90R3Z1eDljblg4Vlo4bl9iR1hNaFpXNl9lRXliR2xMTmp3VE80ODNvVngzSWF6bS04ODYtU2hsbUo2UzVuQkxuLUFleE1MQUE2?oc=5",
-      "published": "2026-10-09T05:28:09+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "What alleged leak of classified files could mean | DW News - Modern Ghana",
-      "source": "Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vU0RXREhlSmRBWS1TS3FzUGZ4cDk2TnJmazAxS196ZlBaNWNUcnZpMUt6WVYzLW1jT0R2OFhhdnhlU0N3cldkb3J5dWFGZkUtVzdGZnFEemdVaVpBX0HSAVxBVV95cUxQVy1tWFZ4S2Rob3FyQjNHZThNVkN1Y3dKTU5sTGw1NTYyY2FOSTZLUTMzUWhETXl4MFNuSnJrLThMQWpUcjJPVlNRNmJreTJqS25JYld2ZXpmQUJoUA?oc=5",
-      "published": "2026-10-09T03:20:00+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "‘The Haunting of Hill House’ opens Oct. 9 - Community Forward Redlands News",
-      "source": "Community Forward Redlands News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2ozRjNjeEUtdUtDYlNfYzJyVW90RXl6ZTNXdU9rb2tSYUpSZDFyWGhJVlM5MDlHZl9rNUFoNHpIVFFJbXRFd1QzbkFJRHZCNlhUMEw0dFZ1VXM5UVZoZmIzR281RDZMTFM3SDZBMkdtbDZfRFVXMXZEUUduU3YxY0U2cjVKRDA?oc=5",
-      "published": "2026-10-08T23:42:30+00:00"
-    },
-    {
-      "category": "UFO & UAP",
-      "title": "A California house that looks like a UFO is for sale for $1.5 million - SFGATE",
-      "source": "SFGATE",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTFMT09kWjd1UE9HMXhIWW5HNjh1MGE1VFAxdnA2NUxtUW1Ra0tVMXI2aEpXRkt3MVZwOWdOTy15Sm8ybUIxYTljNFRZMmdXYjdoT2F5c0RSWFFWYWFGNkZKTEN0eGMxT040aUpCWEdjclVSUjlOYXFnWkp6eDcxdFhn?oc=5",
-      "published": "2026-10-08T23:20:19+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "Bigfoot Festival stomps back to San Bernardino Mountains this weekend - Victorville Daily Press",
-      "source": "Victorville Daily Press",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd1N3dk9nTFdBdjQtX01RLTlpS2c5eFoxTmh5cXRtX3ktbDBab2Q1RjdTZVdUeS1USFBnZW9TY0Q1TmdHamt1dUFaWjh6ZEJaYV9uaGQ5N216SWhTQ3owRkVJZkU5czZObmEwVkhhVkZyNVBoVUxWRXlURkhXMHJZSnNRUEVNSDd2a2dCWmtUVnhsLTkxaFF5dFZPdXVKUjV3MkVqLWRPbE1kMk4tVVhjcl9uVGdOMklKNkpZNjFQTHdybk45RDJFa2ZRdUhISzctRkJFamNLVFA?oc=5",
-      "published": "2026-10-08T18:50:00+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "Old State House Museum hosts paranormal investigation class - Stuttgart Daily Leader",
-      "source": "Stuttgart Daily Leader",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ2JHNVJXZm1BQm40MTA2S2JMT1YxZ2VPaURwZnhiRWp4NlpOR19IcWVIb3Q5V3REeENkNVBPb3VHMURaeUkwZzVkTmhHSTFhZUItWWl1eXZTYmxzdDRhWHZsYThOYnVyU2hwUWFkbE53X1dNbkNyWWQ3UUJmWDNZMElUYWNYU2VQRFc1UXExZ1hDTm1mYTVkYVE5Ykh3dw?oc=5",
-      "published": "2026-10-08T13:45:00+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "Six transfer portal decisions that are already haunting college football teams - The Athletic - The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbDFOT0N5b2RsSkhKWHhLT1ZENVJFQU9uaUlDaGZCR0dDejgyU21ncmFUVzZpSEFrVjdrTnpFZFQxTU9SSDV2Ym41SGNXWFpOTERUY015ZTM4dkdTNlgyN2pIcjQ5TWlaMUtRQXBsN2tJOXZQNlB6c3U3UmZuSkhZNmZCQTBBOTQwNzk2RU1JSS1iV3JJV1ZUSjJhbDc2OHhpdThQWmFHNA?oc=5",
-      "published": "2026-10-08T10:00:49+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "SLO Film Center hosts annual Haunting event - KSBY News",
-      "source": "KSBY News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZVVVOUZIYWlJT3pkejVsYUo2aXh4N1VsbHBOVFl0VlBMUWFkUGxndVE0SkMteEhGS0N5Z3I4dXh3RzFDUUlsWldsVVJIZVBybU5aVzVqQm5IVUlQYzhWNlBlVzJPWF9LSjFfWVoyWGpCU0xVdEhtT19oY0dhUU1ZV1AydHF4a0RfN3ZIN0N2RF8?oc=5",
-      "published": "2026-10-07T22:49:05+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "Republicans react to FBI tracking Melania and Barron Trump - Wonderwall",
-      "source": "Wonderwall",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPRjJLUGtWR1JxTW9heHI0enBwZmFBOGpYU0J3djlsZGJVV3VOdXZVR3dSVTNVQ1RHanFudWk1d2RMcVBPaTlFUnp0Uk83ay1jVjl1azNDSUVkSmZObkJzWXAtcGtvM3I5TC1TRnp1UGZUOEh3TnEyNlJDdWJNa1hCWEhhY0RFQ0ZWRzVqdGdIM015YmtGS1FtbFFvaGhYdlQ3NVBLQVl2bnJUV0RDbHBmWEZ2R00wSWtKYjVkai1qT21hV1dsV2h0ZzRvYWJiS3JxQXdRSTZwQTJSei1Sb21lcGVocWRFV1R3ZGxWdFl6WTQtVWdraDgtUkRaM3BjRWw5YTlhazZvM0NoRzdmbmdXYnpqU0laNk0?oc=5",
-      "published": "2026-10-07T22:30:17+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "The Bigfoot hunt is on: Here are 6 places to sight Sasquatch - HeraldNet.com",
-      "source": "HeraldNet.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWlJVYUhrV2Fhc0FPTEdsVnFxNGVNdWNXTjNMOGdqOTNDN0VXY3poOVZYcXZjUXF3em9pMHY2czI1al9XWlZxelhMTEl3SUVSNXdyZXpyemhNem9kYUcwWUZQa1NTZDJfNzUzTlRDSjg0eWJiSUhOdHBmazhDc1pxbDJWQ09VTjE0Zk1vaGR6Q3NkbnU0czY3amRzWWRjQQ?oc=5",
-      "published": "2026-10-07T20:10:37+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "8 foot metal Bigfoot sculpture unveiled in Braggs - Fox 10 News",
-      "source": "Fox 10 News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUF92X2NQczhFNFFLWDBGRmNSbDM1ZjdOUWtwRUZBeTItZ3ZRSkZCcGZwdXlqeG1TQmdkRmM1LS1jU0FRMFoxWGl6RU1QYm9LMEx3NHhWRWkxMFNKalZ3WW5wRklSWUF4eDNRTGNvVGIxODFDM0ZMRFhRNmEzQ2JuNGpyQi11VTFEWWfSAZ4BQVVfeXFMT3F0VEJWd1Fmd2ZZcVdOblpDelJIZjlHX2FZVVNzRjI4RVJVSm9MUjNFV1FBYlRsaFN4NlZfcGgyckQ0NEVPSnI1VGxRUWNqLWllMnhQeXdrb0tVRnR3NUNiYlJORGtDQTg3VEZVbFNPdjR2aHR0dldqMy12bUp3ZWU3dFVuWTlyUW5RR3lfUDJNY0JsNFRSS3JhT0QwalE?oc=5",
-      "published": "2026-10-07T19:20:00+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "Declassified documents reveal surveillance of Trump family in early FBI probe - Baltimore Sun",
-      "source": "Baltimore Sun",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRGFzcTRka0xubTM3dHZTRUhWendFb0R6djdHWW9FYjVuZF9qZGhKMk5fdEZsczR3MHFLdTVZdDhBMm1CUF9RbHctS3pjQXNDZmxrVEc2RkcyRmNucnp1X3BhRmZSYTdUUk5TVDRpZ0dkVC1Ka21XSmQyYWtFZzZJV3FnV0ktOW9EXzhqYm5VQlVGSm5rUmJpWTJ4bXRVRjc4R2VuNHdvMWp0akN1d0RUUUgzbDhvLVdnQ2c?oc=5",
-      "published": "2026-10-07T14:23:42+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "Arrest of former German spy chief alarms US and British agencies: Report - Anadolu Ajansı",
-      "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmhhWTF1dVRlNHkxaTAwaHdaWHZ0dVBCRkJRRFhFR3ZxdVhCdms0VjJuVVB2WUlMTDktcGFHOWJlOG9qNGhsUEFxN3J4SjVjNG9pbWVVMmdvaXpUbzFyekN4NHAwTkRWTGZfVWRCY1hjUkgzdW9yellmcjBMMkdFZnpXd2lORXkzbVVXT0xxdVBqUW1KbFZ6NENkU1dTR1ltMGZOalItdFpOVVh3cmxhVw?oc=5",
-      "published": "2026-10-07T13:09:25+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "Volstead Act hosts the Haunting on Post Street pop-up - The Spokesman-Review",
-      "source": "The Spokesman-Review",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdUhINUU0dXFGb2FIZDVERFJzb3BOOHVqZkV4N214djQxamdpY3Axd1Q2aUFEeUg2NmVmQW1ydmR5bFdPM1BJdVdDcjV5YmhpSzBudGZUNFBjLVVlZ1BEUnQ5SzQwSUtXWDdwTFp2TW9Qd2tVbW9zbE9KcENWc2twMmdNNHgwVjgwQ2xuWnVUQWVKYjVwdnlRY2NYRHNIQQ?oc=5",
-      "published": "2026-10-07T12:00:00+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "Noom puts a spooky voice to the haunting threat of weight regain for GLP-1 users in new spot - Fierce Pharma",
-      "source": "Fierce Pharma",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaVRXNmtyTUZUYTVjT2k4Q1RSeFhXOVZOWXFQcXJ0dkVVRnVldkJOQU9XRmVsV2ZpZmx6RXNKTjBOelBqMXFYaHBlSXRtVnpMX2dQakkxbUZ3bUl5cUtiQ2RfRTJYQ250cjMyaW1HeFYyNllQMmQ5XzJOVEdlcEpRUzEzQTdMeTlRQkhoZG1tTEQ3eG9JbExydm5zSkNEX0E5X0Q3S3hjUndrUnRiOTVNcUpR?oc=5",
-      "published": "2026-10-07T05:09:00+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "The Specter of Market Contagion Is Haunting Europe - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdWlzZ3ZyUVhHOGNYdld2bW8wTHZCNnNJQlRLMHluenJkNzd1b1A5dDNhQTNhOXZfdGpuNXdtTjNhNTdUeU1IMWRDMThIeUVvQlQ2OW9FQ29pOXJyRThzZkZpSl9sMU9yeERJaXRBel9sSWdGdGlWOUJ1U21EckJ4aHRUdTBKOHhVYkNCY2ZMWWlsUzFVYlNBY3pJdEFNNk0tOG1YZzh6RXNGLXJMOV94ZFpXVXJsUQ?oc=5",
-      "published": "2026-10-07T04:00:00+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "Declassified documents reveal surveillance of Trump family and chief of staff in early FBI - WCIV",
-      "source": "WCIV",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOaU03RldJV3hZUFhpbm1xcXE2R0lvdkhHTDVLcHRfdEJ6SU0zWVViUk1OaHU4NlVBaGJTTWNQbWpCRDNxNWZUdVZUZ05PWTdVdi1UNVBoZHpOYlhNaU5wUXYyN1I4SVF6eENITkdTT3FGTjVSbWZQWVJRbGR2OTY3ZXh5elBsV2RDbDFjREE1RnNDcG9yX0gybGFMdFNrR2JuZnNKck9tRTlFN2ZMSWFDMkliVENMRzJkM1JFVVZwdlZsbTBvYXNkeXc5SnhFc3R4Q0k0Q2VhbGNINXdrODJHeWdkVk05VkZFRDQxZkNyMW1kdmREdDZqZ3AxTDBocUtBazlV?oc=5",
-      "published": "2026-10-07T01:21:07+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "Declassified documents reveal surveillance of Trump family and chief of staff in early FBI - KABB",
-      "source": "KABB",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSmZqdXZZQlhEeHFlSEMySEV5azQ0Q3hnYXlpWFRpMS00alpEV1N2SlpSak5KbVEyMlFXbzBGX09CT3NTYU10SmhWc0hfTUJaN0ZuSEZfMURCbTVHWG9fUms5WHItZWl0dlJHVVFxMmNlZ195QTJwTjltYllYMWFwaUpjbGtFYTlKcTM3ci1lb2pyZFdPbUtzZWZIS0VmRDJkdHE2cF9NVEFFU0NNR21fLXJRYnJWbExEQVZ1TUY4LUlUWm9vT1JvbnJEYld0am1MRnN0WldKb2Q1cmpsVVZWMjNwQ0NySUpGRXc1aUtyUkdhWGZwZkIyOUhBSVFSdDdsYkE?oc=5",
-      "published": "2026-10-07T01:06:05+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "Get Your Reps In: Before ‘The Sound of Music’ Was the Very Metal ‘The Haunting’ - Willamette Week",
-      "source": "Willamette Week",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaEQ4V3M1RUlWdGRtQ2plTHJoQmd0UWViWlB3NFRoTTNlMGVFOG0tWDViaXBxN2hNa1QybEZJOURjRU5tSUtYNFBfTFhJRHFPam9UZ0tUUE5UMXVmdG5HQlppeGFMNDhiR2VfRXVlZDRLRTI2OUpfeFM0T3E1UW1WQ2ktV3F4cWcweFlBRGRnNUxLRUNWeHZKWkRtY1llejVrSk92OHRVazFnWTVoYkh6WUFiNXY4LUZRdzNEOA?oc=5",
-      "published": "2026-10-07T00:00:00+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "Declassified documents reveal surveillance of Trump family and chief of staff in early FBI - WBFF",
-      "source": "WBFF",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQWhhYTlnaU9tamNCcGlqLUZOcy1SRnkxS1dNdmJHSXYtNVU1cDBIRHBPSXF5YVhWbF82R2FxWXpmU1FYb0gtbm5iTTV6ZzJGOUVXYy1DVExNYzhnRFRXaGlsLUNqX1NEN0VGeXhmZ2xVQUd0U0x6aVNwTm5vTWZuZWdyTndTb0Nla2ZrNTR6d083QXVsak82aENxVVRtVWxWZXJ6QkpvLTU2ZVlpdWRPOG5uNGxvYlBNTTh1aHZvX3BGY19PYU00ZUxNWjkxdmdDVGJzRzRhWUtYMlhqd1VTUHFKQkNic29VeERIalFZbVVMTjdXZEE?oc=5",
-      "published": "2026-10-06T20:51:20+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "Spirits & Spirits: A Haunting Night Under the Lights - 303 Magazine",
-      "source": "303 Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDYyZ2Z4RERuY3VjMTgyME05c1JTY0RFbjcxMzFYak1DVTNHMDNRY25EYjRTaXM3VTJUcjFzOHZoam91MWVwcVY0MG5mbWpuVmVDNVQ2Y2VoNG5URjhxTmhRZnpUdmhicnp0cUtBamhDckF2R01YTUJOMHlWVUpyMW1FZm1DY2I0N3c?oc=5",
-      "published": "2026-10-06T20:06:17+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "Nelsonville curates its first Bigfoot Festival, cryptid celebration - www.thepostathens.com",
-      "source": "www.thepostathens.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXl0U2Ytc2s3RU5DaDZEeTF3TjF6ZC1mNDY5NkdELXZIUnNKZVllckVTc0hwZlMxQTdIVDBoSmZic3dFX2ZtaDNIRFBLYUlOTG4tbllKUnhTRk9XWTI2R3VzWnVnRkxOUDlreVBNOElNYkhfREtpcTNHdXAxeG11eGRLZDhUMnpCbEFYalg2TGVWSVY1M0RCN0FLZVhWdw?oc=5",
-      "published": "2026-10-06T04:00:00+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "Bonanzaville Invites the Public to After-Hours Paranormal Investigation Tours - News Dakota",
-      "source": "News Dakota",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTi1BS2czdG5rdUJ2RnJ4SHhpUlNoM3FRREVqYW02WFZWMEtEQ0FFdWtaWExUb3VUMW9XTVRIT3JkVHpjZVRKLWVEYkU4bjFRQ3BHUW95c011TS1BVWZUUkk1VDBTMzltbDlKZ1lWa2tWWDN4c0Z3RnJsQ19LQWdlRURaT2pNTXRpTlRUak1FMGpBSVY4Q210TVVkc0JTMUs0U0lnazVtZ2s1TjdsY2JlOVpWcW5EdHM?oc=5",
-      "published": "2026-10-06T03:31:17+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "Country boys in Kentucky hear knocks in woods at night before one catches glimpse of Bigfoot with spotlight - Fox News",
-      "source": "Fox News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTC1ZZ1VUOVllV2J0SGZ2eUZYRlI1dzV4Vkt5dm9HNjl6ak1qQkxLTnI0S0pySWd6M25nMktKdDhSckM3Vk5rcjZESEJpMkhtSzBrNTJaMUdwdHFkZ2diSFIyRk8zUXRRYzhQV1V2Wkg3MFlmUG9EZXNkRERGY1pJUzhvVl9UZmljRFpMZ0d5MmNmbFRTYVVLNlBybmJsZEJINHhkZWd2OUw1N1g2dlhodWNlWWNsYTFtY0hmRzgwdw?oc=5",
-      "published": "2026-10-05T07:00:00+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "Albatwitch Day, celebrating Central Pa.’s very own cryptid, is back for 2026 - ABC27",
-      "source": "ABC27",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUWwtY1NURWxtV041djdSOUxNd0RvZW1lenR6WVVVc3d2REZ0ZXlZazMwN2hxMUdpOFEtTkhqSG9kYkJuMmplQTF0aVJOQlRFY2MwdUR0VWZ5bzlfVHk3b3VOSzZBTVhod2FFLWpFVDhZcGtrQ3BJZ2w4enpTbEsteFp6XzR0UDQzTzM5VTNOVnZWUjdaWmZCMWVUN2FOWlpiQ1NiQm1PM2pmMk3SAbABQVVfeXFMTWx2a3RmUFRkOHNrcUVabnZzdENxX01falpjSXoxMWxzbVdEQk5IQWNRM3VSMEdac2U4X1VhcnUwenhoTkdOcFI0V3g5Mnp1ZU5YU0RsbEVKVVA3eTlhanhXVl9RY1ZDUGV5ejZOX0NqT2lGNXFQZ0lyMTJ1VG1OaDRvOHhqcEVlWTdXa0FpVjhWTW9JdzUtSVl2Ylo0OTNxWTFFc0pjNGFNNWpQY1haUng?oc=5",
-      "published": "2026-10-04T07:00:00+00:00"
+      "title": "This 245-million-year-old fossil still has its stomach and intestines",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260927225036.htm",
+      "published": "2026-09-29T11:39:27+00:00"
     },
     {
       "category": "Ancient Mysteries",
-      "title": "Trump's Border Wall Project Destroyed A Geoglyph That May Be Older Than The Egyptian Pyramids And Stonehenge - IFLScience",
-      "source": "IFLScience",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVFVfREFBVHQzbnYxX0stTFVqYW1Db2NYdkhzOWF3c1RxUkJHczlIbHVvc0FXQkFwWjJzSEhZUTdaQy1JeWN6UERoTXZLYUJRSjJFNk45cXpITElDV2tIdmpjbWNuRFFxVXdWeHJTSWxtaThLN2hReEtMUlJNdnBBT2hEWk94WWd2RmxvTVZsVVJQZ1lXckl2YmJ2UEtRTVNDQzdCWjMwZHcwb3BvTDRpRzBIdzBEenFSSkJDM3VpT0hDcmtDTVVEb1NKLUY0NjBJWjV1enNNdw?oc=5",
-      "published": "2026-10-02T14:53:12+00:00"
+      "title": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
+      "published": "2026-09-27T11:55:50+00:00"
     },
     {
-      "category": "Bigfoot & Cryptids",
-      "title": "Honobia Bigfoot Festival kicks off Friday - KXII",
-      "source": "KXII",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoa1c0M0N5VHhtcjZWaTVrdkc4bzhTTmp0SEUyMjFWcjIwUUJ5bkxPYkRyUlhRbmZUZVh5bkh1RDdTNll5d3h4c1R4TVNRQ2dqOVlPS2hpRXczTzZiNnA5X1ZpWVlhV3VjOGk5WmlWY1dUX1EtVGZ4cEdFdGMwRFHSAZMBQVVfeXFMTjRzWk5TRkswcDVRMXlPZGlSZGNiZ1JmdW9yWXUteWN3R0wtWU1yNEtUOF96X2JCRDY5emx0ZnU4eUZ1Mlo2bVNzLXQzSzdDZzFYSEtBYzFhWW5wNkxhanlTTDNsM1hMNzhaS1BHdUlDNmNaRndSTm1NNnczcVdrLUNFVXo4NEJoTnRWOUNzMUh6UHZB?oc=5",
-      "published": "2026-10-01T07:00:00+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "“Cryptid Creations” art exhibit opening night - Fox 10 News",
-      "source": "Fox 10 News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR1Awc0cyYkkzLUJPWUY4Yk85R2FLQ0pqVHlzSmZqdjlRMk1Cc3kzSFU4Y3NyaFZuYUFmYlNidW4yRnV5cFpVSy10ZWdSMnFjNUdYRDYzWVlsbUlJOTI5ZEsybDdJamhrQlBEUDFYQ3hockhrMzVqQXIwa2VfbWt1QVlkQkNoUdIBmgFBVV95cUxOalNkR1pKMTFoSkdpVDdnbmFzVGEycWowNjJxRV9VVURWOGViTGx6eVplMXVvbVlEZTAwdHFkSGNfUk44SDRienI2SDZIaUI1bDBfdlQwcEpPbUNQRGVyYnRtRlh3YXZLRy1RbERMT21hYmR6WlU2ZTJYWll1NVFKaGt2V29ldlBIcXNkUHM4OUYwcmxGQ2xZaUhB?oc=5",
-      "published": "2026-09-30T07:00:00+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "I Believe in Bigfoot and Other Travel Qualifications - Atlas Obscura",
-      "source": "Atlas Obscura",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS2lNU1Bic2lCT3F5aFVZclF2TDl4YUgyeWRFTjNuNjdyQmgtaUMxb1ZYcHFGVk5IV0FNSDFxMHBpRnBwZEFocGQ4WTQ4b0tWZjRMdzFYSEMwSDBObzhvU2pURFY3NVk5NUgzX2xDcGxTdjBXZ3llMERYN0Zfc0NMVnJDXzFSVjZOMGx0NHQ3R2xXNE9UcEViQXdMd0c?oc=5",
-      "published": "2026-09-30T07:00:00+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "New Bigfoot documentary brings Yakima connections into focus - Yakima Herald-Republic",
-      "source": "Yakima Herald-Republic",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdzFIOS1LN2xYV3NoUDhkeUpPcEYxSml3eWx6ZExhRmhiUDRTX3FpSWRTemNxQkVjSVdqX21aSUlsLTRzcnVLcUZoZXNwWkgxTGRsNmdkS2ZNSmNpdEZXTWxBOTJoRjk0NnZYTnB0dzl1dS15dzIyaG1DNktRZHI5TVFkYWR4eHBmdGlOX3gwNEE5SEJGUF9KMGdfN3hDSGxRYW85aXdtclZVT19DeUkxQkN1V25Ib0I3LWM5R1pvSXlXVWZjNEdmdDkxbWFENzJzdXNqWXNEdlBDNmJjbjNOM1QtS0rSAeoBQVVfeXFMUGh0c1NKWm5jUVRlWVZtdkFIZlI2RTlhZmptbDNkMmdTWGQ1cU5kNUVCdmtqa2xEWG9FOUZMTjc2Uk54dlpXcWxGVmpfUHROTHRINkp3amZtOE55N1dSR0Y5eDNCdkc1eTRMR3A2TWF3SGV2YmZIVG44M0NZYUcyb2xNYW9rN3VqQThtR1ZwanBnQ3B3M0tGeHdwdFF3SFFsMU5lRGdWTHZHZEpWWUNTd1Z1Q1VRSlhoSEswME1tYllWakxtQ1FhcWJabWFDQjgzcnRfR0FlYUU4MkhLSU9DMlByclhYaFNza0pR?oc=5",
-      "published": "2026-09-29T07:00:00+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "Why I love Bigfoot and why you should too - Observer Online",
-      "source": "Observer Online",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcEhHOUw5RTFVcjZyRnZfZGFEWEVxcDFDQUIxUHhmSmFkQTlfZFBteG42U0dUTzhMdFd6YS1oYUNaQWZ3VUxqQklwZG1WZHY2ZkRHVUxJc0tFREF2ZWc4MlFPX2xHWndiZmVXSzEwM3NIUVViQ0x2M3dmWG1OUTBxcF9jWE9sOUgyTEp6R09nNzg2Yms4QmRNcUJZcmxDUE5qcjVCS1NR?oc=5",
-      "published": "2026-09-25T10:00:25+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "Blue Bridge Squatch Fest bringing Bigfoot, cryptids, all things paranormal to Owensboro on Saturday - The Owensboro Times",
-      "source": "The Owensboro Times",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmplZXJrUl9Na0kzS043R0d5Y2tCLWRTTWJXQlB6WXZUd3lscktVZG5SUDBpM2hqdEhrYXNXVWVxUzNDUWVPeHAxUE9ZQ05oNmNPZ19lRWo2XzRJeVdMUGdRTGhid2otWEtSLS1Rbmk5MjZ2OHQ2Zzk3dkc2c3hSSFVOWEx3ODZ2QkdPamlFQk9rb2tzdzdVb3VndWNvMm9naWRiWUc1S0FudVhCSjhQWURZZWtiVE1mNzNYbHAwN0dacWkzdkl3?oc=5",
-      "published": "2026-09-25T07:00:00+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "Declassified documents reveal surveillance of Trump family and chief of staff in early FBI - The National Desk",
-      "source": "The National Desk",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSVpYRFBMZEVmZmlVdl9zc3V4ZlBOcjRHUUdsMGlSUXVtUnIzc1hqV01jV3BsVngwS0xEbDB0UTZfWU1rUEsxal9obkRWdmdCSlV1bU9DclBnTFE2b3VBQ1Q2X2dVdE1rNmpuc2VGX0t3Znc2VklJZ2Y1ME9mTDRYTkgwNl9rV1oza1Z0WHZyZURNX0xFUkdkdnZGN2t5V0dHaHVvaVkxMWFTRzlqa0V4U1B3d05VUkVxQU1ZNFcyaDVCd3lKaUpDcm5FRVJUOWdSVTZKVWo5R0pTX20xYW9IcG5LbGxZbUUzbDlnc01FZnBUNUV5ZjNIV2pqVnJmcm5UbTFqNTNsell5RFE?oc=5",
-      "published": "2026-09-23T07:00:00+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "Hard Mountain Dew offers $1M bounty to anyone who can prove Bigfoot is real - Fox Business",
-      "source": "Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZjVPdi1wY3VJYU1QYnA2d2cyVkdNN2ptakxKZGxzQjNScGVJZkFhTHhma280TkhJdzlFNzktOXYwVlo0dG81dEowT2tfcDlWLTBjd1ZxR2tDYnpkc3QwRFZ6dXdQMTY0V3M4MWJLWDdVM3pRTm9ZZGJPXzB0c3lRUWprTGo0OHJDd244RTRkdThybnB2VlRtQ2dzMF9Mc0lJUW8yaTNMekF3d9IBrwFBVV95cUxOR2ZaVjdGUjBlR3prV1VYbFlHbEVhX2xka3paV29oY1ZfdjBfY1pPaEpYazBNMEdoWXQxVmVBVmp5cHB5S1FOWkRtV3FLVGN4NUFIeW5DYzJDeDJhX2phb1J1QUpFd3d1VkNWSzdRYXY5NDl6cHh4YmtpaHBWd2FpSHM2ekVmc0pFaXRkb095RmVqNzhkd3EwZXpXVXZKaGJ6WUZvY1FfMzJrRmJhbm80?oc=5",
-      "published": "2026-09-21T07:00:00+00:00"
-    },
-    {
-      "category": "Bigfoot & Cryptids",
-      "title": "Malt liquor company offers $1M for proof that Bigfoot exists - New York Post",
-      "source": "New York Post",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR2FoaWE3UExlTjJreVdwS00yUElfb2U4MGNwZmlyMFRrdDctbXhsUm1XcFZzM3l0MkFqRG9qWi1KU3kxOGExT1RzWXFkUXRJc2x0VkNsNE1peFBaSTdjN1ZWcjRvX3FXRjdwQ0xOTWpRNWhWQzN3LWJQdDJ0YnVyaHJhMmVCWXJKREQ4SExtcE1VbzY2WUV4NkxudVg?oc=5",
-      "published": "2026-09-21T07:00:00+00:00"
-    },
-    {
-      "category": "Ghosts & Paranormal",
-      "title": "The spectre of ‘remigration’ is haunting Europe. Slovenia in 1992 gives us a blueprint for this state terror | Miha Mazzini - The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZDVDZDRncXNOSGxjV1o0aTBMeXI5N0Z6c0RLWVczR0F3MjhrSzhHb3FQZldSLXhobG1kQXhVcjgtZGNmZzVVVWxxajRqRFZuZmlpUHQ1WjRId242WlVlZ01pdDY4Nlhnck85QUc1RlFjT3h4NVd1S1F3VE12S0xJalRma0R2SG5iZ3Q1bVhfY2J1ZUI4ZDlWNHFyXzZGVngxcEpYdzN3?oc=5",
-      "published": "2026-09-18T07:00:00+00:00"
+      "category": "UFO & UAP",
+      "title": "White House Leaves UFO Shootdown Claims Unanswered",
+      "source": "Liberation Times",
+      "url": "https://www.liberationtimes.com/home/white-house-leaves-ufo-shootdown-claims-unanswered",
+      "published": "2026-09-26T21:23:50+00:00"
     },
     {
       "category": "Ancient Mysteries",
-      "title": "Pittsburgh’s kindergartners fall below the measles safety threshold, testing the city’s vaccine legacy | The Conversation - PennLive.com",
-      "source": "PennLive.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMlpMQUhPNEQ2SnFYcmhTR0U2UHNheEE5NnE0ZEhrcjVMbkRGS1pUcENIYmEzTDI1QlJrbkR0bXFnREd0UHJ5c04yMDhxcXlyc2FuSHZoWHV2LVJxMTZ3dUlBUTFGY21rNVRJOFF1R1NQZ0ZfRkQxZ1V5OHJuc2xQWUV6cWtnM2tOZDZrTzdsZ3RYNTl3cmRydk13RG9OZkdfZFAwSVhXeDdVZ1o5NGVRU01QQ1J0amdvVklMRUlGaFJ6ZG5FUm9BVmZtQWp5UlJvUlJsY21mVlNQQmVOejY3UDJ6cVp1ZlIwbTgtMFp5ZWdDM2F0?oc=5",
-      "published": "2026-09-17T07:00:00+00:00"
+      "title": "Stonehenge’s 6-ton altar stone may have traveled from Scotland by glacier",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260922005715.htm",
+      "published": "2026-09-23T10:26:41+00:00"
     },
     {
-      "category": "Bigfoot & Cryptids",
-      "title": "Hard Mountain Dew Puts $1M Bounty on Bigfoot This Fall - GlobeNewswire",
-      "source": "GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakRvLVI0aEFQWGNvdVZvQ0Y1TXhhZXRtMWdyNnRGZzYzX3d1S3V1YWlkMHpvZEJaVWZTaEl1b1BSclhmZkstaVA5V3hnS0tsRUZBc2g0Q0UwelRQZ29hUFpMT29Ca1pjLVVldFM0azYwR3czd2tTcFloYkJpclNiVEVFemhXNWh3LUI1Y3hSejc5WmFtZXpfcV9tbkRiTEFYcE9uZVotdDJfQ0hEc00tN2pWTW9YVXVWeHcxRE82WXk2WFk?oc=5",
-      "published": "2026-09-16T07:00:00+00:00"
+      "category": "Ancient Mysteries",
+      "title": "A 240-million-year-old fossil just changed the dinosaur timeline",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232128.htm",
+      "published": "2026-09-16T13:48:08+00:00"
     },
     {
-      "category": "Bigfoot & Cryptids",
-      "title": "Capturing Bigfoot // Presented by the Oregon Historical Society - Portland Art Museum",
-      "source": "Portland Art Museum",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aSHFBeFV1LXpQMUVud0tONk15eWZUNmxwQTFBN3VpaDhKZWlOS3gyN0dhLUxQVHY2ZFY2VFJGTlZraEpmY3hKSkctQmg0eDMzbTVOTExPMWJRa091VjFfUUxsM1Q?oc=5",
-      "published": "2026-09-16T03:56:28+00:00"
+      "category": "UFO & UAP",
+      "title": "The Kammler Connection: The Nazi SS General at the Center of an Alleged U.S. UFO Legacy Program",
+      "source": "Liberation Times",
+      "url": "https://www.liberationtimes.com/home/the-kammler-connection-the-nazi-ss-general-at-the-center-of-an-alleged-us-ufo-legacy-program",
+      "published": "2026-09-12T08:19:28+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "Archaeologists find a 3,000-year-old Egyptian tomb before it’s too late",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
+      "published": "2026-09-10T10:35:52+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "Ancient teeth reveal humans were getting high 25,000 years ago",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909231705.htm",
+      "published": "2026-09-10T07:58:25+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "Devil’s Arrows: Ancient builders hauled 55,000-pound stones 11 miles for Britain’s tallest stone row",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
+      "published": "2026-09-09T07:41:21+00:00"
+    },
+    {
+      "category": "Government Secrets",
+      "title": "Journalist Says Congressional Staffer Revealed “Recovered Crafts And Recovered Beings”",
+      "source": "Liberation Times",
+      "url": "https://www.liberationtimes.com/home/journalist-says-congressional-staffer-revealed-recovered-crafts-and-recovered-beings",
+      "published": "2026-09-04T13:10:11+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "Ancient Egyptian princesses were buried with weapons. Their bones reveal why",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828082348.htm",
+      "published": "2026-08-30T09:30:18+00:00"
+    },
+    {
+      "category": "UFO & UAP",
+      "title": "British MP Says He Was “Definitely Misled” Over UK’s Five Eyes UFO Cooperation",
+      "source": "Liberation Times",
+      "url": "https://www.liberationtimes.com/home/british-mp-says-he-was-definitely-misled-over-uks-five-eyes-ufo-cooperation",
+      "published": "2026-08-29T20:11:31+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "324-million-year-old fossil reveals how insects conquered land",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260827010455.htm",
+      "published": "2026-08-27T07:22:34+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "Archaeologists discover mysterious 400-year-old Indigenous pot in Florida",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820202902.htm",
+      "published": "2026-08-22T02:58:44+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm",
+      "published": "2026-08-21T09:28:51+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "“One-in-a-million” sea creature fossil preserves soft tissue for 450 million years",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820002450.htm",
+      "published": "2026-08-21T01:12:03+00:00"
+    },
+    {
+      "category": "UFO & UAP",
+      "title": "The Push for UFO Disclosure Intensifies as Pressure Mounts on Donald Trump",
+      "source": "Liberation Times",
+      "url": "https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump",
+      "published": "2026-08-19T11:10:21+00:00"
+    },
+    {
+      "category": "Government Secrets",
+      "title": "The Push for UFO Disclosure Intensifies as Pressure Mounts on Donald Trump",
+      "source": "Liberation Times",
+      "url": "https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump",
+      "published": "2026-08-19T11:10:21+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "16 mummies and a dog reveal a hidden order inside an ancient Egyptian tomb",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260819041218.htm",
+      "published": "2026-08-19T08:57:10+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "Tiny 1.7-billion-year-old fossils could reveal how complex life began",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260815064811.htm",
+      "published": "2026-08-17T12:40:17+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "A new Ice Age species was hiding in la brea tar pits fossils for decades",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814235837.htm",
+      "published": "2026-08-16T07:33:36+00:00"
+    },
+    {
+      "category": "UFO & UAP",
+      "title": "Intelligence Watchdog Warns of FBI Referral Over Alleged Disclosure of UAP Whistleblower Testimony",
+      "source": "Liberation Times",
+      "url": "https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony",
+      "published": "2026-08-11T15:57:18+00:00"
+    },
+    {
+      "category": "Government Secrets",
+      "title": "Intelligence Watchdog Warns of FBI Referral Over Alleged Disclosure of UAP Whistleblower Testimony",
+      "source": "Liberation Times",
+      "url": "https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony",
+      "published": "2026-08-11T15:57:18+00:00"
+    },
+    {
+      "category": "UFO & UAP",
+      "title": "UFO History Is Being Shaped in Washington - No One Knows How This Ends",
+      "source": "Liberation Times",
+      "url": "https://www.liberationtimes.com/home/ufo-history-is-being-shaped-in-washington-no-one-knows-how-this-ends",
+      "published": "2026-08-03T15:47:15+00:00"
+    },
+    {
+      "category": "UFO & UAP",
+      "title": "On the Brink? UFO Disclosure Speech Believed to Have Been Prepared for Trump Amid Expanding White House Push",
+      "source": "Liberation Times",
+      "url": "https://www.liberationtimes.com/home/on-the-brink-ufo-disclosure-speech-believed-to-have-been-prepared-for-trump-amid-expanding-white-house-push",
+      "published": "2026-07-21T18:12:25+00:00"
+    },
+    {
+      "category": "Government Secrets",
+      "title": "On the Brink? UFO Disclosure Speech Believed to Have Been Prepared for Trump Amid Expanding White House Push",
+      "source": "Liberation Times",
+      "url": "https://www.liberationtimes.com/home/on-the-brink-ufo-disclosure-speech-believed-to-have-been-prepared-for-trump-amid-expanding-white-house-push",
+      "published": "2026-07-21T18:12:25+00:00"
     }
   ]
 }
