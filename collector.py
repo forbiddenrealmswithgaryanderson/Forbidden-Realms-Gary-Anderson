@@ -1,4 +1,4 @@
-"""Automatic paranormal news collection for Forbidden Realms."""
+"""Free automatic paranormal news collection for Forbidden Realms."""
 
 import json
 import re
@@ -9,6 +9,7 @@ from urllib.parse import quote, urlparse
 
 import feedparser
 import requests
+from googlenewsdecoder import gnewsdecoder
 
 BASE = Path(__file__).parent
 OUT = BASE / "site" / "news.json"
@@ -44,48 +45,49 @@ CATEGORIES = {
 
 
 def resolve_article_url(link):
-    """Try to resolve an RSS article link to its publisher."""
+    """Decode Google News RSS links to original publisher URLs."""
+
     if not link.startswith("https://"):
         return ""
 
+    hostname = (urlparse(link).hostname or "").lower()
+
+    if hostname not in ("news.google.com", "www.news.google.com"):
+        return link
+
     try:
-        response = requests.get(
-            link,
-            headers=HEADERS,
-            timeout=10,
-            allow_redirects=True,
-            stream=True,
-        )
+        result = gnewsdecoder(link, interval=0.1)
 
-        final_url = response.url
-        response.close()
+        if result.get("status"):
+            decoded = result.get("decoded_url", "")
+            parsed = urlparse(decoded)
 
-        parsed = urlparse(final_url)
+            if (
+                parsed.scheme == "https"
+                and parsed.hostname
+                and parsed.hostname not in (
+                    "news.google.com",
+                    "www.news.google.com",
+                )
+            ):
+                return decoded
 
-        if parsed.scheme != "https":
-            return link
+    except Exception as exc:
+        print("Could not decode article:", str(exc)[:150])
 
-        if parsed.hostname not in (
-            "news.google.com",
-            "www.news.google.com",
-        ):
-            return final_url
-
-    except requests.RequestException:
-        pass
-
-    return link
+    # Skip unresolved Google News links to avoid broken articles.
+    return ""
 
 
 def fetch(query, category):
-    url = (
+    rss_url = (
         "https://news.google.com/rss/search?q="
         + quote(query)
         + "&hl=en-US&gl=US&ceid=US:en"
     )
 
     response = requests.get(
-        url,
+        rss_url,
         timeout=22,
         headers=HEADERS,
     )
@@ -96,12 +98,12 @@ def fetch(query, category):
     if parsed.bozo and not parsed.entries:
         raise ValueError("Invalid RSS response")
 
-    result = []
+    articles = []
 
     for item in parsed.entries[:25]:
-        link = item.get("link", "")
+        original_link = item.get("link", "")
 
-        if urlparse(link).scheme != "https":
+        if urlparse(original_link).scheme != "https":
             continue
 
         title = re.sub(
@@ -123,23 +125,26 @@ def fetch(query, category):
             title, source = title.rsplit(" - ", 1)
 
         try:
-            date = parsedate_to_datetime(
+            published = parsedate_to_datetime(
                 item.get("published", "")
             ).astimezone(timezone.utc)
         except (ValueError, TypeError, IndexError):
-            date = datetime.now(timezone.utc)
+            published = datetime.now(timezone.utc)
 
-        direct_link = resolve_article_url(link)
+        publisher_url = resolve_article_url(original_link)
 
-        result.append({
+        if not publisher_url:
+            continue
+
+        articles.append({
             "category": category,
             "title": title[:240],
             "source": source[:90],
-            "url": direct_link,
-            "published": date.isoformat(),
+            "url": publisher_url,
+            "published": published.isoformat(),
         })
 
-    return result
+    return articles
 
 
 def main():
@@ -149,9 +154,9 @@ def main():
     for category, queries in CATEGORIES.items():
         for query in queries:
             try:
-                got = fetch(query, category)
-                all_items.extend(got)
-                print(category, len(got))
+                collected = fetch(query, category)
+                all_items.extend(collected)
+                print(category, len(collected))
             except Exception as exc:
                 failures.append(f"{category}: {exc}")
                 print("ERROR", failures[-1])
@@ -172,12 +177,25 @@ def main():
 
     for item in all_items + existing:
         try:
-            when = datetime.fromisoformat(
+            published = datetime.fromisoformat(
                 item["published"].replace("Z", "+00:00")
             )
-            if when < cutoff:
+
+            if published < cutoff:
                 continue
+
         except (KeyError, ValueError, TypeError):
+            continue
+
+        link = item.get("url", "")
+
+        # Exclude old Google News links from the saved feed.
+        if not link.startswith("https://"):
+            continue
+
+        hostname = (urlparse(link).hostname or "").lower()
+
+        if hostname in ("news.google.com", "www.news.google.com"):
             continue
 
         key = (
@@ -192,9 +210,6 @@ def main():
         if key in seen:
             continue
 
-        if not item.get("url", "").startswith("https://"):
-            continue
-
         seen.add(key)
         articles.append(item)
 
@@ -207,8 +222,8 @@ def main():
 
     for category in CATEGORIES:
         balanced.extend([
-            x for x in articles
-            if x["category"] == category
+            item for item in articles
+            if item.get("category") == category
         ][:25])
 
     balanced.sort(
@@ -216,9 +231,10 @@ def main():
         reverse=True,
     )
 
-    if not balanced and failures:
+    if not balanced:
         raise RuntimeError(
-            "All feeds failed and no cached stories exist"
+            "No publisher links could be collected. "
+            "Keeping the previous news.json unchanged."
         )
 
     OUT.parent.mkdir(
@@ -227,12 +243,16 @@ def main():
     )
 
     OUT.write_text(
-        json.dumps({
-            "updated": datetime.now(
-                timezone.utc
-            ).isoformat(),
-            "articles": balanced,
-        }, ensure_ascii=False, indent=2),
+        json.dumps(
+            {
+                "updated": datetime.now(
+                    timezone.utc
+                ).isoformat(),
+                "articles": balanced,
+            },
+            ensure_ascii=False,
+            indent=2,
+        ),
         encoding="utf-8",
     )
 
