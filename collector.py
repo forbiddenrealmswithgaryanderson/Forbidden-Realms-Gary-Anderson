@@ -1,6 +1,6 @@
-"""Forbidden Realms automated paranormal news collector.
+"""Forbidden Realms automatic news collector.
 
-Collects direct publisher RSS links without Google News redirects.
+Direct publisher RSS feeds. No Google News redirects.
 """
 
 import json
@@ -29,13 +29,13 @@ FEEDS = {
         "https://thedebrief.org/feed/",
         "https://www.liberationtimes.com/home?format=rss",
     ],
-    "Bigfoot & Cryptids": [
+    "Bigfoot & Sasquatch": [
         "https://www.singularfortean.com/news?format=rss",
-        "https://mysteriousuniverse.org/feed/",
+        "https://thedebrief.org/feed/",
     ],
-    "Ghosts & Paranormal": [
+    "Ghosts & Hauntings": [
         "https://www.singularfortean.com/news?format=rss",
-        "https://mysteriousuniverse.org/feed/",
+        "https://thedebrief.org/feed/",
     ],
     "Space & Cosmos": [
         "https://www.nasa.gov/news-release/feed/",
@@ -45,7 +45,6 @@ FEEDS = {
     ],
     "Ancient Mysteries": [
         "https://www.sciencedaily.com/rss/fossils_ruins/archaeology.xml",
-        "https://phys.org/rss-feed/other-news/archaeology/",
     ],
 }
 
@@ -61,15 +60,16 @@ KEYWORDS = {
         "whistleblower", "pentagon", "cover-up",
         "disclosure", "cia", "fbi", "military",
     ],
-    "Bigfoot & Cryptids": [
-        "bigfoot", "sasquatch", "cryptid", "yeti",
-        "loch ness", "mothman", "cryptozoology",
-        "mysterious creature", "unknown creature",
+    "Bigfoot & Sasquatch": [
+        "bigfoot", "sasquatch", "yeti", "skunk ape",
+        "wood ape", "wildman", "wild man",
+        "hairy humanoid", "cryptid",
     ],
-    "Ghosts & Paranormal": [
-        "ghost", "haunt", "paranormal", "spirit",
-        "poltergeist", "apparition", "supernatural",
-        "afterlife", "near-death", "haunted",
+    "Ghosts & Hauntings": [
+        "ghost", "haunt", "apparition", "poltergeist",
+        "spirit", "specter", "spectre", "phantom",
+        "paranormal investigation", "supernatural",
+        "haunted house", "haunted location",
     ],
     "Space & Cosmos": [],
     "Ancient Mysteries": [
@@ -78,6 +78,11 @@ KEYWORDS = {
         "excavation", "temple", "tomb", "prehistoric",
         "stonehenge", "ruins", "fossil",
     ],
+}
+
+OLD_CATEGORIES = {
+    "Bigfoot & Cryptids": "Bigfoot & Sasquatch",
+    "Ghosts & Paranormal": "Ghosts & Hauntings",
 }
 
 
@@ -135,7 +140,7 @@ def collect(url, category):
     articles = []
     words = KEYWORDS[category]
 
-    for entry in parsed.entries[:40]:
+    for entry in parsed.entries[:60]:
         title = re.sub(
             r"\s+",
             " ",
@@ -147,9 +152,17 @@ def collect(url, category):
         if not title or not valid_link(link):
             continue
 
+        # Match against the headline and short description.
+        summary = re.sub(
+            r"<[^>]*>",
+            " ",
+            entry.get("summary", ""),
+        )
+
+        searchable = (title + " " + summary).lower()
+
         if words and not any(
-            word in title.lower()
-            for word in words
+            word in searchable for word in words
         ):
             continue
 
@@ -189,7 +202,6 @@ def main():
                     flush=True,
                 )
 
-    # Preserve previously collected direct publisher links.
     existing = []
 
     if OUTPUT.exists():
@@ -200,7 +212,10 @@ def main():
         except (OSError, ValueError):
             pass
 
-    cutoff = datetime.now(timezone.utc) - timedelta(days=90)
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(days=90)
+    paranormal_cutoff = now - timedelta(days=365)
+
     unique = set()
     articles = []
 
@@ -214,6 +229,7 @@ def main():
             continue
 
         category = item.get("category", "")
+        category = OLD_CATEGORIES.get(category, category)
 
         if category not in FEEDS:
             continue
@@ -226,8 +242,18 @@ def main():
             if date.tzinfo is None:
                 date = date.replace(tzinfo=timezone.utc)
 
-            if date < cutoff:
+            limit = (
+                paranormal_cutoff
+                if category in (
+                    "Bigfoot & Sasquatch",
+                    "Ghosts & Hauntings",
+                )
+                else cutoff
+            )
+
+            if date < limit or date > now + timedelta(days=1):
                 continue
+
         except (KeyError, TypeError, ValueError):
             continue
 
@@ -244,7 +270,11 @@ def main():
             continue
 
         unique.add(key)
-        articles.append(item)
+
+        articles.append({
+            **item,
+            "category": category,
+        })
 
     articles.sort(
         key=lambda x: x["published"],
@@ -267,7 +297,7 @@ def main():
 
     if not balanced:
         raise RuntimeError(
-            "No direct publisher articles found. "
+            "No publisher articles found. "
             "Previous news.json preserved."
         )
 
@@ -279,9 +309,7 @@ def main():
     OUTPUT.write_text(
         json.dumps(
             {
-                "updated": datetime.now(
-                    timezone.utc
-                ).isoformat(),
+                "updated": now.isoformat(),
                 "articles": balanced,
             },
             indent=2,
@@ -289,6 +317,18 @@ def main():
         ),
         encoding="utf-8",
     )
+
+    for category in FEEDS:
+        count = sum(
+            item["category"] == category
+            for item in balanced
+        )
+        print(
+            "FINAL CATEGORY:",
+            category,
+            count,
+            flush=True,
+        )
 
     print(
         "Saved",
