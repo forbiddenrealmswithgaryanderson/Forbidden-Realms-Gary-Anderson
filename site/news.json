@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-14T19:46:59.863695+00:00",
+  "updated": "2026-10-14T20:47:10.111855+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
+      "published": "2026-10-14T20:13:29+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "'Dungeon Crawler Carl' author Matt Dinniman talks inspirations, success, and the upcoming Peacock TV series (interview)",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/entertainment/space-books/dungeon-crawler-carl-author-matt-dinniman-talks-inspirations-success-and-the-upcoming-peacock-tv-series-interview",
+      "published": "2026-10-14T20:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "NASA Astronauts to Answer Questions from Florida Students",
@@ -182,20 +196,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
       "published": "2026-10-13T20:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Earth's poles shifted surprisingly fast during the age of dinosaurs, ancient sea levels reveal",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/earth/earths-poles-shifted-surprisingly-fast-during-the-age-of-dinosaurs-ancient-sea-levels-reveal",
-      "published": "2026-10-13T18:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Comparing Off-World Rover Driving Distances",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/",
-      "published": "2026-10-13T17:56:08+00:00"
     },
     {
       "category": "Government Secrets",
