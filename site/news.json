@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-14T04:49:26.295894+00:00",
+  "updated": "2026-10-14T05:46:37.063614+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
+      "published": "2026-10-14T04:05:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Hurricane Simon Lurks Off the Mexican Coast",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/",
+      "published": "2026-10-14T04:01:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "On this day in space! Oct. 13, 1773: Astronomer Charles Messier discovers the Whirlpool Galaxy before we ever knew it was a galaxy",
@@ -17,16 +31,16 @@
     },
     {
       "category": "Space & Cosmos",
-      "title": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York",
+      "title": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier",
       "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/star-treks-galileo-shuttle-warps-into-new-york-as-part-of-the-original-series-set-tour",
+      "url": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
       "published": "2026-10-13T20:00:00+00:00"
     },
     {
       "category": "Space & Cosmos",
-      "title": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier",
+      "title": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York",
       "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
+      "url": "https://www.space.com/entertainment/star-treks-galileo-shuttle-warps-into-new-york-as-part-of-the-original-series-set-tour",
       "published": "2026-10-13T20:00:00+00:00"
     },
     {
@@ -168,20 +182,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-10-space-reveal-earth-magnetic-shield.html",
       "published": "2026-10-13T13:00:18+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
-      "published": "2026-10-13T13:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA's SpaceX CRS-35 mission to launch health research",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-nasa-spacex-crs-mission-health.html",
-      "published": "2026-10-13T12:00:02+00:00"
     },
     {
       "category": "Ancient Mysteries",
