@@ -1,205 +1,238 @@
-"""Free automatic paranormal news collection for Forbidden Realms."""
+"""Forbidden Realms automated paranormal news collector.
+
+Collects direct publisher RSS links without Google News redirects.
+"""
 
 import json
 import re
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
-from urllib.parse import quote, urlparse
+from urllib.parse import urlparse
 
 import feedparser
 import requests
-from googlenewsdecoder import gnewsdecoder
 
-BASE = Path(__file__).parent
-OUT = BASE / "site" / "news.json"
+BASE = Path(__file__).resolve().parent
+OUTPUT = BASE / "site" / "news.json"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; ForbiddenRealmsNews/1.0)"
 }
 
-CATEGORIES = {
+FEEDS = {
     "UFO & UAP": [
-        '"UAP" OR "UFO" OR "alien disclosure" when:7d',
-        '"Area 51" OR "UFO hearing" when:30d',
+        "https://thedebrief.org/feed/",
+        "https://www.liberationtimes.com/home?format=rss",
     ],
     "Government Secrets": [
-        '"declassified documents" OR "UAP congressional hearing" when:30d',
-        '"government secrecy" OR "classified files" when:7d',
+        "https://thedebrief.org/feed/",
+        "https://www.liberationtimes.com/home?format=rss",
     ],
     "Bigfoot & Cryptids": [
-        '"Bigfoot" OR "Sasquatch" OR "cryptid" when:30d',
+        "https://www.singularfortean.com/news?format=rss",
+        "https://mysteriousuniverse.org/feed/",
     ],
     "Ghosts & Paranormal": [
-        '"ghost sighting" OR "haunting" OR "paranormal investigation" when:30d',
+        "https://www.singularfortean.com/news?format=rss",
+        "https://mysteriousuniverse.org/feed/",
     ],
     "Space & Cosmos": [
-        '"NASA discovery" OR "James Webb Space Telescope" when:7d',
-        '"black hole" OR "exoplanet discovery" when:7d',
+        "https://www.nasa.gov/news-release/feed/",
+        "https://www.jpl.nasa.gov/feeds/news/",
+        "https://phys.org/rss-feed/space-news/",
+        "https://www.space.com/feeds/all",
     ],
     "Ancient Mysteries": [
-        '"Egyptian pyramids" OR "Maya archaeology" when:30d',
-        '"Aztec discovery" OR "ancient civilization archaeology" when:30d',
+        "https://www.sciencedaily.com/rss/fossils_ruins/archaeology.xml",
+        "https://phys.org/rss-feed/other-news/archaeology/",
+    ],
+}
+
+KEYWORDS = {
+    "UFO & UAP": [
+        "ufo", "uap", "alien", "extraterrestrial",
+        "unidentified", "disclosure", "flying saucer",
+        "non-human", "pentagon",
+    ],
+    "Government Secrets": [
+        "classified", "declassified", "secret",
+        "government", "congress", "intelligence",
+        "whistleblower", "pentagon", "cover-up",
+        "disclosure", "cia", "fbi", "military",
+    ],
+    "Bigfoot & Cryptids": [
+        "bigfoot", "sasquatch", "cryptid", "yeti",
+        "loch ness", "mothman", "cryptozoology",
+        "mysterious creature", "unknown creature",
+    ],
+    "Ghosts & Paranormal": [
+        "ghost", "haunt", "paranormal", "spirit",
+        "poltergeist", "apparition", "supernatural",
+        "afterlife", "near-death", "haunted",
+    ],
+    "Space & Cosmos": [],
+    "Ancient Mysteries": [
+        "archaeolog", "ancient", "egypt", "pyramid",
+        "maya", "aztec", "civilization", "artifact",
+        "excavation", "temple", "tomb", "prehistoric",
+        "stonehenge", "ruins", "fossil",
     ],
 }
 
 
-def resolve_article_url(link):
-    """Decode Google News RSS links to original publisher URLs."""
-
-    if not link.startswith("https://"):
-        return ""
-
-    hostname = (urlparse(link).hostname or "").lower()
-
-    if hostname not in ("news.google.com", "www.news.google.com"):
-        return link
+def valid_link(url):
+    if not isinstance(url, str):
+        return False
 
     try:
-        result = gnewsdecoder(link, interval=0.1)
+        parsed = urlparse(url)
+        host = (parsed.hostname or "").lower()
 
-        if result.get("status"):
-            decoded = result.get("decoded_url", "")
-            parsed = urlparse(decoded)
-
-            if (
-                parsed.scheme == "https"
-                and parsed.hostname
-                and parsed.hostname not in (
-                    "news.google.com",
-                    "www.news.google.com",
-                )
-            ):
-                return decoded
-
-    except Exception as exc:
-        print("Could not decode article:", str(exc)[:150])
-
-    # Skip unresolved Google News links to avoid broken articles.
-    return ""
+        return (
+            parsed.scheme == "https"
+            and bool(host)
+            and host not in (
+                "news.google.com",
+                "www.news.google.com",
+            )
+        )
+    except ValueError:
+        return False
 
 
-def fetch(query, category):
-    rss_url = (
-        "https://news.google.com/rss/search?q="
-        + quote(query)
-        + "&hl=en-US&gl=US&ceid=US:en"
-    )
+def get_date(entry):
+    for key in ("published", "updated"):
+        value = entry.get(key)
 
+        if value:
+            try:
+                date = parsedate_to_datetime(value)
+
+                if date.tzinfo is None:
+                    date = date.replace(tzinfo=timezone.utc)
+
+                return date.astimezone(timezone.utc)
+            except (ValueError, TypeError, IndexError):
+                pass
+
+    return datetime.now(timezone.utc)
+
+
+def collect(url, category):
     response = requests.get(
-        rss_url,
-        timeout=22,
+        url,
         headers=HEADERS,
+        timeout=20,
     )
     response.raise_for_status()
 
     parsed = feedparser.parse(response.content)
 
-    if parsed.bozo and not parsed.entries:
-        raise ValueError("Invalid RSS response")
+    if not parsed.entries:
+        raise ValueError("No entries in RSS feed")
 
     articles = []
+    words = KEYWORDS[category]
 
-    for item in parsed.entries[:25]:
-        original_link = item.get("link", "")
-
-        if urlparse(original_link).scheme != "https":
-            continue
-
+    for entry in parsed.entries[:40]:
         title = re.sub(
             r"\s+",
             " ",
-            item.get("title", ""),
+            entry.get("title", ""),
         ).strip()
 
-        if not title:
+        link = entry.get("link", "").strip()
+
+        if not title or not valid_link(link):
             continue
 
-        source = (
-            item.get("source", {}).get("title", "")
-            if item.get("source")
-            else ""
-        )
-
-        if not source and " - " in title:
-            title, source = title.rsplit(" - ", 1)
-
-        try:
-            published = parsedate_to_datetime(
-                item.get("published", "")
-            ).astimezone(timezone.utc)
-        except (ValueError, TypeError, IndexError):
-            published = datetime.now(timezone.utc)
-
-        publisher_url = resolve_article_url(original_link)
-
-        if not publisher_url:
+        if words and not any(
+            word in title.lower()
+            for word in words
+        ):
             continue
 
         articles.append({
             "category": category,
             "title": title[:240],
-            "source": source[:90],
-            "url": publisher_url,
-            "published": published.isoformat(),
+            "source": parsed.feed.get(
+                "title", "News publisher"
+            )[:90],
+            "url": link,
+            "published": get_date(entry).isoformat(),
         })
 
     return articles
 
 
 def main():
-    all_items = []
-    failures = []
+    collected = []
 
-    for category, queries in CATEGORIES.items():
-        for query in queries:
+    for category, urls in FEEDS.items():
+        for url in urls:
             try:
-                collected = fetch(query, category)
-                all_items.extend(collected)
-                print(category, len(collected))
-            except Exception as exc:
-                failures.append(f"{category}: {exc}")
-                print("ERROR", failures[-1])
+                items = collect(url, category)
+                collected.extend(items)
 
+                print(
+                    category,
+                    len(items),
+                    url,
+                    flush=True,
+                )
+            except Exception as error:
+                print(
+                    "Feed unavailable:",
+                    url,
+                    str(error)[:160],
+                    flush=True,
+                )
+
+    # Preserve previously collected direct publisher links.
     existing = []
 
-    if OUT.exists():
+    if OUTPUT.exists():
         try:
             existing = json.loads(
-                OUT.read_text(encoding="utf-8")
+                OUTPUT.read_text(encoding="utf-8")
             ).get("articles", [])
-        except (ValueError, OSError):
+        except (OSError, ValueError):
             pass
 
-    cutoff = datetime.now(timezone.utc) - timedelta(days=45)
-    seen = set()
+    cutoff = datetime.now(timezone.utc) - timedelta(days=90)
+    unique = set()
     articles = []
 
-    for item in all_items + existing:
-        try:
-            published = datetime.fromisoformat(
-                item["published"].replace("Z", "+00:00")
-            )
-
-            if published < cutoff:
-                continue
-
-        except (KeyError, ValueError, TypeError):
+    for item in collected + existing:
+        if not isinstance(item, dict):
             continue
 
         link = item.get("url", "")
 
-        # Exclude old Google News links from the saved feed.
-        if not link.startswith("https://"):
+        if not valid_link(link):
             continue
 
-        hostname = (urlparse(link).hostname or "").lower()
+        category = item.get("category", "")
 
-        if hostname in ("news.google.com", "www.news.google.com"):
+        if category not in FEEDS:
+            continue
+
+        try:
+            date = datetime.fromisoformat(
+                item["published"].replace("Z", "+00:00")
+            )
+
+            if date.tzinfo is None:
+                date = date.replace(tzinfo=timezone.utc)
+
+            if date < cutoff:
+                continue
+        except (KeyError, TypeError, ValueError):
             continue
 
         key = (
-            item.get("category", ""),
+            category,
             re.sub(
                 r"\W+",
                 "",
@@ -207,10 +240,10 @@ def main():
             ),
         )
 
-        if key in seen:
+        if key in unique:
             continue
 
-        seen.add(key)
+        unique.add(key)
         articles.append(item)
 
     articles.sort(
@@ -220,11 +253,12 @@ def main():
 
     balanced = []
 
-    for category in CATEGORIES:
-        balanced.extend([
+    for category in FEEDS:
+        matching = [
             item for item in articles
-            if item.get("category") == category
-        ][:25])
+            if item["category"] == category
+        ]
+        balanced.extend(matching[:25])
 
     balanced.sort(
         key=lambda x: x["published"],
@@ -233,16 +267,16 @@ def main():
 
     if not balanced:
         raise RuntimeError(
-            "No publisher links could be collected. "
-            "Keeping the previous news.json unchanged."
+            "No direct publisher articles found. "
+            "Previous news.json preserved."
         )
 
-    OUT.parent.mkdir(
+    OUTPUT.parent.mkdir(
         parents=True,
         exist_ok=True,
     )
 
-    OUT.write_text(
+    OUTPUT.write_text(
         json.dumps(
             {
                 "updated": datetime.now(
@@ -250,8 +284,8 @@ def main():
                 ).isoformat(),
                 "articles": balanced,
             },
-            ensure_ascii=False,
             indent=2,
+            ensure_ascii=False,
         ),
         encoding="utf-8",
     )
@@ -259,8 +293,8 @@ def main():
     print(
         "Saved",
         len(balanced),
-        "articles; feed errors:",
-        len(failures),
+        "articles with direct publisher links.",
+        flush=True,
     )
 
 
