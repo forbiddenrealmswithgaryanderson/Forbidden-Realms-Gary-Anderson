@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-15T03:48:56.281391+00:00",
+  "updated": "2026-10-15T04:47:43.121780+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
+      "published": "2026-10-15T04:05:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Watch SpaceX deliver more than 6,000 pounds of cargo to the ISS today",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking",
+      "published": "2026-10-15T04:05:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Fires Arrive in the Amazon Rainforest",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/",
+      "published": "2026-10-15T04:01:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Green, pink and purple: Astronomers reveal the surprising true colors of white dwarf stars",
@@ -170,32 +191,11 @@
       "published": "2026-10-14T05:44:39+00:00"
     },
     {
-      "category": "Space & Cosmos",
-      "title": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
-      "published": "2026-10-14T04:05:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Hurricane Simon Lurks Off the Mexican Coast",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/",
-      "published": "2026-10-14T04:01:00+00:00"
-    },
-    {
       "category": "Ancient Mysteries",
       "title": "210-million-year-old dinosaur discovery reveals a lost world in Africa",
       "source": "Archaeology News -- ScienceDaily",
       "url": "https://www.sciencedaily.com/releases/2026/10/261012185013.htm",
       "published": "2026-10-13T22:53:03+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "On this day in space! Oct. 13, 1773: Astronomer Charles Messier discovers the Whirlpool Galaxy before we ever knew it was a galaxy",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-13-2026",
-      "published": "2026-10-13T21:00:00+00:00"
     },
     {
       "category": "Government Secrets",
