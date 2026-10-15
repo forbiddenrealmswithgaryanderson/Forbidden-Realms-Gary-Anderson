@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-15T11:48:04.247500+00:00",
+  "updated": "2026-10-15T13:01:31.430465+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Scientists discover 'chemical starter kit' for life in planetary birthplaces",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/search-for-life/scientists-discover-chemical-starter-kit-for-life-in-planetary-birthplaces",
+      "published": "2026-10-15T12:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "SpaceX wants to launch Starship more than 450 times per year from South Texas",
@@ -182,13 +189,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/asteroid-comet-missions/four-years-ago-nasa-punched-an-asteroid-europes-hera-probe-arrives-this-month-to-inspect-the-wreckage",
       "published": "2026-10-14T12:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Scientists discover that some of the universe's biggest explosions may have never happened at all",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/stars/scientists-discover-that-some-of-the-universes-biggest-explosions-may-never-have-happened",
-      "published": "2026-10-14T10:00:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
