@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-16T04:48:51.645241+00:00",
+  "updated": "2026-10-16T05:46:07.320955+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 October 16 – Chasing the International Space Station",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
+      "published": "2026-10-16T04:05:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Isaias Dims the Gulf Coast",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/",
+      "published": "2026-10-16T04:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Lunar fault maps reveal how much the moon is shrinking",
@@ -178,13 +192,6 @@
     },
     {
       "category": "Space & Cosmos",
-      "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
-      "published": "2026-10-15T04:05:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
       "title": "SpaceX Cargo Dragon delivers more than 6,000 pounds of supplies to the ISS",
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking",
@@ -192,17 +199,10 @@
     },
     {
       "category": "Space & Cosmos",
-      "title": "Watch SpaceX deliver more than 6,000 pounds of cargo to the ISS today",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking",
-      "published": "2026-10-15T04:05:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Fires Arrive in the Amazon Rainforest",
+      "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
       "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/",
-      "published": "2026-10-15T04:01:00+00:00"
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
+      "published": "2026-10-15T04:05:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
