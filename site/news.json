@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-16T09:48:02.460311+00:00",
+  "updated": "2026-10-16T10:48:54.098540+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "It's time to reassess the size of our solar system, scientists say",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/solar-system/its-time-to-reassess-the-size-of-our-solar-system-scientists-say",
+      "published": "2026-10-16T10:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "APOD: 2026 October 16 – Chasing the International Space Station",
@@ -195,13 +202,6 @@
       "title": "SpaceX Cargo Dragon delivers more than 6,000 pounds of supplies to the ISS",
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking",
-      "published": "2026-10-15T04:05:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
       "published": "2026-10-15T04:05:00+00:00"
     },
     {
