@@ -1,6 +1,41 @@
 {
-  "updated": "2026-10-16T13:53:13.552762+00:00",
+  "updated": "2026-10-16T14:49:36.471134+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Forecasting air drag with deep learning helps predict when uncontrolled satellites and rocket stages fall to Earth",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-air-deep-uncontrolled-satellites-rocket.html",
+      "published": "2026-10-16T14:40:12+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Beyond pointing your phone at the night sky, this is how to use stargazing apps effectively",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/stargazing/skywatching-kit/from-identifying-stars-and-constellations-to-seeking-out-dark-skies-these-are-the-best-ways-to-use-stargazing-apps",
+      "published": "2026-10-16T14:30:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "I Am Artemis: Allison Mjoen",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
+      "published": "2026-10-16T14:24:29+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Supermassive black hole blasts out a neon 'treble clef' | Space photo of the day for Oct. 16, 2026",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/black-holes/supermassive-black-hole-blasts-out-a-neon-treble-clef-space-photo-of-the-day-for-oct-16-2026",
+      "published": "2026-10-16T14:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "'We are getting a lot of pressure from the administrator himself': How NASA is racing to obey Trump's 'Super Intelligence' order",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/technology/we-are-getting-a-lot-of-pressure-from-the-administrator-himself-how-nasa-is-racing-to-obey-trumps-super-intelligence-order",
+      "published": "2026-10-16T13:55:13+00:00"
+    },
     {
       "category": "UFO & UAP",
       "title": "Trump Leaves Door Open to UFO Disclosure Announcement: “I’m Looking”",
@@ -63,6 +98,13 @@
       "source": "NASA",
       "url": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/",
       "published": "2026-10-16T04:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Rigorous analysis confirms NASA's Artemis II heat shield performance",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-rigorous-analysis-nasa-artemis-ii.html",
+      "published": "2026-10-15T23:40:01+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -156,20 +198,6 @@
       "published": "2026-10-15T16:13:08+00:00"
     },
     {
-      "category": "Space & Cosmos",
-      "title": "NASA's SkyFall helicopters will 'show us parts of Mars we've never seen before', scientists say",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/mars/nasas-skyfall-helicopters-will-show-us-parts-of-mars-weve-never-seen-before-scientists-say",
-      "published": "2026-10-15T16:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA Awards Enable Research, Technology to Build Future Workforce",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/",
-      "published": "2026-10-15T15:57:47+00:00"
-    },
-    {
       "category": "UFO & UAP",
       "title": "Israeli Military Continues the Search for an Unidentified Aerial Object Detected Near Lebanese Border",
       "source": "The Debrief",
@@ -191,39 +219,11 @@
       "published": "2026-10-15T15:45:08+00:00"
     },
     {
-      "category": "Space & Cosmos",
-      "title": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/",
-      "published": "2026-10-15T14:57:21+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/",
-      "published": "2026-10-15T14:19:06+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Windblown yardangs on Mars | Space photo of the day for Oct. 15, 2026",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/stars/windblown-yardangs-on-mars-space-photo-of-the-day-for-oct-15-2026",
-      "published": "2026-10-15T14:00:00+00:00"
-    },
-    {
       "category": "UFO & UAP",
       "title": "Scientists Build a Sensor That Can Test Individual Molecules for a Potential Signature of Life",
       "source": "The Debrief",
       "url": "https://thedebrief.org/scientists-build-a-sensor-that-can-test-individual-molecules-for-a-potential-signature-of-life/",
       "published": "2026-10-15T13:01:45+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Beat light pollution with these six portable telescopes",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/skywatching-kit/beat-light-pollution-with-these-six-portable-telescopes",
-      "published": "2026-10-15T13:00:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
