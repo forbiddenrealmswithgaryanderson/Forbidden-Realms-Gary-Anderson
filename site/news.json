@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-17T04:46:13.495747+00:00",
+  "updated": "2026-10-17T05:44:15.533176+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 October 17 – 3D 67P",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+      "published": "2026-10-17T04:05:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Astronomer leads global team on NASA mission to create unprecedented view of the early universe",
@@ -196,13 +203,6 @@
       "source": "The Debrief",
       "url": "https://thedebrief.org/we-are-certainly-proving-out-technologies-for-the-future-voyagers-griffin-1-mission-cleared-for-2026-launch/",
       "published": "2026-10-16T13:18:16+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA’s Hubble Spies Spiral’s Edge",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
-      "published": "2026-10-16T12:42:08+00:00"
     },
     {
       "category": "UFO & UAP",
