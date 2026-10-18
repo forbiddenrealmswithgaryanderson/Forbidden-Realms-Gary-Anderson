@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-18T11:41:32.271280+00:00",
+  "updated": "2026-10-18T12:51:26.095762+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Astronomers want your help finding 'missing' black holes in the Milky Way",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way",
+      "published": "2026-10-18T12:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Japan to launch spacecraft on a mission to get samples from a Martian moon",
@@ -175,13 +182,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/technology/spacex-thrusters-just-made-a-tesla-roadster-fly-and-elon-musks-car-is-still-out-there-in-space",
       "published": "2026-10-16T17:38:34+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "On this day in space! Oct. 16, 1975: NASA launches the 1st-ever GOES weather satellite to watch Earth from space",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-16-2026",
-      "published": "2026-10-16T17:19:02+00:00"
     },
     {
       "category": "Government Secrets",
