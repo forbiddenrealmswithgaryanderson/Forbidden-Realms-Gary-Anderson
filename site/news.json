@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-18T04:46:07.233753+00:00",
+  "updated": "2026-10-18T05:44:10.660996+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
+      "published": "2026-10-18T04:05:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Simulations explore nuclear mitigation of asteroid threats",
@@ -175,13 +182,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-10-elon-musk-unveils-tesla-flying.html",
       "published": "2026-10-16T16:20:11+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "'Mission: 60s' event promises passport back to the Space Age",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/apollo/rocket-back-to-the-space-age-with-mission-60s-event-in-nyc-next-weekend",
-      "published": "2026-10-16T16:00:00+00:00"
     },
     {
       "category": "Government Secrets",
