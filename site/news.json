@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-18T09:44:46.405330+00:00",
+  "updated": "2026-10-18T10:43:59.631273+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "10 best places to see the 2027 total solar eclipse in Spain",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/stargazing/solar-eclipses/10-best-places-to-see-the-2027-total-solar-eclipse-in-spain",
+      "published": "2026-10-18T10:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "'Let's all choose to make tomorrow better', Artemis II astronauts honored with Stephen Hawking Medal at Starmus",
@@ -175,13 +182,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/entertainment/space-movies-shows/dark-matters-joel-edgerton-and-jennifer-connelly-talk-s2s-marital-disintegration-and-the-humility-of-hanging-on-wires-interview",
       "published": "2026-10-16T17:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Artemis II Heat Shield After Splashdown",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/",
-      "published": "2026-10-16T16:28:01+00:00"
     },
     {
       "category": "Government Secrets",
