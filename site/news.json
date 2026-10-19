@@ -1,11 +1,18 @@
 {
-  "updated": "2026-10-19T16:51:23.429365+00:00",
+  "updated": "2026-10-19T17:45:31.163687+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Euclid discovers its first new comet 810 million miles from Earth",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-euclid-comet-million-miles-earth.html",
+      "published": "2026-10-19T17:20:01+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Instrumentation",
       "source": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/glenn/instrumentation-2/",
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
       "published": "2026-10-19T16:37:45+00:00"
     },
     {
@@ -189,13 +196,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-10-salt-crystals-clues-life-beneath.html",
       "published": "2026-10-17T15:40:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026",
-      "published": "2026-10-17T14:49:01+00:00"
     },
     {
       "category": "Government Secrets",
