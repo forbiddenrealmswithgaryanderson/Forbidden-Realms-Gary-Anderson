@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-19T15:50:17.367173+00:00",
+  "updated": "2026-10-19T16:51:23.429365+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Instrumentation",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/instrumentation-2/",
+      "published": "2026-10-19T16:37:45+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Martian Dawn",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/martian-dawn/",
+      "published": "2026-10-19T16:03:51+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "'They're kind of goth': NASA spacecraft gives mysterious brown dwarfs a close-up",
@@ -182,20 +196,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026",
       "published": "2026-10-17T14:49:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "This Week In Space podcast: Episode 232 — The Lunar Dump",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-232-the-lunar-dump",
-      "published": "2026-10-17T14:17:38+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "6 scientifically accurate star projectors to turn any room into a home planetarium",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium",
-      "published": "2026-10-17T14:00:00+00:00"
     },
     {
       "category": "Government Secrets",
