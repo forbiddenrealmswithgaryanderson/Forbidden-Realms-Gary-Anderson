@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-19T11:49:30.943770+00:00",
+  "updated": "2026-10-19T13:00:35.434881+00:00",
   "articles": [
+    {
+      "category": "Government Secrets",
+      "title": "Scientists Built a Computer Using Living Human Brain Cells—Now It Can Decode Braille",
+      "source": "The Debrief",
+      "url": "https://thedebrief.org/scientists-built-a-computer-using-living-human-brain-cells-now-it-can-decode-braille/",
+      "published": "2026-10-19T12:01:42+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Did a giant object collide with Earth to form the moon?",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/moon/did-a-giant-object-collide-with-earth-to-form-the-moon",
+      "published": "2026-10-19T12:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Japan launching bold sample-return mission to Mars moon Phobos today: Watch it live",
@@ -189,13 +203,6 @@
       "source": "NASA",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
       "published": "2026-10-17T04:05:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Astronomer leads global team on NASA mission to create unprecedented view of the early universe",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-astronomer-global-team-nasa-mission.html",
-      "published": "2026-10-16T23:20:01+00:00"
     },
     {
       "category": "Government Secrets",
@@ -546,13 +553,6 @@
       "source": "The Debrief",
       "url": "https://thedebrief.org/hackers-claim-major-fbi-data-breach-in-apparent-retaliation-against-the-bureau/",
       "published": "2026-09-24T14:00:08+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "US Intelligence Quietly Launched AI to Pinpoint Where Almost Any Video Was Filmed in Under 5 Minutes",
-      "source": "The Debrief",
-      "url": "https://thedebrief.org/us-intelligence-quietly-launched-ai-to-pinpoint-where-almost-any-video-was-filmed-in-under-5-minutes/",
-      "published": "2026-09-24T12:28:26+00:00"
     },
     {
       "category": "Ancient Mysteries",
