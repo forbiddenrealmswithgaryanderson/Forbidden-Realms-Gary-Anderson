@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-20T11:47:45.188876+00:00",
+  "updated": "2026-10-20T13:00:11.663911+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "The sun may have stripped away meters of interstellar comet 3I/ATLAS",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-sun-meters-interstellar-comet-3iatlas.html",
+      "published": "2026-10-20T12:10:01+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Could a $200K bond for satellites paid before launch prevent a space junk disaster in orbit? Here's why some scientists think so",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/satellites/could-satellite-deorbit-deposits-prevent-a-space-debris-disaster",
+      "published": "2026-10-20T12:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever (video)",
@@ -161,20 +175,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/",
       "published": "2026-10-19T18:01:51+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Euclid discovers its first new comet 810 million miles from Earth",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-euclid-comet-million-miles-earth.html",
-      "published": "2026-10-19T17:20:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Instrumentation",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
-      "published": "2026-10-19T16:37:45+00:00"
     },
     {
       "category": "Government Secrets",
