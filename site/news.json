@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-20T04:47:27.311327+00:00",
+  "updated": "2026-10-20T05:46:47.208585+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
+      "published": "2026-10-20T04:05:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "The Human Fingerprint on Earth’s Water Cycle",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
+      "published": "2026-10-20T04:01:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
@@ -168,20 +182,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/astronomy/moon/did-a-giant-object-collide-with-earth-to-form-the-moon",
       "published": "2026-10-19T12:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Watch Japan launch a bold sample-return mission to Mars moon Phobos today",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/mars/japan-launching-bold-sample-return-mission-to-mars-moon-phobos-today-watch-it-live",
-      "published": "2026-10-19T10:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Japan launching bold sample-return mission to Mars moon Phobos today: Watch it live",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/mars/japan-launching-bold-sample-return-mission-to-mars-moon-phobos-today-watch-it-live",
-      "published": "2026-10-19T10:00:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
