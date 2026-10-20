@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-20T10:47:34.087712+00:00",
+  "updated": "2026-10-20T11:47:45.188876+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever (video)",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission",
+      "published": "2026-10-20T11:16:37+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Lucy mission marks 5 years of discoveries",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-lucy-mission-years-discoveries.html",
+      "published": "2026-10-20T11:00:07+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "NASA closes the book on epic OSIRIS-REx asteroid-sampling mission: 'I am immensely proud of what we did'",
@@ -161,20 +175,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
       "published": "2026-10-19T16:37:45+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Martian Dawn",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/martian-dawn/",
-      "published": "2026-10-19T16:03:51+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "'They're kind of goth': NASA spacecraft gives mysterious brown dwarfs a close-up",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/stars/theyre-kind-of-goth-nasa-spacecraft-gives-mysterious-brown-dwarfs-a-close-up",
-      "published": "2026-10-19T15:06:38+00:00"
     },
     {
       "category": "Government Secrets",
