@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-20T14:50:31.952169+00:00",
+  "updated": "2026-10-20T15:48:34.618698+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA Provides Progress Update on Moon Base Rovers",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/",
+      "published": "2026-10-20T15:00:10+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Webb Captures Stellar Jets",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
+      "published": "2026-10-20T14:44:09+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
@@ -168,20 +182,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-10-japan-world-mission-moon-mars.html",
       "published": "2026-10-19T19:30:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA Improves Shock, Vibration Analysis",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
-      "published": "2026-10-19T19:28:32+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "The moon is shrinking. 10,000 cracks on the lunar surface reveal by how much",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/moon/the-moon-is-shrinking-10-000-cracks-on-the-lunar-surface-reveal-by-how-much",
-      "published": "2026-10-19T19:00:00+00:00"
     },
     {
       "category": "Government Secrets",
