@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-20T22:45:20.790046+00:00",
+  "updated": "2026-10-20T23:42:33.592910+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA Study Refines Projections for Thwaites Glacier",
+      "source": "News and Features - NASA's Jet Propulsion Laboratory",
+      "url": "https://www.jpl.nasa.gov/news/nasa-study-refines-projections-for-thwaites-glacier",
+      "published": "2026-10-20T23:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says",
@@ -136,16 +143,16 @@
     },
     {
       "category": "Space & Cosmos",
-      "title": "Red light, white light: How to preserve your night vision while using stargazing apps",
+      "title": "The view from the edge of a sparkling spiral galaxy | Space photo of the day for Oct. 20, 2026",
       "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/skywatching-kit/red-light-white-light-how-to-preserve-your-night-vision-while-using-stargazing-apps",
+      "url": "https://www.space.com/astronomy/galaxies/the-view-from-the-edge-of-a-spiral-galaxy-space-photo-of-the-day-for-oct-20-2026",
       "published": "2026-10-20T14:00:00+00:00"
     },
     {
       "category": "Space & Cosmos",
-      "title": "The view from the edge of a sparkling spiral galaxy | Space photo of the day for Oct. 20, 2026",
+      "title": "Red light, white light: How to preserve your night vision while using stargazing apps",
       "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/galaxies/the-view-from-the-edge-of-a-spiral-galaxy-space-photo-of-the-day-for-oct-20-2026",
+      "url": "https://www.space.com/stargazing/skywatching-kit/red-light-white-light-how-to-preserve-your-night-vision-while-using-stargazing-apps",
       "published": "2026-10-20T14:00:00+00:00"
     },
     {
@@ -175,13 +182,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/satellites/could-satellite-deorbit-deposits-prevent-a-space-debris-disaster",
       "published": "2026-10-20T12:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever (video)",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission",
-      "published": "2026-10-20T11:16:37+00:00"
     },
     {
       "category": "Government Secrets",
