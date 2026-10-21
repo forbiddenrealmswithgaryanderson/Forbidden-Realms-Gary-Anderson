@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-21T14:49:48.029276+00:00",
+  "updated": "2026-10-21T15:51:15.279181+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/",
+      "published": "2026-10-21T15:05:08+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "\"A great budget lens for astrophotography, the sharpness produced at f/1.8 and f/2.8 is exactly what you want.\" Viltrox AF 16mm f/1.8 FE lens review",
@@ -175,13 +182,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
       "published": "2026-10-20T18:11:33+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Jeff Bezos is playing the long game with Blue Origin (op-ed)",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-is-playing-the-long-game-with-blue-origin-op-ed",
-      "published": "2026-10-20T18:00:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
