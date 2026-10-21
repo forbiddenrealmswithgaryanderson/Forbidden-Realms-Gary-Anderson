@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-21T07:56:25.585319+00:00",
+  "updated": "2026-10-21T08:52:12.255232+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "SpaceX turns a profit after a string of losses as its satellite and computer leasing businesses soar",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-spacex-profit-losses-satellite-leasing.html",
+      "published": "2026-10-21T08:48:15+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia",
@@ -168,13 +175,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/",
       "published": "2026-10-20T14:21:42+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Red light, white light: How to preserve your night vision while using stargazing apps",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/skywatching-kit/red-light-white-light-how-to-preserve-your-night-vision-while-using-stargazing-apps",
-      "published": "2026-10-20T14:00:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
