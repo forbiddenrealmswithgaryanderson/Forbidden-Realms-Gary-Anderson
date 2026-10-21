@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-21T17:46:22.410876+00:00",
+  "updated": "2026-10-21T18:56:53.452454+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
+      "published": "2026-10-21T18:35:56+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Sci-fi legend Alan Dean Foster on his new futuristic adventure 'Lost On Paradise': 'It's paradise until you get there, and then maybe you mess it up' (interview)",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/entertainment/space-books/sci-fi-legend-alan-dean-foster-on-his-new-futuristic-adventure-lost-on-paradise-its-paradise-until-you-get-there-and-then-maybe-you-mess-it-up-interview",
+      "published": "2026-10-21T18:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Hubble observations challenge supernova winds' role in cosmic reionization",
@@ -168,20 +182,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
       "published": "2026-10-20T20:21:36+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Water as we've never known it: Physicists test water beyond Earth-like conditions",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-weve-physicists-earth-conditions.html",
-      "published": "2026-10-20T20:10:02+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Aurora supercomputer powers two of the largest cosmological simulations to date",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-aurora-supercomputer-powers-largest-cosmological.html",
-      "published": "2026-10-20T20:00:14+00:00"
     },
     {
       "category": "Ancient Mysteries",
