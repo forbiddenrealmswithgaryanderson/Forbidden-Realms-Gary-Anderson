@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-21T09:49:49.779573+00:00",
+  "updated": "2026-10-21T10:49:25.547407+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Russian satellite plays 'cat-and-mouse' with a commercial US spacecraft likely used by Ukraine. But why the risky close encounter?",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/satellites/russian-satellite-plays-cat-and-mouse-with-a-commercial-us-satellite-likely-used-by-ukraine-but-why-the-risky-close-encounter",
+      "published": "2026-10-21T10:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "SpaceX turns a profit after a string of losses as its satellite and computer leasing businesses soar",
@@ -168,13 +175,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
       "published": "2026-10-20T14:44:09+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/",
-      "published": "2026-10-20T14:21:42+00:00"
     },
     {
       "category": "Ancient Mysteries",
