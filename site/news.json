@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-22T03:50:02.835090+00:00",
+  "updated": "2026-10-22T04:48:18.652296+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+      "published": "2026-10-22T04:05:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Fires Char New Guinea",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+      "published": "2026-10-22T04:01:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Faster to Science: A Letter to the Science Community",
@@ -168,20 +182,6 @@
       "source": "News and Features - NASA's Jet Propulsion Laboratory",
       "url": "https://www.jpl.nasa.gov/news/nasa-study-refines-projections-for-thwaites-glacier",
       "published": "2026-10-20T23:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says",
-      "published": "2026-10-20T22:29:46+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "'Terror of kings': Why the 1066 appearance of Halley's Comet terrified the medieval world",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-terror-kings-halley-comet-medieval.html",
-      "published": "2026-10-20T21:30:01+00:00"
     },
     {
       "category": "Ancient Mysteries",
