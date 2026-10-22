@@ -1,12 +1,40 @@
 {
-  "updated": "2026-10-22T16:49:45.357321+00:00",
+  "updated": "2026-10-22T17:45:06.166104+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Webb captures stars in the early stages of life in a nearby stellar nursery",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-webb-captures-stars-early-stages.html",
+      "published": "2026-10-22T17:40:18+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Webb image reveals young stars brewing in a nebulous cauldron",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-webb-image-reveals-young-stars.html",
+      "published": "2026-10-22T17:40:01+00:00"
+    },
+    {
+      "category": "Government Secrets",
+      "title": "Scientists Are Racing to Detect a Potentially Dangerous Form of Synthetic Life Before It Exists",
+      "source": "The Debrief",
+      "url": "https://thedebrief.org/scientists-are-racing-to-detect-a-potentially-dangerous-form-of-synthetic-life-before-it-exists/",
+      "published": "2026-10-22T17:30:42+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Pedal to the Metal: NASA’s Psyche Heads Toward Asteroid Belt",
       "source": "News and Features - NASA's Jet Propulsion Laboratory",
       "url": "https://www.jpl.nasa.gov/news/pedal-to-the-metal-nasas-psyche-heads-toward-asteroid-belt",
       "published": "2026-10-22T16:30:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
+      "published": "2026-10-22T16:20:37+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -28,6 +56,13 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-10-black-hole-uncover-evidence-solar.html",
       "published": "2026-10-22T15:03:31+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "New study traces van Gogh's famed 'Starry Night' to an actual night sky from 1889",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-sky-van-gogh-starry-night.html",
+      "published": "2026-10-22T15:00:15+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -147,34 +182,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
       "published": "2026-10-21T16:31:11+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Tracks Along the Longest Drive on Another World",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
-      "published": "2026-10-21T15:50:44+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/",
-      "published": "2026-10-21T15:05:08+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "\"A great budget lens for astrophotography, the sharpness produced at f/1.8 and f/2.8 is exactly what you want.\" Viltrox AF 16mm f/1.8 FE lens review",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/astrophotography/a-great-budget-lens-for-astrophotography-the-sharpness-produced-at-f-1-8-and-f-2-8-is-exactly-what-you-want-viltrox-af-16mm-f-1-8-fe-lens-review",
-      "published": "2026-10-21T14:30:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Space botanist conducts plant experiments in orbit | Space photo of the day for Oct. 21, 2026",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/space-botanist-conducts-plant-experiments-in-orbit-space-photo-of-the-day-for-oct-21-2026",
-      "published": "2026-10-21T14:00:00+00:00"
     },
     {
       "category": "UFO & UAP",
@@ -560,13 +567,6 @@
       "source": "The Debrief",
       "url": "https://thedebrief.org/story-of-former-pentagon-official-who-led-u-s-governments-uap-investigations-is-coming-to-television/",
       "published": "2026-09-24T15:29:23+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "Hackers Claim Major FBI Data Breach in Apparent Retaliation Against the Bureau",
-      "source": "The Debrief",
-      "url": "https://thedebrief.org/hackers-claim-major-fbi-data-breach-in-apparent-retaliation-against-the-bureau/",
-      "published": "2026-09-24T14:00:08+00:00"
     },
     {
       "category": "Ancient Mysteries",
