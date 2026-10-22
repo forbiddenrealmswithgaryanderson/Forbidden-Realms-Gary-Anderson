@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-22T09:51:32.584369+00:00",
+  "updated": "2026-10-22T10:48:47.226239+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA giving update about Artemis moon plans on Oct. 23: Watch it live",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/artemis/nasa-giving-update-about-artemis-moon-plans-on-oct-23-watch-it-live",
+      "published": "2026-10-22T10:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
@@ -175,13 +182,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-10-rare-solar-storm-scientists-clearest.html",
       "published": "2026-10-21T01:00:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA Study Refines Projections for Thwaites Glacier",
-      "source": "News and Features - NASA's Jet Propulsion Laboratory",
-      "url": "https://www.jpl.nasa.gov/news/nasa-study-refines-projections-for-thwaites-glacier",
-      "published": "2026-10-20T23:00:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
