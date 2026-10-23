@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-23T18:55:34.626448+00:00",
+  "updated": "2026-10-23T19:45:27.224524+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Everyday Mylar turned into a promising insulator for lunar habitats",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-everyday-mylar-insulator-lunar-habitats.html",
+      "published": "2026-10-23T19:20:01+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Stellar collision may explain why Orion Nebula's planet-forming disks appear younger than its stars",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-stellar-collision-orion-nebula-planet.html",
+      "published": "2026-10-23T19:00:01+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "RS-25 Engine Tests at NASA Stennis",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
+      "published": "2026-10-23T18:57:04+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Black holes spinning near maximum rate could split in two, calculations suggest",
@@ -184,32 +205,11 @@
       "published": "2026-10-22T17:40:18+00:00"
     },
     {
-      "category": "Space & Cosmos",
-      "title": "Webb image reveals young stars brewing in a nebulous cauldron",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-webb-image-reveals-young-stars.html",
-      "published": "2026-10-22T17:40:01+00:00"
-    },
-    {
       "category": "Government Secrets",
       "title": "Scientists Are Racing to Detect a Potentially Dangerous Form of Synthetic Life Before It Exists",
       "source": "The Debrief",
       "url": "https://thedebrief.org/scientists-are-racing-to-detect-a-potentially-dangerous-form-of-synthetic-life-before-it-exists/",
       "published": "2026-10-22T17:30:42+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Pedal to the Metal: NASA’s Psyche Heads Toward Asteroid Belt",
-      "source": "News and Features - NASA's Jet Propulsion Laboratory",
-      "url": "https://www.jpl.nasa.gov/news/pedal-to-the-metal-nasas-psyche-heads-toward-asteroid-belt",
-      "published": "2026-10-22T16:30:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
-      "published": "2026-10-22T16:20:37+00:00"
     },
     {
       "category": "UFO & UAP",
