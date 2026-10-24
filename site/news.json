@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T12:55:11.309809+00:00",
+  "updated": "2026-10-24T13:44:05.489143+00:00",
   "articles": [
     {
       "category": "Space & Cosmos",
@@ -28,6 +28,20 @@
       "source": "NASA",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
       "published": "2026-10-24T04:05:00+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "This 150-million-year-old bird had dinosaur teeth and a strange secret",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261023023710.htm",
+      "published": "2026-10-24T02:42:19+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (video)",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly",
+      "published": "2026-10-23T23:26:41+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -196,13 +210,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/satellites/space-debris-are-we-on-track-for-true-sustainability-op-ed",
       "published": "2026-10-23T10:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "A mineral from the inside of planets reveals a surprising lesson: How you push matters",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-mineral-planets-reveals-lesson.html",
-      "published": "2026-10-23T07:42:44+00:00"
     },
     {
       "category": "Government Secrets",
@@ -637,13 +644,6 @@
       "source": "Archaeology News -- ScienceDaily",
       "url": "https://www.sciencedaily.com/releases/2026/09/260911003849.htm",
       "published": "2026-09-11T23:47:16+00:00"
-    },
-    {
-      "category": "Ancient Mysteries",
-      "title": "Archaeologists find a 3,000-year-old Egyptian tomb before it’s too late",
-      "source": "Archaeology News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
-      "published": "2026-09-10T10:35:52+00:00"
     },
     {
       "category": "UFO & UAP",
