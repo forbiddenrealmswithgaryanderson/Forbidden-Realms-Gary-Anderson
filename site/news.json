@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-24T04:46:25.876778+00:00",
+  "updated": "2026-10-24T05:46:55.314167+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
+      "published": "2026-10-24T04:05:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (photos)",
@@ -108,6 +115,13 @@
     },
     {
       "category": "Space & Cosmos",
+      "title": "NASA's Hubble charts path for Roman with gravitational lenses",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-nasa-hubble-path-roman-gravitational.html",
+      "published": "2026-10-23T14:50:01+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
       "title": "Private Griffin moon lander gets put to the test | Space photo of the day for Oct. 23, 2026",
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026",
@@ -189,20 +203,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-10-autonomous-triangular-modules-tomorrow-mega.html",
       "published": "2026-10-23T00:40:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Europe's Space Rider vehicle comes crashing down during drop test",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test",
-      "published": "2026-10-22T22:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
-      "published": "2026-10-22T21:39:58+00:00"
     },
     {
       "category": "Government Secrets",
