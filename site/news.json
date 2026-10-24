@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-24T15:45:28.633794+00:00",
+  "updated": "2026-10-24T16:46:19.294368+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "This Week In Space podcast: Episode 233 — The Artemis Generation",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-233-the-artemis-generation",
+      "published": "2026-10-24T15:53:21+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "On this day in space! Oct. 24, 1946: V-2 rocket takes 1st photos of Earth from space",
@@ -203,13 +210,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/astronomy/dark-universe/stupendously-large-black-holes-arent-a-major-component-of-dark-matter-study-finds",
       "published": "2026-10-23T12:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence",
-      "published": "2026-10-23T10:57:51+00:00"
     },
     {
       "category": "Government Secrets",
