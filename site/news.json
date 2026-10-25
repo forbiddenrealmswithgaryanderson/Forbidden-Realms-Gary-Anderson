@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-25T17:43:01.609346+00:00",
+  "updated": "2026-10-25T18:50:06.168002+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Milky Way's disk grew 'upside down,' with younger stars forming in ever-thinner layers",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-milky-disk-grew-upside-younger.html",
+      "published": "2026-10-25T18:30:02+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "On this day in space! Oct. 25, 1671: Astronomer Giovanni Cassini discovers Iapetus, Saturn's 'yin-yang' moon",
@@ -182,13 +189,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-10-alma-dragon-egg-earliest-stages.html",
       "published": "2026-10-23T16:50:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Never finishing the fight: Where did Xbox go wrong with Halo?",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/space-games/never-finishing-the-fight-where-did-xbox-go-wrong-with-halo",
-      "published": "2026-10-23T16:00:00+00:00"
     },
     {
       "category": "Government Secrets",
