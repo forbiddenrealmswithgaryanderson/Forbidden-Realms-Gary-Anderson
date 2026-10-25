@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-25T09:46:46.164250+00:00",
+  "updated": "2026-10-25T10:45:30.061514+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "October's 'Hunter's Moon' stalks into the autumn sky tonight: Here's what you need to know",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/stargazing/octobers-hunters-moon-stalks-into-the-autumn-sky-tonight-heres-what-you-need-to-know",
+      "published": "2026-10-25T10:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
@@ -175,13 +182,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-10-artemis-crystals-experimental-detectors-doses.html",
       "published": "2026-10-23T15:40:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA's Hubble charts path for Roman with gravitational lenses",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-nasa-hubble-path-roman-gravitational.html",
-      "published": "2026-10-23T14:50:01+00:00"
     },
     {
       "category": "Government Secrets",
