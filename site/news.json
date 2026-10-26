@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-26T20:50:57.200330+00:00",
+  "updated": "2026-10-26T21:47:13.844756+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+      "published": "2026-10-26T21:07:28+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Analog astronauts: How living underwater can prepare humans for space missions",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/missions/analog-astronauts-how-living-underwater-can-prepare-humans-for-space-missions",
+      "published": "2026-10-26T21:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "On this day in space! Oct. 26, 2004: Cassini spacecraft takes 1st-ever closeup photos of Saturn moon Titan",
@@ -168,20 +182,6 @@
       "source": "NASA",
       "url": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
       "published": "2026-10-26T04:01:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Lumina simulation brings the early universe to life on a record-breaking scale",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-lumina-simulation-early-universe-life.html",
-      "published": "2026-10-26T00:10:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Milky Way's disk grew 'upside down,' with younger stars forming in ever-thinner layers",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-milky-disk-grew-upside-younger.html",
-      "published": "2026-10-25T18:30:02+00:00"
     },
     {
       "category": "Ancient Mysteries",
