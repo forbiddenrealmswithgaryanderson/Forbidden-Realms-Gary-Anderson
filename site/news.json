@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-26T22:49:50.778574+00:00",
+  "updated": "2026-10-26T23:44:56.947901+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
+      "published": "2026-10-26T22:48:12+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
@@ -175,13 +182,6 @@
       "source": "Archaeology News -- ScienceDaily",
       "url": "https://www.sciencedaily.com/releases/2026/10/261025073036.htm",
       "published": "2026-10-26T09:51:15+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "APOD: 2026 October 26 – M42: The Great Nebula in Orion",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
-      "published": "2026-10-26T04:05:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
