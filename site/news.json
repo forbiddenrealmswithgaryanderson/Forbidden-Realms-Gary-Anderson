@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T21:47:13.844756+00:00",
+  "updated": "2026-10-26T22:49:50.778574+00:00",
   "articles": [
     {
       "category": "Space & Cosmos",
@@ -14,6 +14,20 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/missions/analog-astronauts-how-living-underwater-can-prepare-humans-for-space-missions",
       "published": "2026-10-26T21:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NEO Surveyor’s Sunshade Gets Inspected",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+      "published": "2026-10-26T20:53:13+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
+      "published": "2026-10-26T20:52:24+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -168,20 +182,6 @@
       "source": "NASA",
       "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
       "published": "2026-10-26T04:05:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "2026 October 26 – M42: The Great Nebula in Orion",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
-      "published": "2026-10-26T04:05:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Hunting Red Leaves with Satellites",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
-      "published": "2026-10-26T04:01:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
