@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-26T09:59:07.739310+00:00",
+  "updated": "2026-10-26T10:54:43.070466+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "'More missions, more often': NASA is overhauling how it selects science missions",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/more-missions-more-often-nasa-is-overhauling-how-it-selects-science-missions",
+      "published": "2026-10-26T10:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "2026 October 26 – M42: The Great Nebula in Orion",
@@ -182,13 +189,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
       "published": "2026-10-23T18:57:04+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Black holes spinning near maximum rate could split in two, calculations suggest",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-black-holes-maximum.html",
-      "published": "2026-10-23T18:20:12+00:00"
     },
     {
       "category": "Government Secrets",
