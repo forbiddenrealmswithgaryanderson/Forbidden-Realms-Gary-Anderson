@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-27T09:54:27.916702+00:00",
+  "updated": "2026-10-27T10:52:38.116878+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Astroscale proposes fleet of 'bodyguard' spacecraft to protect satellites from orbital attacks",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/satellites/astroscale-proposes-fleet-of-bodyguard-spacecraft-to-protect-satellites-from-orbital-attacks",
+      "published": "2026-10-27T10:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
@@ -168,13 +175,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
       "published": "2026-10-26T13:54:25+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "JWST and ALMA reveal a dusty, rapidly growing black hole in the early universe",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-jwst-alma-reveal-dusty-rapidly.html",
-      "published": "2026-10-26T13:20:36+00:00"
     },
     {
       "category": "Ancient Mysteries",
