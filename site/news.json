@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-27T19:52:25.181597+00:00",
+  "updated": "2026-10-27T20:50:10.713800+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Autonomous rendezvous system overcomes simulated spacecraft failures in lab tests",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-autonomous-rendezvous-simulated-spacecraft-failures.html",
+      "published": "2026-10-27T20:00:03+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
@@ -182,13 +189,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/missions/analog-astronauts-how-living-underwater-can-prepare-humans-for-space-missions",
       "published": "2026-10-26T21:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NEO Surveyor’s Sunshade Gets Inspected",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
-      "published": "2026-10-26T20:53:13+00:00"
     },
     {
       "category": "Ancient Mysteries",
