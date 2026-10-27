@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-27T21:49:25.322770+00:00",
+  "updated": "2026-10-27T22:49:37.123410+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Rubin Observatory reveals its first dwarf planet candidate in our solar system",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-rubin-observatory-reveals-dwarf-planet.html",
+      "published": "2026-10-27T22:30:05+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Double debris disk orbiting a dead star hints at our solar system's future",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-debris-disk-orbiting-dead-star.html",
+      "published": "2026-10-27T22:00:12+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "A brief-ish history of METI. Part I: Early ideas and experiments",
@@ -175,20 +189,6 @@
       "source": "NASA",
       "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
       "published": "2026-10-27T04:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "27 exoplanet targets for the world's first private space telescope",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-exoplanet-world-private-space-telescope.html",
-      "published": "2026-10-27T00:00:06+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
-      "published": "2026-10-26T22:48:12+00:00"
     },
     {
       "category": "Ancient Mysteries",
