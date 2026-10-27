@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-27T20:50:10.713800+00:00",
+  "updated": "2026-10-27T21:49:25.322770+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "A brief-ish history of METI. Part I: Early ideas and experiments",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-ish-history-meti-early-ideas.html",
+      "published": "2026-10-27T21:10:01+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "How 'spacewalking' underwater made me feel like I was really in space",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/how-spacewalking-underwater-made-me-feel-like-i-was-really-in-space",
+      "published": "2026-10-27T21:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Autonomous rendezvous system overcomes simulated spacecraft failures in lab tests",
@@ -175,20 +189,6 @@
       "source": "NASA",
       "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
       "published": "2026-10-26T22:48:12+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
-      "published": "2026-10-26T21:07:28+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Analog astronauts: How living underwater can prepare humans for space missions",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/missions/analog-astronauts-how-living-underwater-can-prepare-humans-for-space-missions",
-      "published": "2026-10-26T21:00:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
