@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-28T04:58:10.637558+00:00",
+  "updated": "2026-10-28T05:55:55.372255+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+      "published": "2026-10-28T05:39:46+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
+      "published": "2026-10-28T04:05:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "The Land of the Standing-Up Rocks",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
+      "published": "2026-10-28T04:01:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Rubin Observatory reveals its first dwarf planet candidate in our solar system",
@@ -59,16 +80,16 @@
     },
     {
       "category": "Space & Cosmos",
-      "title": "November full moon 2026: When, where and how to see the Beaver Moon",
+      "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers",
       "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
       "published": "2026-10-27T18:00:00+00:00"
     },
     {
       "category": "Space & Cosmos",
-      "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers",
+      "title": "November full moon 2026: When, where and how to see the Beaver Moon",
       "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
+      "url": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon",
       "published": "2026-10-27T18:00:00+00:00"
     },
     {
@@ -168,27 +189,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/satellites/astroscale-proposes-fleet-of-bodyguard-spacecraft-to-protect-satellites-from-orbital-attacks",
       "published": "2026-10-27T10:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
-      "published": "2026-10-27T07:07:51+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
-      "published": "2026-10-27T04:05:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "A-81 Reaches South Georgia",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
-      "published": "2026-10-27T04:00:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
