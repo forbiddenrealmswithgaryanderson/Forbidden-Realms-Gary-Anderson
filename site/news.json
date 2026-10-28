@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-28T21:53:55.637674+00:00",
+  "updated": "2026-10-28T22:53:25.766151+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+      "published": "2026-10-28T21:50:01+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Could next-gen artificial intelligence help map out future space outposts?",
@@ -168,13 +175,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-10-debris-disk-orbiting-dead-star.html",
       "published": "2026-10-27T22:00:12+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "A brief-ish history of METI. Part I: Early ideas and experiments",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-ish-history-meti-early-ideas.html",
-      "published": "2026-10-27T21:10:01+00:00"
     },
     {
       "category": "UFO & UAP",
