@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-29T02:08:41.027902+00:00",
+  "updated": "2026-10-29T03:00:07.046224+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+      "published": "2026-10-29T02:49:59+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "On this day in space! Oct. 28, 1971: Britain launches its 1st satellite Prospero into space on a Black Arrow rocket",
@@ -168,13 +175,6 @@
       "source": "NASA",
       "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
       "published": "2026-10-28T04:01:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Rubin Observatory reveals its first dwarf planet candidate in our solar system",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-rubin-observatory-reveals-dwarf-planet.html",
-      "published": "2026-10-27T22:30:05+00:00"
     },
     {
       "category": "UFO & UAP",
