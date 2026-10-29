@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-29T03:59:41.466841+00:00",
+  "updated": "2026-10-29T04:59:34.948249+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 29 October 2026 – The Horns of Venus",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+      "published": "2026-10-29T04:05:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Arnab Strikes India",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
+      "published": "2026-10-29T04:01:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
@@ -161,20 +175,6 @@
       "source": "NASA",
       "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
       "published": "2026-10-28T05:39:46+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
-      "published": "2026-10-28T04:05:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "The Land of the Standing-Up Rocks",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
-      "published": "2026-10-28T04:01:00+00:00"
     },
     {
       "category": "UFO & UAP",
