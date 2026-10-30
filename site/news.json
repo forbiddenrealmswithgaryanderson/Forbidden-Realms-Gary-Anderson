@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-29T23:50:50.346802+00:00",
+  "updated": "2026-10-30T01:17:23.214667+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA's new UV space telescope will launch in 2031",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-nasa-uv-space-telescope.html",
+      "published": "2026-10-30T00:40:01+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+      "published": "2026-10-30T00:07:39+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86",
+      "published": "2026-10-29T23:49:50+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Slice of Martian Meteorite Teghaza 001",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/",
+      "published": "2026-10-29T23:32:35+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Rare 4.1-billion-year-old Martian meteorite reveals clues to planet's ancient past",
@@ -35,6 +63,13 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/artemis/artemis-ii-commander-reid-wiseman-named-deputy-director-for-nasas-jet-propulsion-laboratory",
       "published": "2026-10-29T21:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Ghostly Cat's Head Nebula lurks within sight of NASA's Hubble, Webb",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-10-ghostly-cat-nebula-lurks-sight.html",
+      "published": "2026-10-29T20:20:01+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -142,46 +177,11 @@
       "published": "2026-10-29T15:21:23+00:00"
     },
     {
-      "category": "Space & Cosmos",
-      "title": "Grand Theft Astro: Stars' criminal histories could reshape estimates of their internal magnetic fields",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-grand-theft-astro-stars-criminal.html",
-      "published": "2026-10-29T15:20:16+00:00"
-    },
-    {
       "category": "Government Secrets",
       "title": "New Defense Intelligence Report Reveals Growing Threats in Space—and China’s Secretive Spaceplane",
       "source": "The Debrief",
       "url": "https://thedebrief.org/new-defense-intelligence-report-reveals-growing-threats-in-space-and-chinas-secretive-spaceplane/",
       "published": "2026-10-29T15:16:31+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/",
-      "published": "2026-10-29T15:10:18+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/",
-      "published": "2026-10-29T15:06:40+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA’s Hubble Marks Way for Roman Space Telescope",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/",
-      "published": "2026-10-29T14:49:27+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/",
-      "published": "2026-10-29T14:01:01+00:00"
     },
     {
       "category": "Ancient Mysteries",
