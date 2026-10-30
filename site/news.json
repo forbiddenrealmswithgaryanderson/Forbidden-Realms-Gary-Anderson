@@ -1,12 +1,33 @@
 {
-  "updated": "2026-10-30T16:01:53.088922+00:00",
+  "updated": "2026-10-30T16:58:39.140450+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "The Taurid meteor shower isn't much to look at. That's why I love it",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/stargazing/meteor-showers/the-taurid-meteor-shower-isnt-much-to-look-at-thats-why-i-love-it",
+      "published": "2026-10-30T16:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+      "published": "2026-10-30T15:56:26+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "'Star Trek's' William Shatner and George Takei honor the death of Walter Koenig",
       "source": "Latest from Space.com",
       "url": "https://www.space.com/entertainment/star-treks-william-shatner-and-george-takei-honor-the-death-of-walter-koenig",
       "published": "2026-10-30T15:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+      "published": "2026-10-30T14:51:21+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -161,27 +182,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-29-2026",
       "published": "2026-10-29T21:28:58+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Artemis II commander Reid Wiseman named deputy director for NASA's Jet Propulsion Laboratory",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/artemis/artemis-ii-commander-reid-wiseman-named-deputy-director-for-nasas-jet-propulsion-laboratory",
-      "published": "2026-10-29T21:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Ghostly Cat's Head Nebula lurks within sight of NASA's Hubble, Webb",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-ghostly-cat-nebula-lurks-sight.html",
-      "published": "2026-10-29T20:20:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Astronauts deploy solar array on 100th US spacewalk by International Space Station crew members",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva",
-      "published": "2026-10-29T20:01:52+00:00"
     },
     {
       "category": "Government Secrets",
