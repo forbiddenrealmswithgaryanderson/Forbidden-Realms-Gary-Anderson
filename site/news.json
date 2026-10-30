@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-30T09:10:40.697365+00:00",
+  "updated": "2026-10-30T10:03:40.389566+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Think Halloween is scary? This scorched alien world is a real-life cosmic horror story",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story",
+      "published": "2026-10-30T10:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
@@ -168,13 +175,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-10-rubin-observatory-reveals-hidden-companions.html",
       "published": "2026-10-29T16:40:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Cosmic microwave background offers evidence of gas flowing in galaxy clusters",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-cosmic-microwave-background-evidence-gas.html",
-      "published": "2026-10-29T16:10:01+00:00"
     },
     {
       "category": "Government Secrets",
