@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-30T20:54:37.477367+00:00",
+  "updated": "2026-10-30T21:51:36.688431+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "An aquanaut comes home: Returning to Earth from an undersea 'space station'",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/an-aquanaut-comes-home-returning-to-earth-from-an-undersea-space-station",
+      "published": "2026-10-30T21:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "India launches next-gen navigation satellite to orbit (video)",
@@ -175,13 +182,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-10-nasa-uv-space-telescope.html",
       "published": "2026-10-30T00:40:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
-      "published": "2026-10-30T00:07:39+00:00"
     },
     {
       "category": "Government Secrets",
