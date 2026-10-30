@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-30T04:00:32.292335+00:00",
+  "updated": "2026-10-30T05:00:02.222122+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+      "published": "2026-10-30T04:05:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Vega Island Frozen in Fright",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+      "published": "2026-10-30T04:01:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Space station experiment to probe plant disease risks for future moon and Mars missions",
@@ -161,20 +175,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-10-cosmic-microwave-background-evidence-gas.html",
       "published": "2026-10-29T16:10:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Big cats, unexplained lights and a floodlit eclipse — 7 skywatching 'horror stories' to keep you entertained this Halloween",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/big-cats-unexplained-lights-and-a-floodlit-eclipse-7-skywatching-horror-stories-to-keep-you-entertained-this-halloween",
-      "published": "2026-10-29T16:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Enormous 'Cat's Tail' tells of cosmic collision 63 light-years away",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-enormous-cat-tail-cosmic-collision.html",
-      "published": "2026-10-29T15:40:01+00:00"
     },
     {
       "category": "Government Secrets",
