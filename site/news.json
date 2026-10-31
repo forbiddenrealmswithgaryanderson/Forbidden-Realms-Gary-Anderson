@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-31T04:56:28.247678+00:00",
+  "updated": "2026-10-31T05:53:29.356510+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
+      "published": "2026-10-31T05:24:11+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
+      "published": "2026-10-31T04:05:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Figuring out where cosmic neutrinos come from is tricky—radio telescopes could help find 'ghost particles' origin",
@@ -168,20 +182,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story",
       "published": "2026-10-30T10:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
-      "published": "2026-10-30T04:05:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Vega Island Frozen in Fright",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
-      "published": "2026-10-30T04:01:00+00:00"
     },
     {
       "category": "Government Secrets",
