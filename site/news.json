@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-01T04:04:13.273917+00:00",
+  "updated": "2026-11-01T05:01:12.664903+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 November 1 – Colors of the Moon",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
+      "published": "2026-11-01T04:05:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "This oddball reflective lava world is challenging to understand",
@@ -203,13 +210,6 @@
       "source": "NASA",
       "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
       "published": "2026-10-30T14:51:21+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "On this day in space! Oct. 30, 1964: NASA's weird Lunar Landing Research Vehicle takes 1st test flight to help Apollo astronauts land on the moon",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-30-2026",
-      "published": "2026-10-30T14:46:35+00:00"
     },
     {
       "category": "Ancient Mysteries",
