@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-03T13:21:09.876571+00:00",
+  "updated": "2026-11-03T15:02:38.565156+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "A tiny shift exposes a cold brown dwarf masquerading as an early galaxy",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-tiny-shift-exposes-cold-brown.html",
+      "published": "2026-11-03T13:40:08+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Do we know how many Starship launches SpaceX will need to get NASA astronauts to the moon? No. Will its refuelling plan be simple? Also no.",
@@ -175,13 +182,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/entertainment/space-movies-shows/visionquest-homework-guide-everything-you-need-to-watch-to-understand-marvels-wandavision-follow-up",
       "published": "2026-11-02T13:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Dust-shrouded Milky Way star cluster may be nearly as old as the universe",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-10-shrouded-milky-star-cluster-universe.html",
-      "published": "2026-11-02T11:40:01+00:00"
     },
     {
       "category": "Ancient Mysteries",
