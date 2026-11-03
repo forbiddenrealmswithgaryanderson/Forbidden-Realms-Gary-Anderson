@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-03T10:07:54.256669+00:00",
+  "updated": "2026-11-03T11:07:36.179916+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Why does Betelgeuse keep fading? The mystery of Orion's giant star",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/stargazing/why-does-betelgeuse-keep-fading-the-mystery-of-orions-giant-star",
+      "published": "2026-11-03T11:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
@@ -179,13 +186,6 @@
     {
       "category": "Space & Cosmos",
       "title": "Rocket Lab launches Japanese Earth-observing satellite on 99th mission to date (video)",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
-      "published": "2026-11-02T06:20:05+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "'The Sea God Surveys': Watch Rocket Lab launch Japanese Earth-observing satellite today",
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
       "published": "2026-11-02T06:20:05+00:00"
