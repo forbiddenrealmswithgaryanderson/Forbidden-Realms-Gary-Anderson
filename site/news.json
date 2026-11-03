@@ -1,6 +1,55 @@
 {
-  "updated": "2026-11-03T15:02:38.565156+00:00",
+  "updated": "2026-11-03T16:05:21.609679+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "The Star Wars Eclipse — Want to see the 2027 total solar eclipse on Tatooine? Head to Tunisia",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/stargazing/solar-eclipses/the-star-wars-eclipse-want-to-see-the-2027-total-solar-eclipse-on-tatooine-head-to-tunisia",
+      "published": "2026-11-03T16:00:00+00:00"
+    },
+    {
+      "category": "Government Secrets",
+      "title": "Einstein’s Hidden Secret, Ancient Cave Art, and a Strange Cloud on Mars—The Latest from The Debrief",
+      "source": "The Debrief",
+      "url": "https://thedebrief.org/einsteins-hidden-secret-ancient-cave-art-and-a-strange-cloud-on-mars-the-latest-from-the-debrief/",
+      "published": "2026-11-03T15:58:58+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
+      "published": "2026-11-03T15:35:14+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "JWST may have found where heavy black hole seeds formed",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-jwst-heavy-black-hole-seeds.html",
+      "published": "2026-11-03T15:20:01+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
+      "published": "2026-11-03T15:15:50+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "On this day in space! Nov. 3, 1957: Laika the dog launches with Sputnik 2",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-3-2026",
+      "published": "2026-11-03T15:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Robot cube explores the International Space Station | Space photo of the day for Nov. 3, 2026",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/international-space-station/robot-cube-explores-the-international-space-station-space-photo-of-the-day-for-nov-3-2026",
+      "published": "2026-11-03T15:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "A tiny shift exposes a cold brown dwarf masquerading as an early galaxy",
@@ -140,48 +189,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
       "published": "2026-11-02T17:33:22+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas",
-      "published": "2026-11-02T17:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Overlooked material in Ryugu and meteorites may explain how water spared ancient chemistry",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-overlooked-material-ryugu-meteorites-ancient.html",
-      "published": "2026-11-02T16:40:13+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
-      "published": "2026-11-02T15:00:39+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026",
-      "published": "2026-11-02T15:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026",
-      "published": "2026-11-02T15:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "'VisionQuest' homework guide: Everything you need to watch to understand Marvel's WandaVision follow-up",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/space-movies-shows/visionquest-homework-guide-everything-you-need-to-watch-to-understand-marvels-wandavision-follow-up",
-      "published": "2026-11-02T13:00:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
@@ -567,13 +574,6 @@
       "source": "The Debrief",
       "url": "https://thedebrief.org/u-s-spy-chief-warns-that-super-intelligence-is-a-national-security-concern/",
       "published": "2026-10-01T17:21:21+00:00"
-    },
-    {
-      "category": "Government Secrets",
-      "title": "China is Planning to Create a Next-Generation Map of Mars Ahead of Its Historic Sample Return Mission",
-      "source": "The Debrief",
-      "url": "https://thedebrief.org/china-is-planning-to-create-a-next-generation-map-of-mars-ahead-of-its-historic-sample-return-mission/",
-      "published": "2026-10-01T13:19:49+00:00"
     },
     {
       "category": "UFO & UAP",
