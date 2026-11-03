@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-03T05:08:21.434948+00:00",
+  "updated": "2026-11-03T06:06:49.070129+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
+      "published": "2026-11-03T05:05:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "The Pacific’s Busy Storm Season",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
+      "published": "2026-11-03T05:01:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Ceres' water ice can mask massive surface salt deposits",
@@ -175,20 +189,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
       "published": "2026-11-02T06:20:05+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
-      "published": "2026-11-02T05:05:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Pennsylvania’s Grand Canyon",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
-      "published": "2026-11-02T05:01:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
