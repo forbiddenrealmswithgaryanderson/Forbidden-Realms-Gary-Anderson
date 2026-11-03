@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-03T21:58:33.865753+00:00",
+  "updated": "2026-11-03T22:58:08.608112+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "When should we listen for alien signals? Scientists turn to game theory",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-alien-scientists-game-theory.html",
+      "published": "2026-11-03T22:50:01+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA asks industry for ideas about saving Hubble Space Telescope",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/hubble-space-telescope/nasa-asks-industry-for-ideas-about-saving-hubble-space-telescope",
+      "published": "2026-11-03T22:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Ancient star collisions could explain mysterious Little Red Dots and 'impossible' black holes",
@@ -168,20 +182,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
       "published": "2026-11-02T21:35:59+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "TB 26-09 Measured Hammer-Tap Inputs",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
-      "published": "2026-11-02T20:47:41+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Stars make oxygen for small galaxies, but they lose most of it",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-stars-oxygen-small-galaxies.html",
-      "published": "2026-11-02T20:00:02+00:00"
     },
     {
       "category": "Government Secrets",
