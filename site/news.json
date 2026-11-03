@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-03T17:11:39.811796+00:00",
+  "updated": "2026-11-03T18:00:03.188818+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Hubble Telescope sees cosmic 'cat's tail' that could wrap around Earth and the sun 500 times",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-cosmic-cats-tail-that-could-wrap-around-the-sun-and-earth-500-times",
+      "published": "2026-11-03T17:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Red and green auroras may share electron-driven origins",
@@ -182,13 +189,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
       "published": "2026-11-02T18:50:42+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Scientists build whole-Earth simulation to help find life on other planets",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-scientists-earth-simulation-life-planets.html",
-      "published": "2026-11-02T18:50:01+00:00"
     },
     {
       "category": "Ancient Mysteries",
