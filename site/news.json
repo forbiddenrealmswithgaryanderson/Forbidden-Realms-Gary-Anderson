@@ -1,6 +1,34 @@
 {
-  "updated": "2026-11-04T16:07:23.213883+00:00",
+  "updated": "2026-11-04T17:09:23.460956+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA's Artemis II moon launch tore a hole in Earth's upper atmosphere so huge it disrupted GPS signals",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals",
+      "published": "2026-11-04T17:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+      "published": "2026-11-04T16:52:43+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Pulsars set first mass limits on supermassive black hole pairs in the early universe",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html",
+      "published": "2026-11-04T16:30:01+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
+      "published": "2026-11-04T16:16:41+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Giant planet emerges from two-year-old JWST data thanks to glare-removal technique",
@@ -14,6 +42,13 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
       "published": "2026-11-04T15:59:36+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA, NOAA Track 2026 Antarctic Ozone Hole",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/2026-ozone-hole/",
+      "published": "2026-11-04T15:00:14+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -156,46 +191,11 @@
       "published": "2026-11-03T16:00:00+00:00"
     },
     {
-      "category": "Space & Cosmos",
-      "title": "The Star Wars Eclipse — Want to see the 2027 total solar eclipse on Tatooine? Head to Tunisia",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/solar-eclipses/the-star-wars-eclipse-want-to-see-the-2027-total-solar-eclipse-on-tatooine-head-to-tunisia",
-      "published": "2026-11-03T16:00:00+00:00"
-    },
-    {
       "category": "Government Secrets",
       "title": "Einstein’s Hidden Secret, Ancient Cave Art, and a Strange Cloud on Mars—The Latest from The Debrief",
       "source": "The Debrief",
       "url": "https://thedebrief.org/einsteins-hidden-secret-ancient-cave-art-and-a-strange-cloud-on-mars-the-latest-from-the-debrief/",
       "published": "2026-11-03T15:58:58+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-      "published": "2026-11-03T15:35:14+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "JWST may have found where heavy black hole seeds formed",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-jwst-heavy-black-hole-seeds.html",
-      "published": "2026-11-03T15:20:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
-      "published": "2026-11-03T15:15:50+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "On this day in space! Nov. 3, 1957: Laika the dog launches with Sputnik 2",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-3-2026",
-      "published": "2026-11-03T15:00:00+00:00"
     },
     {
       "category": "Government Secrets",
