@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-04T17:09:23.460956+00:00",
+  "updated": "2026-11-04T18:02:11.830019+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Satellites leak noise that interferes with telescopes and GPS. Here's how to fix it",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-satellites-leak-noise-telescopes-gps.html",
+      "published": "2026-11-04T17:20:22+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "NASA's Artemis II moon launch tore a hole in Earth's upper atmosphere so huge it disrupted GPS signals",
@@ -182,13 +189,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-11-asteroid-nuclear-blast-aimed-deflect.html",
       "published": "2026-11-03T16:20:09+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "The 2027 'eclipse of the century' will plunge real Star Wars filming locations into darkness",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/solar-eclipses/2027-total-solar-eclipse-star-wars-filming-locations-tunisia",
-      "published": "2026-11-03T16:00:00+00:00"
     },
     {
       "category": "Government Secrets",
