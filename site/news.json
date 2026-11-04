@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-04T19:14:31.216235+00:00",
+  "updated": "2026-11-04T20:11:07.850111+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "'Trials and Tribble-ations' at 30: The classic 'Star Trek: Deep Space Nine' episode that brought Captains Kirk and Sisko face-to-face",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/entertainment/space-movies-shows/trials-and-tribble-ations-at-30-the-classic-star-trek-deep-space-nine-episode-that-brought-captains-kirk-and-sisko-face-to-face",
+      "published": "2026-11-04T20:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA's Swift space telescope crashes back to Earth after failed rescue attempt",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/missions/nasa-swift-space-telescope-crashes-to-earth",
+      "published": "2026-11-04T19:06:08+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Mars isn't dead — recent volcanic activity reveals it's just sleeping",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/mars/mars-isnt-dead-recent-volcanic-activity-reveals-its-just-sleeping",
+      "published": "2026-11-04T19:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
@@ -168,27 +189,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/asteroid-comet-missions/dimorphos-in-sight-europes-hera-probe-gets-its-1st-look-at-battered-space-rock-photo",
       "published": "2026-11-03T19:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Hubble Telescope sees cosmic 'cat's tail' that could wrap around Earth and the sun 500 times",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-cosmic-cats-tail-that-could-wrap-around-the-sun-and-earth-500-times",
-      "published": "2026-11-03T17:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Red and green auroras may share electron-driven origins",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-red-green-auroras-electron-driven.html",
-      "published": "2026-11-03T16:40:15+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Astronaut and Earth",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/astronaut-and-earth/",
-      "published": "2026-11-03T16:37:42+00:00"
     },
     {
       "category": "Government Secrets",
