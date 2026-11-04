@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-04T21:04:25.034598+00:00",
+  "updated": "2026-11-04T21:59:13.644675+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+      "published": "2026-11-04T21:04:10+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "A cosmic 'leaf blower': Light-propelled winds help explain early universe's bright galaxies",
@@ -182,13 +189,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/astronomy/hubble-space-telescope/nasa-asks-industry-for-ideas-about-saving-hubble-space-telescope",
       "published": "2026-11-03T22:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Ancient star collisions could explain mysterious Little Red Dots and 'impossible' black holes",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes",
-      "published": "2026-11-03T21:00:00+00:00"
     },
     {
       "category": "Government Secrets",
