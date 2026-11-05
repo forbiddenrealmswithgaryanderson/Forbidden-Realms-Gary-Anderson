@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-04T23:54:44.271990+00:00",
+  "updated": "2026-11-05T01:24:55.988215+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "European orbiter detects fresh hints of volcanic activity on Mars",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-european-orbiter-fresh-hints-volcanic.html",
+      "published": "2026-11-05T00:40:07+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "On this day in space! Nov. 4, 2015: A rail-launched Super Strypi rocket carrying 13 baby satellites failed during its debut launch for the US Air Force",
@@ -182,13 +189,6 @@
       "source": "NASA",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
       "published": "2026-11-04T05:05:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Before the Dawn in America’s Heartland",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
-      "published": "2026-11-04T05:01:00+00:00"
     },
     {
       "category": "Government Secrets",
