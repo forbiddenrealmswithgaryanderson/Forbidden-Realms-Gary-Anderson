@@ -1,12 +1,61 @@
 {
-  "updated": "2026-11-05T13:28:41.974397+00:00",
+  "updated": "2026-11-05T15:12:51.642218+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Earth photobombs spacewalking Canadian astronaut | Space photo of the day for Nov. 5, 2026",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/earth-photobombs-spacewalking-canadian-astronaut-space-photo-of-the-day-for-nov-5-2026",
+      "published": "2026-11-05T15:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Webb Space Telescope's little red dots could hold key to first black holes",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-webb-space-telescope-red-dots.html",
+      "published": "2026-11-05T14:20:02+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Microbial growth in simulated Mars conditions could guide search for life",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-microbial-growth-simulated-mars-conditions.html",
+      "published": "2026-11-05T14:00:10+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA astronaut Jessica Watkins is the 1st Black woman to command a space mission. Will we see more diversity in the future on the final frontier?",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-jessica-watkins-is-the-1st-black-woman-to-command-a-space-mission-will-we-see-more-diversity-in-the-future-on-the-final-frontier",
+      "published": "2026-11-05T14:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA announces experimental X-70 Fractal aircraft: A 'new beginning for aeronautics'",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/technology/aerospace/nasa-announces-experimental-x-70-fractal-aircraft-a-new-beginning-for-aeronautics",
+      "published": "2026-11-05T13:33:52+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "400,000-year-old teeth reveal a stunning twist in human evolution",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102202836.htm",
+      "published": "2026-11-05T13:05:12+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "China lays out plans to land astronauts on the moon 'before 2030.' Can NASA still win this race?",
       "source": "Latest from Space.com",
       "url": "https://www.space.com/astronomy/moon/china-lays-out-plans-to-land-astronauts-on-the-moon-before-2030-can-nasa-still-win-this-race",
       "published": "2026-11-05T13:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Hubble Learns Galactic History From Stars",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+      "published": "2026-11-05T12:56:21+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -49,13 +98,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-11-european-orbiter-fresh-hints-volcanic.html",
       "published": "2026-11-05T00:40:07+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA navigation experiment shows promise for planetary landings",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-nasa-planetary.html",
-      "published": "2026-11-04T23:20:07+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -140,41 +182,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-11-satellites-leak-noise-telescopes-gps.html",
       "published": "2026-11-04T17:20:22+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA's Artemis II moon launch tore a hole in Earth's upper atmosphere so huge it disrupted GPS signals",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals",
-      "published": "2026-11-04T17:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Pulsars set first mass limits on supermassive black hole pairs in the early universe",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html",
-      "published": "2026-11-04T16:30:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
-      "published": "2026-11-04T16:16:41+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Giant planet emerges from two-year-old JWST data thanks to glare-removal technique",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-giant-planet-emerges-year-jwst.html",
-      "published": "2026-11-04T16:00:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Hubble Reveals Cosmic Mystery",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
-      "published": "2026-11-04T15:59:36+00:00"
     },
     {
       "category": "UFO & UAP",
@@ -630,13 +637,6 @@
       "source": "Archaeology News -- ScienceDaily",
       "url": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
       "published": "2026-09-27T11:55:50+00:00"
-    },
-    {
-      "category": "Ancient Mysteries",
-      "title": "These medieval graves looked like family burials. DNA told a different story",
-      "source": "Archaeology News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260925005444.htm",
-      "published": "2026-09-27T02:49:07+00:00"
     },
     {
       "category": "UFO & UAP",
