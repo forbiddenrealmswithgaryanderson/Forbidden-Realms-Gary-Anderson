@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-05T12:08:04.692062+00:00",
+  "updated": "2026-11-05T13:28:41.974397+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "China lays out plans to land astronauts on the moon 'before 2030.' Can NASA still win this race?",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/moon/china-lays-out-plans-to-land-astronauts-on-the-moon-before-2030-can-nasa-still-win-this-race",
+      "published": "2026-11-05T13:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Early Black Friday beginner telescope deal — this portable Celestron is now 25% off at Amazon",
@@ -42,6 +49,13 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-11-european-orbiter-fresh-hints-volcanic.html",
       "published": "2026-11-05T00:40:07+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA navigation experiment shows promise for planetary landings",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-nasa-planetary.html",
+      "published": "2026-11-04T23:20:07+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -136,13 +150,6 @@
     },
     {
       "category": "Space & Cosmos",
-      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
-      "published": "2026-11-04T16:52:43+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
       "title": "Pulsars set first mass limits on supermassive black hole pairs in the early universe",
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html",
@@ -168,13 +175,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
       "published": "2026-11-04T15:59:36+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA, NOAA Track 2026 Antarctic Ozone Hole",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/2026-ozone-hole/",
-      "published": "2026-11-04T15:00:14+00:00"
     },
     {
       "category": "UFO & UAP",
