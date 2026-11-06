@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-06T17:05:52.191456+00:00",
+  "updated": "2026-11-06T17:57:32.342783+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Vibrating mirrors of light create analog of a black hole event horizon",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-vibrating-mirrors-analog-black-hole.html",
+      "published": "2026-11-06T17:40:11+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight",
@@ -28,6 +35,13 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-11-robot-successfully-space-autonomous-demo.html",
       "published": "2026-11-06T16:20:04+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Supercomputing Tech Demo Schedule",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
+      "published": "2026-11-06T16:03:52+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -175,20 +189,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-5-2026",
       "published": "2026-11-05T18:27:44+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "You don't have to go to the moon to see Earth differently: Artemis II astronaut Victor Glover on what really matters",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/artemis/the-greatest-reason-to-go-to-space-artemis-ii-astronaut-victor-glover-reveals-what-he-discovered-on-his-journey-to-the-moon",
-      "published": "2026-11-05T17:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA's Swift telescope has burned up, months after a robot sent to save it failed",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-nasa-swift-telescope-months-robot.html",
-      "published": "2026-11-05T15:40:14+00:00"
     },
     {
       "category": "Government Secrets",
