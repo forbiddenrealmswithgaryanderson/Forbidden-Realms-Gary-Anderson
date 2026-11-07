@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-06T23:50:31.713069+00:00",
+  "updated": "2026-11-07T01:16:47.483372+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Untangling the patterns of the cosmic microwave background to better understand the early universe",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-untangling-patterns-cosmic-microwave-background.html",
+      "published": "2026-11-07T00:20:01+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "On this day in space! Nov. 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a 'new star'",
@@ -196,13 +203,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays",
       "published": "2026-11-05T22:01:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Connecting artificial intelligence with the tools of astrophysical research",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-artificial-intelligence-tools-astrophysical.html",
-      "published": "2026-11-05T22:00:07+00:00"
     },
     {
       "category": "Government Secrets",
