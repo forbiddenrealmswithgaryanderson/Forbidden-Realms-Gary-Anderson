@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-07T01:16:47.483372+00:00",
+  "updated": "2026-11-07T02:12:10.568609+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (photos)",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
+      "published": "2026-11-07T01:41:58+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Untangling the patterns of the cosmic microwave background to better understand the early universe",
@@ -196,13 +203,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-11-astronomers-sharpest-deepest-view-frequency.html",
       "published": "2026-11-06T00:40:06+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "'We got it done!' Spacewalking astronauts finish installing next-gen ISS solar arrays",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays",
-      "published": "2026-11-05T22:01:01+00:00"
     },
     {
       "category": "Government Secrets",
