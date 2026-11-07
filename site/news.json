@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-07T22:50:34.293151+00:00",
+  "updated": "2026-11-07T23:47:42.708489+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+      "published": "2026-11-07T22:47:03+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
@@ -189,13 +196,6 @@
       "source": "NASA",
       "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
       "published": "2026-11-06T16:03:52+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Hera probe gets 1st good look at asteroid system clobbered by NASA's DART mission | Space photo of the day for Nov. 6, 2026",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026",
-      "published": "2026-11-06T15:00:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
