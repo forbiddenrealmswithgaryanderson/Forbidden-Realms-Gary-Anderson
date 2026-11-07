@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-07T14:53:33.546155+00:00",
+  "updated": "2026-11-07T15:51:10.441579+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Send your name to Saturn's moon Titan with NASA's upcoming Dragonfly mission",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission",
+      "published": "2026-11-07T15:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Theory predicting an older universe without dark matter or dark energy passes key cosmological tests",
@@ -189,13 +196,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/stargazing/auroras/northern-lights-could-reach-new-york-and-idaho-this-weekend-as-speedy-solar-wind-races-toward-earth",
       "published": "2026-11-06T13:26:32+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Max Power: NASA hosting its 1st air show this weekend on Florida's Space Coast",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/max-power-nasa-hosting-its-1st-air-show-this-weekend-on-floridas-space-coast",
-      "published": "2026-11-06T13:00:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
