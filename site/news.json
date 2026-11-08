@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-08T05:05:03.972900+00:00",
+  "updated": "2026-11-08T05:59:44.880198+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 November 8 – Major Fireball Meteor",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+      "published": "2026-11-08T05:05:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
@@ -189,13 +196,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-11-robot-successfully-space-autonomous-demo.html",
       "published": "2026-11-06T16:20:04+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Supercomputing Tech Demo Schedule",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
-      "published": "2026-11-06T16:03:52+00:00"
     },
     {
       "category": "Ancient Mysteries",
