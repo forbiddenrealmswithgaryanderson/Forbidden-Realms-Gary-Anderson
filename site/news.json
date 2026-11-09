@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-09T19:11:21.873342+00:00",
+  "updated": "2026-11-09T20:06:10.428799+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "La NASA busca a la próxima generación de astronautas",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/",
+      "published": "2026-11-09T19:27:20+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Long-lived mineral grains can be invaluable for reconstructing impact events, but the stories are complex",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-mineral-grains-invaluable-reconstructing-impact.html",
+      "published": "2026-11-09T19:20:23+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "NYT bestseller ‘Robopocalypse’ is getting a TV series with Oscar winners Ron Howard and Akiva Goldsman at the helm",
@@ -175,20 +189,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-11-space-weather-powers-auroras-sky.html",
       "published": "2026-11-08T19:00:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Legendary sci-fi magazine 'Starlog' returns as a yearly release, just in time for its 50th anniversary",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary",
-      "published": "2026-11-08T16:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Game theory helps SETI search for alien civilizations",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-game-theory-seti-alien-civilizations.html",
-      "published": "2026-11-08T15:30:06+00:00"
     },
     {
       "category": "Ancient Mysteries",
