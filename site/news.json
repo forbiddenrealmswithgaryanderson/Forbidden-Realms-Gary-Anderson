@@ -1,6 +1,55 @@
 {
-  "updated": "2026-11-09T16:17:36.546306+00:00",
+  "updated": "2026-11-09T18:03:01.358725+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Starfish Space loses contact with 1st 'Otter' servicing spacecraft, ending NASA tech-demo mission",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/starfish-space-loses-contact-with-1st-otter-servicing-spacecraft-ending-nasa-tech-demo-mission",
+      "published": "2026-11-09T18:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Two nearby rocky worlds could offer alien astronomers views of planets appearing to reverse course",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-nearby-rocky-worlds-alien-astronomers.html",
+      "published": "2026-11-09T17:40:07+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA just launched a $1 million Moon Base Student Challenge to award cash prizes to students that solve lunar base problems",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/nasa-just-launched-a-usd1-million-moon-base-student-challenge-to-award-cash-prizes-to-students-that-solve-lunar-base-problems",
+      "published": "2026-11-09T17:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Astronauts Across Generations Share the Stage",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
+      "published": "2026-11-09T16:56:29+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Netflix announces 'Stranger Things' spin-off 'Other Worlds', and it's already teasing a trip to Area 51 (video)",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/entertainment/space-movies-shows/netflix-announces-stranger-things-spin-off-other-worlds-and-its-already-teasing-a-trip-to-area-51-video",
+      "published": "2026-11-09T16:53:47+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/",
+      "published": "2026-11-09T16:07:10+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
+      "published": "2026-11-09T16:01:47+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "NASA needs more astronauts for moon missions and beyond. You can apply now, but only until Dec. 3",
@@ -31,16 +80,16 @@
     },
     {
       "category": "Space & Cosmos",
-      "title": "NASA unveils $10 billion in moon base contracts, new lunar missions and the 'PROMISE' of a nuclear-powered rover",
+      "title": "NASA chief Jared Isaacman skydives into space agency's MAX POWER air show — 'Going into this job, I knew we had to do something like this.'",
       "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/artemis/nasa-unveils-usd10-billion-in-moon-base-contracts-new-lunar-missions-and-the-promise-of-a-nuclear-powered-rover",
+      "url": "https://www.space.com/space-exploration/nasa-chief-jared-isaacman-skydives-into-space-agencys-max-power-air-show-going-into-this-job-i-i-knew-we-had-to-do-something-like-this",
       "published": "2026-11-09T13:00:00+00:00"
     },
     {
       "category": "Space & Cosmos",
-      "title": "NASA chief Jared Isaacman skydives into space agency's MAX POWER air show — 'Going into this job, I knew we had to do something like this.'",
+      "title": "NASA unveils $10 billion in moon base contracts, new lunar missions and the 'PROMISE' of a nuclear-powered rover",
       "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/nasa-chief-jared-isaacman-skydives-into-space-agencys-max-power-air-show-going-into-this-job-i-i-knew-we-had-to-do-something-like-this",
+      "url": "https://www.space.com/space-exploration/artemis/nasa-unveils-usd10-billion-in-moon-base-contracts-new-lunar-missions-and-the-promise-of-a-nuclear-powered-rover",
       "published": "2026-11-09T13:00:00+00:00"
     },
     {
@@ -142,60 +191,11 @@
       "published": "2026-11-08T14:40:01+00:00"
     },
     {
-      "category": "Space & Cosmos",
-      "title": "Who is King Ghidorah? The cosmic connections of Godzilla Minus Zero's foe",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/space-movies-shows/who-is-king-ghidorah-the-cosmic-connections-of-godzilla-minus-zeros-foe",
-      "published": "2026-11-08T13:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-fly-moon-nasa-astronauts-artemis.html",
-      "published": "2026-11-08T11:45:12+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Scientists simulate an Earth without life to help hunt for aliens and inhabited worlds",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/search-for-life/scientists-simulate-an-earth-without-life-to-help-hunt-for-aliens-and-inhabited-worlds",
-      "published": "2026-11-08T11:00:00+00:00"
-    },
-    {
       "category": "Ancient Mysteries",
       "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
       "source": "Archaeology News -- ScienceDaily",
       "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm",
       "published": "2026-11-08T08:14:23+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "APOD: 2026 November 8 – Major Fireball Meteor",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
-      "published": "2026-11-08T05:05:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
-      "published": "2026-11-07T22:47:03+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
-      "published": "2026-11-07T18:11:57+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Earth's gravity may have kept the early moon's volcanic heart beating",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-earth-gravity-early-moon-volcanic.html",
-      "published": "2026-11-07T17:30:01+00:00"
     },
     {
       "category": "UFO & UAP",
