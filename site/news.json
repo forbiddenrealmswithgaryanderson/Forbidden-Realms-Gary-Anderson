@@ -1,12 +1,33 @@
 {
-  "updated": "2026-11-09T22:57:45.655702+00:00",
+  "updated": "2026-11-09T23:51:21.742052+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "The ELT can probe ultra-diffuse galaxies and their dark matter mysteries",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-elt-probe-ultra-diffuse-galaxies.html",
+      "published": "2026-11-09T23:00:12+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "A stellar odd couple at an unusual stage of evolution",
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-11-stellar-odd-couple-unusual-stage.html",
       "published": "2026-11-09T22:40:01+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Rubies on Mars?",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/blog/rubies-on-mars/",
+      "published": "2026-11-09T22:27:12+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Newest Sample, Oldest Rock?",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/blog/newest-sample-oldest-rock/",
+      "published": "2026-11-09T22:25:52+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -154,27 +175,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/human-spaceflight/nasa-needs-more-astronauts-for-moon-missions-and-beyond-you-can-apply-now-but-only-until-dec-3",
       "published": "2026-11-09T16:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Futuristic aircraft takes flight at NASA | Space photo of the day for Nov. 9, 2026",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/technology/aerospace/futuristic-aircraft-takes-flight-at-nasa-space-photo-of-the-day-for-nov-9-2026",
-      "published": "2026-11-09T15:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "SpaceX will launch epic double-catch Starship Flight 15 test mission on Nov. 13",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-epic-double-catch-starship-flight-15-test-mission-on-nov-13",
-      "published": "2026-11-09T14:30:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Meteorite that landed in Cape Cod was a 'lone wolf' from the outer solar system, scientists find",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/meteor-showers/meteorite-that-landed-in-cape-cod-was-a-lone-wolf-from-beyond-jupiter-scientists-find",
-      "published": "2026-11-09T14:00:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
