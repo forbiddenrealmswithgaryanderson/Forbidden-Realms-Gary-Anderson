@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-09T20:06:10.428799+00:00",
+  "updated": "2026-11-09T21:05:20.481469+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Are the James Webb Space Telescope's mysterious Little Red Dots actually tiny black holes left over from the Big Bang era?",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/black-holes/are-the-james-webb-space-telescopes-mysterious-little-red-dots-actually-tiny-black-holes-left-over-from-the-big-bang-era",
+      "published": "2026-11-09T21:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Our sun's undiscovered stellar nemesis is still out there, says physicist",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-sun-undiscovered-stellar-nemesis-physicist.html",
+      "published": "2026-11-09T20:20:11+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "La NASA busca a la próxima generación de astronautas",
@@ -21,6 +35,13 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/entertainment/space-movies-shows/nyt-bestseller-robopocalypse-is-getting-a-tv-series-with-oscar-winners-ron-howard-and-akiva-goldsman-at-the-helm",
       "published": "2026-11-09T19:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+      "published": "2026-11-09T18:55:50+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -115,16 +136,16 @@
     },
     {
       "category": "Space & Cosmos",
-      "title": "NASA chief Jared Isaacman skydives into space agency's MAX POWER air show — 'Going into this job, I knew we had to do something like this.'",
+      "title": "NASA unveils $10 billion in moon base contracts, new lunar missions and the 'PROMISE' of a nuclear-powered rover",
       "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/nasa-chief-jared-isaacman-skydives-into-space-agencys-max-power-air-show-going-into-this-job-i-i-knew-we-had-to-do-something-like-this",
+      "url": "https://www.space.com/space-exploration/artemis/nasa-unveils-usd10-billion-in-moon-base-contracts-new-lunar-missions-and-the-promise-of-a-nuclear-powered-rover",
       "published": "2026-11-09T13:00:00+00:00"
     },
     {
       "category": "Space & Cosmos",
-      "title": "NASA unveils $10 billion in moon base contracts, new lunar missions and the 'PROMISE' of a nuclear-powered rover",
+      "title": "NASA chief Jared Isaacman skydives into space agency's MAX POWER air show — 'Going into this job, I knew we had to do something like this.'",
       "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/artemis/nasa-unveils-usd10-billion-in-moon-base-contracts-new-lunar-missions-and-the-promise-of-a-nuclear-powered-rover",
+      "url": "https://www.space.com/space-exploration/nasa-chief-jared-isaacman-skydives-into-space-agencys-max-power-air-show-going-into-this-job-i-i-knew-we-had-to-do-something-like-this",
       "published": "2026-11-09T13:00:00+00:00"
     },
     {
@@ -156,13 +177,6 @@
       "published": "2026-11-09T05:05:00+00:00"
     },
     {
-      "category": "Space & Cosmos",
-      "title": "Ozone Hole Reaches Its 2026 Maximum",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/",
-      "published": "2026-11-09T05:00:00+00:00"
-    },
-    {
       "category": "Ancient Mysteries",
       "title": "DNA on the Shroud of Turin reveals centuries of hidden secrets",
       "source": "Archaeology News -- ScienceDaily",
@@ -175,20 +189,6 @@
       "source": "Archaeology News -- ScienceDaily",
       "url": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
       "published": "2026-11-08T22:45:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "JWST tracks more than 100 magnified stellar events in the Dragon galaxy",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-jwst-tracks-magnified-stellar-events.html",
-      "published": "2026-11-08T19:20:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "How space weather powers auroras in the sky and threatens power grids on the ground",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-space-weather-powers-auroras-sky.html",
-      "published": "2026-11-08T19:00:01+00:00"
     },
     {
       "category": "Ancient Mysteries",
