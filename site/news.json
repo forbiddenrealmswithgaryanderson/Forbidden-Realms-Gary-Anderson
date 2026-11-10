@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-10T01:19:31.769836+00:00",
+  "updated": "2026-11-10T03:00:33.495296+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
+      "published": "2026-11-10T01:07:45+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
+      "published": "2026-11-10T01:05:48+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "The ELT can probe ultra-diffuse galaxies and their dark matter mysteries",
@@ -161,20 +175,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/",
       "published": "2026-11-09T16:07:10+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
-      "published": "2026-11-09T16:01:47+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA needs more astronauts for moon missions and beyond. You can apply now, but only until Dec. 3",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/nasa-needs-more-astronauts-for-moon-missions-and-beyond-you-can-apply-now-but-only-until-dec-3",
-      "published": "2026-11-09T16:00:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
