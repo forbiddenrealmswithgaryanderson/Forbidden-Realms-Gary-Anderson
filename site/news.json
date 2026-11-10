@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-10T06:06:12.544523+00:00",
+  "updated": "2026-11-10T07:27:27.366034+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
+      "published": "2026-11-10T05:05:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Autumn Mornings Bring Valley Fog",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
+      "published": "2026-11-10T05:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
@@ -161,20 +175,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
       "published": "2026-11-09T16:56:29+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Netflix announces 'Stranger Things' spin-off 'Other Worlds', and it's already teasing a trip to Area 51 (video)",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/space-movies-shows/netflix-announces-stranger-things-spin-off-other-worlds-and-its-already-teasing-a-trip-to-area-51-video",
-      "published": "2026-11-09T16:53:47+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/",
-      "published": "2026-11-09T16:07:10+00:00"
     },
     {
       "category": "Ancient Mysteries",
