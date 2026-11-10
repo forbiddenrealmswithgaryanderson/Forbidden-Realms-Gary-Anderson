@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-10T11:03:31.268585+00:00",
+  "updated": "2026-11-10T12:01:55.958899+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA's twin ESCAPADE Mars probes slingshot around Earth in unprecedented double 'gravity assist'",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/mars/nasas-escapade-twin-mars-probes-execute-a-1st-of-its-kind-gravity-slingshot-around-earth",
+      "published": "2026-11-10T11:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
@@ -168,13 +175,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/nasa-just-launched-a-usd1-million-moon-base-student-challenge-to-award-cash-prizes-to-students-that-solve-lunar-base-problems",
       "published": "2026-11-09T17:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Astronauts Across Generations Share the Stage",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
-      "published": "2026-11-09T16:56:29+00:00"
     },
     {
       "category": "Ancient Mysteries",
