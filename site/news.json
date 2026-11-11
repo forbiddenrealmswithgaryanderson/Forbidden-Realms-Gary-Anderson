@@ -1,12 +1,19 @@
 {
-  "updated": "2026-11-11T13:27:28.580234+00:00",
+  "updated": "2026-11-11T15:05:38.576542+00:00",
   "articles": [
     {
       "category": "Space & Cosmos",
-      "title": "NASA's new UVEX space telescope will peer deep into the universe's most violent events",
+      "title": "Hubble Space Telescope reveals glittering stars with mysterious origins | Space photo of the day for Nov. 11, 2026",
       "source": "Latest from Space.com",
-      "url": "https://www.space.com/science/astrophysics/nasas-new-uvex-space-telescope-will-peer-deep-into-the-universes-most-violent-events",
-      "published": "2026-11-11T13:00:00+00:00"
+      "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-reveals-glittering-stars-with-mysterious-origins-space-photo-of-the-day-for-nov-11-2026",
+      "published": "2026-11-11T15:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Bennu asteroid analysis suggests unexpected origins for organics in space",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-bennu-asteroid-analysis-unexpected-space.html",
+      "published": "2026-11-11T14:20:08+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -17,10 +24,31 @@
     },
     {
       "category": "Space & Cosmos",
+      "title": "NASA's new UVEX space telescope will peer deep into the universe's most violent events",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/science/astrophysics/nasas-new-uvex-space-telescope-will-peer-deep-into-the-universes-most-violent-events",
+      "published": "2026-11-11T13:00:00+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "Scientists find deadly virus DNA hidden in 1,000-year-old manuscripts",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174545.htm",
+      "published": "2026-11-11T12:10:47+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
       "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)",
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time",
       "published": "2026-11-11T11:00:00+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
+      "published": "2026-11-11T09:43:55+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -175,20 +203,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-11-simulated-moon-lego-blocks-settlements.html",
       "published": "2026-11-10T17:40:14+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Were there 'lost cosmonauts' in the early Soviet space program?",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/were-there-lost-cosmonauts-in-the-early-soviet-space-program",
-      "published": "2026-11-10T17:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "X-ray observations uncover possible jet warning signs in black hole systems",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-ray-uncover-jet-black-hole.html",
-      "published": "2026-11-10T16:20:01+00:00"
     },
     {
       "category": "Ancient Mysteries",
@@ -562,25 +576,11 @@
       "published": "2026-10-13T14:40:03+00:00"
     },
     {
-      "category": "Ancient Mysteries",
-      "title": "This tiny jurassic predator helped pave the way for the human brain",
-      "source": "Archaeology News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261012185005.htm",
-      "published": "2026-10-13T10:44:22+00:00"
-    },
-    {
       "category": "Government Secrets",
       "title": "AI Can Be Aware, But Humans Draw the Line at Consciousness, New Study Finds",
       "source": "The Debrief",
       "url": "https://thedebrief.org/ai-can-be-aware-but-humans-draw-the-line-at-consciousness-new-study-finds/",
       "published": "2026-10-12T13:40:22+00:00"
-    },
-    {
-      "category": "Ancient Mysteries",
-      "title": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
-      "source": "Archaeology News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261008005256.htm",
-      "published": "2026-10-11T00:45:37+00:00"
     },
     {
       "category": "Government Secrets",
