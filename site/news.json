@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-11T18:06:14.580087+00:00",
+  "updated": "2026-11-11T19:15:57.968535+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Andy Weir's 'Exoplanet' just landed on Audible, but what actually makes an exoplanet habitable?",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/exoplanets/andy-weirs-exoplanet-just-hit-audible-but-what-actually-makes-an-exoplanet-habitable",
+      "published": "2026-11-11T19:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Centaurus A in the spotlight: Plasma simulations reproduce black hole jets' mysterious bright edges",
@@ -45,16 +52,16 @@
     },
     {
       "category": "Space & Cosmos",
-      "title": "NASA's new UVEX space telescope will peer deep into the universe's most violent events",
+      "title": "Why I recommend the Seestar S30 Plus smart telescope for beginners — full review",
       "source": "Latest from Space.com",
-      "url": "https://www.space.com/science/astrophysics/nasas-new-uvex-space-telescope-will-peer-deep-into-the-universes-most-violent-events",
+      "url": "https://www.space.com/stargazing/skywatching-kit/why-i-recommend-the-seestar-s30-plus-smart-telescope-for-beginners-full-review",
       "published": "2026-11-11T13:00:00+00:00"
     },
     {
       "category": "Space & Cosmos",
-      "title": "Why I recommend the Seestar S30 Plus smart telescope for beginners — full review",
+      "title": "NASA's new UVEX space telescope will peer deep into the universe's most violent events",
       "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/skywatching-kit/why-i-recommend-the-seestar-s30-plus-smart-telescope-for-beginners-full-review",
+      "url": "https://www.space.com/science/astrophysics/nasas-new-uvex-space-telescope-will-peer-deep-into-the-universes-most-violent-events",
       "published": "2026-11-11T13:00:00+00:00"
     },
     {
@@ -195,13 +202,6 @@
       "title": "SpaceX Starship Flight 15 live updates: T-2 days to SpaceX's 1st-ever double Starship landing attempt",
       "source": "Latest from Space.com",
       "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-11-2026-starship-first-double-landing-attempt",
-      "published": "2026-11-10T19:46:21+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "SpaceX Starship Flight 15 live updates: Super Heavy rocket moved to launch pad for 1st Starship double landing test",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt",
       "published": "2026-11-10T19:46:21+00:00"
     },
     {
