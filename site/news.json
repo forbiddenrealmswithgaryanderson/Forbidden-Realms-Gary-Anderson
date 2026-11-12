@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-12T01:28:48.822289+00:00",
+  "updated": "2026-11-12T03:04:04.376395+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
+      "published": "2026-11-12T00:41:35+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Independent technique validates landmark M87* image",
@@ -196,13 +203,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-10-2026",
       "published": "2026-11-10T21:51:24+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Earth's 'core carbon' may have come from the far reaches of the solar system",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-earth-core-carbon-solar.html",
-      "published": "2026-11-10T21:20:01+00:00"
     },
     {
       "category": "Ancient Mysteries",
