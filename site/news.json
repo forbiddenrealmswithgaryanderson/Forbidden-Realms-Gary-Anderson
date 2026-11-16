@@ -1,6 +1,146 @@
 {
-  "updated": "2026-11-16T11:29:54.156086+00:00",
+  "updated": "2026-11-16T22:10:05.498332+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
+      "published": "2026-11-16T21:34:36+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
+      "published": "2026-11-16T21:26:29+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/",
+      "published": "2026-11-16T20:30:40+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
+      "published": "2026-11-16T20:04:22+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Written in sand: How dunes reveal the secrets of planetary winds",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-written-sand-dunes-reveal-secrets.html",
+      "published": "2026-11-16T20:00:23+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Navigating lunar orbit using nothing but shadows and a power meter",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-lunar-orbit-shadows-power-meter.html",
+      "published": "2026-11-16T20:00:01+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "What exactly is a light-day? Here's what Voyager 1's latest milestone means for the interstellar probe",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/voyager/what-exactly-is-a-light-day-heres-what-voyager-1s-latest-milestone-means-for-the-interstellar-probe",
+      "published": "2026-11-16T19:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Sentinel-6B in Orbit Around Earth",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
+      "published": "2026-11-16T18:52:32+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Thunderbirds in Formation",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/thunderbirds-in-formation/",
+      "published": "2026-11-16T18:34:47+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "'Maybe the scariest thing I've heard in my life': Artemis II astronaut Victor Glover reveals his toughest challenge before flying to the moon",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/artemis/maybe-the-scariest-thing-ive-heard-in-my-life-artemis-ii-astronaut-victor-glover-reveals-his-toughest-challenge-before-flying-to-the-moon",
+      "published": "2026-11-16T18:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Dirty ice around young star Beta Pictoris suggests frequent collisions and sheds light on the system's formation",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-dirty-ice-young-star-beta.html",
+      "published": "2026-11-16T17:30:02+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA, European Sea Level Satellite Prepped for New Role",
+      "source": "News and Features - NASA's Jet Propulsion Laboratory",
+      "url": "https://www.jpl.nasa.gov/news/nasa-european-sea-level-satellite-prepped-for-new-role",
+      "published": "2026-11-16T17:30:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "The Leonid meteor shower peaks Nov. 17-18! Here's what you need to know",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/stargazing/meteor-showers/the-leonid-meteor-shower-peaks-nov-17-18-heres-what-you-need-to-know",
+      "published": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Could there be an ancient alien satellite in Earth's orbit? How the 'Black Knight' conspiracy theory has survived for over 100 years",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/satellites/could-there-be-an-ancient-alien-satellite-in-earths-orbit-how-the-black-knight-conspiracy-theory-has-survived-for-over-100-years",
+      "published": "2026-11-16T16:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
+      "published": "2026-11-16T15:22:09+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Now fully online, the Simons Observatory will shape new studies of the Milky Way and the cosmos",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-fully-online-simons-observatory-milky.html",
+      "published": "2026-11-16T15:20:05+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Euclid space telescope discovers its 1st comet | Space photo of the day for Nov. 16, 2026",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/comets/euclid-discovers-its-1st-comet-space-photo-of-the-day-for-nov-16-2026",
+      "published": "2026-11-16T15:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Dream Chaser space plane gets landing approval for debut mission in 2027",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/dream-chaser-space-plane-gets-landing-approval-for-debut-mission-in-2027",
+      "published": "2026-11-16T14:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "‘Avengers Endgame: Encore’ is now streaming on Disney+, with 4 minutes of bonus footage and a special ‘Doomsday’ preview",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/entertainment/space-movies-shows/avengers-endgame-encore-is-now-streaming-on-disney-with-4-minutes-of-bonus-footage-and-a-special-doomsday-preview",
+      "published": "2026-11-16T13:30:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "A Magna Carta for the stars: King Charles III takes on space sustainability",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/a-magna-carta-for-the-stars-king-charles-iii-takes-on-space-sustainability",
+      "published": "2026-11-16T13:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "NASA's interstellar Voyager 1 probe is about to reach 1 light-day from Earth after nearly 50 years in space",
@@ -37,151 +177,11 @@
       "published": "2026-11-15T20:00:01+00:00"
     },
     {
-      "category": "Space & Cosmos",
-      "title": "30 years ago, 'Space Jam' proposed the best way to resolve interplanetary disputes",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/space-movies-shows/30-years-ago-space-jam-proposed-the-best-way-to-resolve-interplanetary-disputes",
-      "published": "2026-11-15T17:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "On this day in space! Nov. 15, 1988: The 300-foot Green Bank Telescope collapses suddenly, leaving a huge pile of wreckage in West Virginia",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-15-2026",
-      "published": "2026-11-15T15:34:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Why hasn't the 'Blaze Star' exploded yet? Astronomers weigh in on what to expect",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/why-hasnt-the-blaze-star-exploded-yet-astronomers-weigh-in-on-what-to-expect",
-      "published": "2026-11-15T15:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "New observations challenge evidence for an 'outsize' black hole in the early universe",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-evidence-outsize-black-hole-early.html",
-      "published": "2026-11-15T14:00:04+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "SpaceX's Starship returns from orbit and is captured by launch pad arms in a dramatic first",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-spacex-starship-orbit-captured-pad.html",
-      "published": "2026-11-15T13:06:43+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "ALMA reveals three star-forming cores at different stages inside one gas clump",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-alma-reveals-star-cores-stages.html",
-      "published": "2026-11-15T13:00:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "How escaping gases ripped apart a comet and caused it to become thousands of times brighter",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/comets/how-escaping-gases-ripped-apart-a-comet-and-caused-it-to-become-thousands-of-times-brighter",
-      "published": "2026-11-15T13:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch",
-      "published": "2026-11-15T11:00:00+00:00"
-    },
-    {
       "category": "Ancient Mysteries",
       "title": "Dinosaurs may have been eating seaweed 100 million years ago",
       "source": "Archaeology News -- ScienceDaily",
       "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
       "published": "2026-11-15T03:00:54+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Is this iconic black hole image accurate? New study delivers an independent result",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-iconic-black-hole-image-accurate.html",
-      "published": "2026-11-15T01:30:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "A dead star is flashing radio waves every 8 minutes, and its partner looks a lot like the sun",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-dead-star-radio-minutes-partner.html",
-      "published": "2026-11-14T21:00:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-nasa-voyager-day-interstellar-space.html",
-      "published": "2026-11-14T18:37:10+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "A cosmic magnifying glass could reveal the same supernova two more times in roughly 70 years",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-cosmic-magnifying-glass-reveal-supernova.html",
-      "published": "2026-11-14T18:20:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "This Week In Space podcast: Episode 236 — Alienspotting",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-236-alienspotting",
-      "published": "2026-11-14T15:56:33+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "'Alien: Fireteam Elite 2' is a good old-fashioned bug hunt, ironically plagued by bugs",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/space-games/alien-fireteam-elite-2-is-a-good-old-fashioned-bug-hunt-ironically-plagued-by-bugs",
-      "published": "2026-11-14T15:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video)",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
-      "published": "2026-11-14T14:53:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "On this day in space! Nov. 14, 1969: NASA's Apollo 12 astronauts launch to the moon on a 'pinpoint landing' lunar mission",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-14-2026",
-      "published": "2026-11-14T14:51:27+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "A common food emulsifier could solve one of rocketry's oldest fuel problems",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-common-food-emulsifier-rocketry-oldest.html",
-      "published": "2026-11-14T13:00:06+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "'Now everything changes': SpaceX catches Starship upper stage for 1st time ever (video)",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
-      "published": "2026-11-14T13:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "'Now everything changes': SpaceX catches Starship upper stage for 1st time ever",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
-      "published": "2026-11-14T13:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream)",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
-      "published": "2026-11-14T13:00:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
