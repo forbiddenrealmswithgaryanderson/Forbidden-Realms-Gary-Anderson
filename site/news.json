@@ -1,6 +1,125 @@
 {
-  "updated": "2026-11-18T14:05:24.023796+00:00",
+  "updated": "2026-11-18T22:00:06.724282+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Spectral clues suggest hollow-core magnetic jet in brightest-ever gamma-ray burst",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-spectral-clues-hollow-core-magnetic.html",
+      "published": "2026-11-18T21:40:12+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "On this day in space! Nov. 18, 2013: NASA launches MAVEN spacecraft to Mars to find out how the Red Planet lost its water",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-18-2026",
+      "published": "2026-11-18T21:10:52+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Earth is missing over a billion years of geological history. Scientists may have discovered why",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/earth/earth-is-missing-over-a-billion-years-of-geological-history-scientists-may-have-discovered-why",
+      "published": "2026-11-18T20:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/",
+      "published": "2026-11-18T18:58:27+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Strange radio signals from space could come from a dead star",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-strange-radio-space-dead-star.html",
+      "published": "2026-11-18T18:24:12+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/",
+      "published": "2026-11-18T18:12:32+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "ULA traces Vulcan Centaur rocket failure to 'inadequate fuel supply' to 1st-stage engines",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-traces-vulcan-centaur-rocket-failure-to-inadequate-fuel-supply-to-1st-stage-engines",
+      "published": "2026-11-18T18:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Empire State Building Goes Gold for Voyager",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/",
+      "published": "2026-11-18T17:50:26+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "What Is the Moon Base?",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/",
+      "published": "2026-11-18T17:36:03+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Thank You for Doing NASA Science!",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/",
+      "published": "2026-11-18T17:32:52+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/mars/a-shotgun-marriage-why-are-nasas-skyfall-mars-helicopters-riding-on-a-nuclear-rocket",
+      "published": "2026-11-18T17:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "'Project Hail Mary' is heading back to theaters this December",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/entertainment/space-movies-shows/project-hail-mary-is-heading-back-to-theaters-this-december",
+      "published": "2026-11-18T16:24:34+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Bouncing sand grains may explain planet-wide dust storms on Mars",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-sand-grains-planet-wide-storms.html",
+      "published": "2026-11-18T16:20:06+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
+      "published": "2026-11-18T16:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Voyager 1 spacecraft reaches one light-day milestone",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-voyager-spacecraft-day-milestone.html",
+      "published": "2026-11-18T15:20:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Supernova explodes before astronomers' eyes | Space photo of the day for Nov. 18, 2026",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026",
+      "published": "2026-11-18T15:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "The Lego Star Trek bridge diorama set should be your gateway to finally watching the Original Series",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/entertainment/space-toys-lego/the-lego-star-trek-bridge-diorama-set-should-be-your-gateway-to-finally-watching-the-original-series",
+      "published": "2026-11-18T14:04:28+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "India's SatLeo Labs wants to build a 'thermometer for Earth' in space",
@@ -14,6 +133,13 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/voyager/1-light-day-from-earth-nasas-voyager-1-probe-hits-huge-milestone-in-interstellar-space",
       "published": "2026-11-18T11:35:47+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 November 18 – A Medium-Sized Solar Flare",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
+      "published": "2026-11-18T05:05:00+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -56,132 +182,6 @@
       "source": "NASA",
       "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
       "published": "2026-11-17T21:50:34+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up?",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/satellites/space-is-filling-up-with-junk-could-laser-reflecting-mirrors-help-humanity-clean-things-up",
-      "published": "2026-11-17T21:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "BPS Digital AVATAR Challenge",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/",
-      "published": "2026-11-17T20:39:38+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/",
-      "published": "2026-11-17T20:26:17+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Over a decade of atmospheric data from NASA's Curiosity rover hints at small amounts of surface water on Mars",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-decade-atmospheric-nasa-curiosity-rover.html",
-      "published": "2026-11-17T20:00:10+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "'Neuromancer:' Release date, cast & everything we know about Apple TV's new cyberpunk series",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/space-movies-shows/neuromancer-release-date-cast-and-everything-we-know-about-apple-tvs-new-cyberpunk-series",
-      "published": "2026-11-17T20:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "How one nuclear blast could cripple nearly every satellite in low Earth orbit",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-nuclear-blast-cripple-satellite-earth.html",
-      "published": "2026-11-17T19:40:08+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
-      "published": "2026-11-17T19:16:22+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Astronomers track a flaring dwarf-star duo with exceptional precision",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-astronomers-track-flaring-dwarf-star.html",
-      "published": "2026-11-17T19:00:02+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Astronomers discover rare black holes that formed when stars failed to go supernova",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova",
-      "published": "2026-11-17T19:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — but the failure began just after liftoff",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-lost-a-vulcan-centaur-rocket-carrying-40-amazon-satellites-10-minutes-after-launch-but-the-failure-began-just-after-liftoff",
-      "published": "2026-11-17T18:48:18+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "On this day in space! Nov. 17, 1967: NASA's Surveyor 6 moon probe makes 1st-ever successful launch and hop from the lunar surface",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-17-2026",
-      "published": "2026-11-17T18:19:03+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NICER Status Updates",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/missions/station/nicer-status-updates/",
-      "published": "2026-11-17T18:18:16+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-      "source": "News and Features - NASA's Jet Propulsion Laboratory",
-      "url": "https://www.jpl.nasa.gov/news/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities",
-      "published": "2026-11-17T18:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "This supernova is 50 million light-years away, but that's close enough for astronomers",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-supernova-million-years-astronomers.html",
-      "published": "2026-11-17T17:40:14+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-      "published": "2026-11-17T17:12:20+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Curiosity Blog, Sols 5072-5076: The Return of the Polygons",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons/",
-      "published": "2026-11-17T17:06:07+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA Invites Media, Public to View Roman Telescope’s First Images",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/",
-      "published": "2026-11-17T17:00:29+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA wants you to 'shine bright' today for Voyager 1's light-day milestone. Here's how",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/voyager/nasa-wants-you-to-shine-bright-today-for-voyager-1s-light-day-milestone-heres-how",
-      "published": "2026-11-17T17:00:00+00:00"
     },
     {
       "category": "Government Secrets",
