@@ -1,6 +1,41 @@
 {
-  "updated": "2026-11-19T03:33:41.478718+00:00",
+  "updated": "2026-11-19T13:17:24.667273+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "What's next for NASA interstellar Voyager 1 probe after passing 1 light-day from Earth?",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/voyager/whats-next-for-nasa-interstellar-voyager-1-probe-after-passing-1-light-day-from-earth",
+      "published": "2026-11-19T11:02:37+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Potatoes grown in simulated lunar soil match Earth-grown performance",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-potatoes-grown-simulated-lunar-soil.html",
+      "published": "2026-11-19T10:00:02+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
+      "published": "2026-11-19T05:05:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "El Niño Rains Paint the Atacama",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+      "published": "2026-11-19T05:00:00+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "Stonehenge’s six-ton mystery deepens as scientists narrow their search",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
+      "published": "2026-11-19T03:11:22+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "First lunar-specific ground motion model could guide seismic hazard assessments on moon",
@@ -14,6 +49,13 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/entertainment/space-movies-shows/whether-you-want-star-trek-strange-new-worlds-or-the-pure-nostalgia-of-the-original-series-this-limited-time-usd2-99-paramount-streaming-deal-gets-you-both",
       "published": "2026-11-19T00:00:00+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "This strange creature lived 309 million years ago, long before the dinosaurs",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261117033928.htm",
+      "published": "2026-11-18T23:24:05+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -147,34 +189,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026",
       "published": "2026-11-18T15:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "The Lego Star Trek bridge diorama set should be your gateway to finally watching the Original Series",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/space-toys-lego/the-lego-star-trek-bridge-diorama-set-should-be-your-gateway-to-finally-watching-the-original-series",
-      "published": "2026-11-18T14:04:28+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "India's SatLeo Labs wants to build a 'thermometer for Earth' in space",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/satellites/indias-satleo-labs-wants-to-build-a-thermometer-for-earth-in-space",
-      "published": "2026-11-18T13:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "1 light-day from Earth! NASA's Voyager 1 probe hits huge milestone in interstellar space",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/voyager/1-light-day-from-earth-nasas-voyager-1-probe-hits-huge-milestone-in-interstellar-space",
-      "published": "2026-11-18T11:35:47+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "APOD: 2026 November 18 – A Medium-Sized Solar Flare",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
-      "published": "2026-11-18T05:05:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
@@ -506,25 +520,11 @@
       "published": "2026-10-21T12:24:21+00:00"
     },
     {
-      "category": "Ancient Mysteries",
-      "title": "Scientists discover a bizarre Jurassic “squid” unlike anything ever seen",
-      "source": "Archaeology News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261019093434.htm",
-      "published": "2026-10-20T12:20:44+00:00"
-    },
-    {
       "category": "Government Secrets",
       "title": "Scientists Built a Computer Using Living Human Brain Cells—Now It Can Decode Braille",
       "source": "The Debrief",
       "url": "https://thedebrief.org/scientists-built-a-computer-using-living-human-brain-cells-now-it-can-decode-braille/",
       "published": "2026-10-19T12:01:42+00:00"
-    },
-    {
-      "category": "Ancient Mysteries",
-      "title": "Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse",
-      "source": "Archaeology News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261017230023.htm",
-      "published": "2026-10-18T12:36:21+00:00"
     },
     {
       "category": "Government Secrets",
