@@ -1,6 +1,132 @@
 {
-  "updated": "2026-11-20T12:58:26.360950+00:00",
+  "updated": "2026-11-20T21:10:10.064166+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Don't turn the moon into the Wild West, scientists warn",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn",
+      "published": "2026-11-20T21:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
+      "published": "2026-11-20T20:46:14+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "GTA hasn't gone to space (yet), but these sci-fi games can offer you a life of crime among the stars",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/entertainment/space-games/gta-hasnt-gone-to-space-yet-but-these-sci-fi-games-can-offer-you-a-life-of-crime-among-the-stars",
+      "published": "2026-11-20T20:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
+      "published": "2026-11-20T19:50:15+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "There's an impostor hiding in the Hyades star cluster. Can you spot it?",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
+      "published": "2026-11-20T19:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Could an ancient solar eclipse rewrite Egyptian history?",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/stargazing/solar-eclipses/could-an-ancient-solar-eclipse-rewrite-egyptian-history",
+      "published": "2026-11-20T18:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "A new way to extract oxygen from lunar soil could support bases on the moon",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-oxygen-lunar-soil-bases-moon.html",
+      "published": "2026-11-20T17:40:09+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Russia is developing a nuclear space weapon, US intelligence report finds",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/satellites/russia-is-developing-a-nuclear-space-weapon-us-intelligence-report-finds",
+      "published": "2026-11-20T17:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
+      "published": "2026-11-20T16:27:46+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Researchers trace shifting pulsation modes in δ Scuti star KIC 4737720",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-shifting-pulsation-modes-scuti-star.html",
+      "published": "2026-11-20T16:20:08+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Venus-like conditions reveal how minerals could preserve traces of ancient water",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-venus-conditions-reveal-minerals-ancient.html",
+      "published": "2026-11-20T16:20:01+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA’s Curiosity Mars Rover Collects Samples",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
+      "published": "2026-11-20T15:53:24+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Low-viscosity lavas reveal a key to Mars's past",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-viscosity-lavas-reveal-key-mars.html",
+      "published": "2026-11-20T15:40:05+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "A star's last gasps: ALMA reveals a giant gas ring and budding hourglass around a star in transition",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-star-gasps-alma-reveals-giant.html",
+      "published": "2026-11-20T15:20:01+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20, 2026",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/earth/iss-astronauts-look-down-on-the-snow-capped-himalayas-space-photo-of-the-day-for-nov-20-2026",
+      "published": "2026-11-20T15:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Astronomers reveal the oceanic origin of Europa's sodium cloud",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-astronomers-reveal-oceanic-europa-sodium.html",
+      "published": "2026-11-20T14:00:06+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Dark energy may originate from known laws of particle physics",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-dark-energy-laws-particle-physics.html",
+      "published": "2026-11-20T13:20:06+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
+      "published": "2026-11-20T13:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Space travel changes the brain's immune cells, but not behavior",
@@ -17,7 +143,7 @@
     },
     {
       "category": "Space & Cosmos",
-      "title": "I handpicked every Star Trek Blu-Ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now",
+      "title": "I handpicked every Star Trek Blu-ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now",
       "source": "Latest from Space.com",
       "url": "https://www.space.com/entertainment/space-movies-shows/i-handpicked-every-star-trek-blu-ray-discounted-on-amazon-for-black-friday-2026-that-i-think-is-worth-buying-right-now",
       "published": "2026-11-20T11:00:32+00:00"
@@ -27,6 +153,13 @@
       "title": "Einstein was right! Scientists verify 1st image of a black hole ever captured",
       "source": "Latest from Space.com",
       "url": "https://www.space.com/astronomy/black-holes/einstein-was-right-scientists-verify-1st-image-of-a-black-hole-ever-captured",
+      "published": "2026-11-20T11:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "SpaceX Dragon cargo capsule heads home to Earth from the ISS",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
       "published": "2026-11-20T11:00:00+00:00"
     },
     {
@@ -44,137 +177,11 @@
       "published": "2026-11-20T10:00:07+00:00"
     },
     {
-      "category": "Space & Cosmos",
-      "title": "APOD: 2026 November 20 – V-G-R",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
-      "published": "2026-11-20T05:05:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "The Stormy Southwest Pacific",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
-      "published": "2026-11-20T05:01:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Mercury-bound X-ray telescope delivers first images after eight years in space",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-mercury-bound-ray-telescope-images.html",
-      "published": "2026-11-20T00:00:10+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone",
-      "published": "2026-11-19T23:42:03+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Euclid's hunt for strong gravitational lenses is off to a strong start",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-euclid-strong-gravitational-lenses.html",
-      "published": "2026-11-19T23:20:06+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-19-2005",
-      "published": "2026-11-19T22:53:16+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "ESA's Hera probe uses 'superhuman' vision to inspect NASA's asteroid crash site",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-esa-hera-probe-superhuman-vision.html",
-      "published": "2026-11-19T22:40:17+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "If tiny 'primordial' black holes exist, here's how we might find them",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
-      "published": "2026-11-19T22:40:07+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
-      "published": "2026-11-19T22:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Cryptography-inspired method speeds up searches for elusive pulsars",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-cryptography-method-elusive-pulsars.html",
-      "published": "2026-11-19T20:50:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "No more asteroid landing: Engine trouble forces Japan's Hayabusa2 probe to change plans",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
-      "published": "2026-11-19T20:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Challenge: Public Input on Life and the World in 2075",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
-      "published": "2026-11-19T19:34:20+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "China rolls out rocket for launch of 1st international astronaut to Tiangong space station (video)",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/china-rolls-out-rocket-for-launch-of-1st-international-astronaut-to-tiangong-space-station-video",
-      "published": "2026-11-19T19:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Get $400 off the first Vaonis Vespera Pro model ahead of Black Friday — only eight left in stock",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/skywatching-kit/get-400-off-the-first-vaonis-vespera-pro-model-ahead-of-black-friday-2026",
-      "published": "2026-11-19T17:08:25+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Lunar sample research yields new discoveries, revealing the history of the moon's largest impact basin",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-lunar-sample-yields-discoveries-revealing.html",
-      "published": "2026-11-19T17:00:04+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Don't miss Saturn shine close to the moon tonight",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20",
-      "published": "2026-11-19T17:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Don't miss Saturn shine close to the moon on Nov. 20",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20",
-      "published": "2026-11-19T17:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Netflix's '3 Body Problem' season 2 trailer gives us a release date and a chilling warning: 'They are coming to exterminate us'",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/space-movies-shows/netflixs-3-body-problem-season-2-trailer-gives-us-a-release-date-and-a-chilling-warning-they-are-coming-to-exterminate-us",
-      "published": "2026-11-19T16:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
-      "published": "2026-11-19T15:33:55+00:00"
+      "category": "Ancient Mysteries",
+      "title": "A 3-million-year-old child just made human evolution far more complicated",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
+      "published": "2026-11-20T03:17:52+00:00"
     },
     {
       "category": "Ancient Mysteries",
@@ -469,13 +476,6 @@
       "source": "Archaeology News -- ScienceDaily",
       "url": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
       "published": "2026-10-25T11:52:54+00:00"
-    },
-    {
-      "category": "Ancient Mysteries",
-      "title": "This 150-million-year-old bird had dinosaur teeth and a strange secret",
-      "source": "Archaeology News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261023023710.htm",
-      "published": "2026-10-24T02:42:19+00:00"
     },
     {
       "category": "Government Secrets",
