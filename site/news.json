@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-21T23:23:00.016146+00:00",
+  "updated": "2026-11-22T06:56:16.905004+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+      "published": "2026-11-22T05:05:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
@@ -175,13 +182,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-11-viscosity-lavas-reveal-key-mars.html",
       "published": "2026-11-20T15:40:05+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "A star's last gasps: ALMA reveals a giant gas ring and budding hourglass around a star in transition",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-star-gasps-alma-reveals-giant.html",
-      "published": "2026-11-20T15:20:01+00:00"
     },
     {
       "category": "Ancient Mysteries",
