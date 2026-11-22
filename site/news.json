@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-22T15:23:21.853124+00:00",
+  "updated": "2026-11-22T21:49:56.542509+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "65 Years of Human Spaceflight at NASA Johnson",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+      "published": "2026-11-22T19:13:25+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "JWST finds a possible black hole that grew faster than its host galaxy in the early universe",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-jwst-black-hole-grew-faster.html",
+      "published": "2026-11-22T16:40:01+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
+      "published": "2026-11-22T16:05:33+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
@@ -14,6 +35,13 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy",
       "published": "2026-11-22T15:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "As 'Star Trek: First Contact' turns 30, Director Jonathan Frakes reflects on his triumphant time-travel blockbuster (interview)",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-director-jonathan-frakes-reflects-on-his-triumphant-time-travel-blockbuster-interview",
+      "published": "2026-11-22T14:30:00+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -94,6 +122,13 @@
     },
     {
       "category": "Space & Cosmos",
+      "title": "European-Japanese BepiColombo mission becomes 2nd ever to arrive in orbit around Mercury",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+      "published": "2026-11-21T11:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
       "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
@@ -147,41 +182,6 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
       "published": "2026-11-20T20:46:14+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "GTA hasn't gone to space (yet), but these sci-fi games can offer you a life of crime among the stars",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/space-games/gta-hasnt-gone-to-space-yet-but-these-sci-fi-games-can-offer-you-a-life-of-crime-among-the-stars",
-      "published": "2026-11-20T20:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
-      "published": "2026-11-20T19:50:15+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "There's an impostor hiding in the Hyades star cluster. Can you spot it?",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
-      "published": "2026-11-20T19:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Could an ancient solar eclipse rewrite Egyptian history?",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/solar-eclipses/could-an-ancient-solar-eclipse-rewrite-egyptian-history",
-      "published": "2026-11-20T18:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "A new way to extract oxygen from lunar soil could support bases on the moon",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-oxygen-lunar-soil-bases-moon.html",
-      "published": "2026-11-20T17:40:09+00:00"
     },
     {
       "category": "Ancient Mysteries",
