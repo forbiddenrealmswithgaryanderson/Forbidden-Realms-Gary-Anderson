@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-22T21:49:56.542509+00:00",
+  "updated": "2026-11-23T02:50:19.212802+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
+      "published": "2026-11-22T22:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "65 Years of Human Spaceflight at NASA Johnson",
@@ -175,13 +182,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn",
       "published": "2026-11-20T21:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
-      "published": "2026-11-20T20:46:14+00:00"
     },
     {
       "category": "Ancient Mysteries",
