@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-23T02:50:19.212802+00:00",
+  "updated": "2026-11-23T12:55:11.986940+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/stars/astronomers-discover-rare-triple-star-system-just-28-light-years-from-earth-and-they-have-no-idea-how-it-has-survived",
+      "published": "2026-11-23T11:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Be ready to get a better view of the night sky in your backyard with 25% off the Celestron Cometron 7x50 binoculars in this Black Friday deal",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/stargazing/skywatching-kit/be-ready-to-get-a-better-view-of-the-night-sky-in-your-backyard-with-25-percent-off-the-celestron-cometron-7x50-binoculars-in-this-black-friday-deal",
+      "published": "2026-11-23T08:00:00+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "Archaeologists reveal a powerful Iron Age king may have been a woman",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060338.htm",
+      "published": "2026-11-23T05:30:23+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/",
+      "published": "2026-11-23T05:05:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Laser Focus at the Top of the World",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
+      "published": "2026-11-23T05:01:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Ariane 6 launch of 36 Amazon Leo satellites postponed due to a technical issue",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
+      "published": "2026-11-22T22:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
@@ -21,6 +63,13 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-11-jwst-black-hole-grew-faster.html",
       "published": "2026-11-22T16:40:01+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video)",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
+      "published": "2026-11-22T16:05:33+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -140,48 +189,6 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
       "published": "2026-11-21T11:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "SpaceX launches classified mission for US Space Force from California (video)",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
-      "published": "2026-11-21T05:28:14+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "SpaceX launches classified mission for US Space Force from California",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
-      "published": "2026-11-21T05:28:14+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "APOD: 2026 November 21 – Voyager’s Neptune",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
-      "published": "2026-11-21T05:05:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Curiosity Spots Drifting Twilight Clouds",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
-      "published": "2026-11-20T22:27:05+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "On this day in space! Nov. 20, 1998: Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026",
-      "published": "2026-11-20T21:19:33+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Don't turn the moon into the Wild West, scientists warn",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn",
-      "published": "2026-11-20T21:00:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
@@ -469,13 +476,6 @@
       "source": "The Debrief",
       "url": "https://thedebrief.org/a-new-experiment-suggests-saturns-moon-enceladus-could-be-more-hospitable-to-life-than-we-thought/",
       "published": "2026-10-27T12:45:33+00:00"
-    },
-    {
-      "category": "Ancient Mysteries",
-      "title": "Archaeologists may have just found the world's oldest shipwreck",
-      "source": "Archaeology News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261025073036.htm",
-      "published": "2026-10-26T09:51:15+00:00"
     },
     {
       "category": "Government Secrets",
