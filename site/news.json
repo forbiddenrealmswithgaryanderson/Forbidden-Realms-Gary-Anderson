@@ -1,6 +1,139 @@
 {
-  "updated": "2026-11-24T10:59:35.192251+00:00",
+  "updated": "2026-11-24T21:16:35.046366+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "Flexible simulations model how dark matter collisions may leave their fingerprints on the universe",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-flexible-simulations-dark-collisions-fingerprints.html",
+      "published": "2026-11-24T21:10:02+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise continuity for Prime Video's new sci-fi series (interview)",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/entertainment/blade-runner-2099-executive-producers-talk-architectural-easter-eggs-and-franchise-continuity-for-prime-videos-new-sci-fi-series-interview",
+      "published": "2026-11-24T21:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Vaporized rock reveals titanium oxide around massive young star for first time",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-vaporized-reveals-titanium-oxide-massive.html",
+      "published": "2026-11-24T20:40:08+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Amateur Astronomer? Be a Kilonova Catcher!",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/",
+      "published": "2026-11-24T19:19:52+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
+      "published": "2026-11-24T19:09:16+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "1st-ever detection of a dying star's 'final nuclear heartbeat' challenges what we know about our sun's eventual death",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/stars/1st-ever-detection-of-a-dying-stars-final-nuclear-heartbeat-challenges-what-we-know-about-our-suns-eventual-death",
+      "published": "2026-11-24T19:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "AGU Hyperwall Schedule",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/agu-hyperwall-schedule/",
+      "published": "2026-11-24T18:55:42+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Webb Reveals New Details in Supernova Remnant",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
+      "published": "2026-11-24T16:51:27+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Water signals could guide future efforts to image supermassive black hole shadows",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-future-efforts-image-supermassive-black.html",
+      "published": "2026-11-24T16:40:02+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Four radiation belts surrounded Earth for weeks after 2024 solar superstorm",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-belts-earth-weeks-solar-superstorm.html",
+      "published": "2026-11-24T16:00:12+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/",
+      "published": "2026-11-24T15:44:38+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "YunLone Galaxy star projector review — a sub-$30 customizable night light",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/technology/yunlone-galaxy-star-projector-review",
+      "published": "2026-11-24T15:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Double asteroid solar eclipse caught on camera | Space photo of the day for Nov. 24, 2026",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/asteroids/double-asteroid-solar-eclipse-caught-on-camera-space-photo-of-the-day-for-nov-24-2026",
+      "published": "2026-11-24T15:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "China launching 1st international astronaut to Tiangong space station today: Watch it live",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-24-first-international-astronaut-launch-tiangong-space-station",
+      "published": "2026-11-24T13:59:17+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/",
+      "published": "2026-11-24T13:58:28+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Russia launches Progress 97 cargo ship to the International Space Station (video)",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station",
+      "published": "2026-11-24T13:16:26+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Watch November's full Beaver Moon live online today with supermoon livestream",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/stargazing/watch-novembers-full-beaver-moon-live-online-with-supermoon-livestream-nov-24-2026",
+      "published": "2026-11-24T13:00:00+00:00"
+    },
+    {
+      "category": "Ancient Mysteries",
+      "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
+      "source": "Archaeology News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
+      "published": "2026-11-24T11:09:06+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "November's full moon rises tonight! Here's how to see the Beaver Moon supermoon",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/stargazing/novembers-full-moon-rises-tonight-heres-how-to-see-the-beaver-moon-supermoon-nov-24-2026",
+      "published": "2026-11-24T11:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "The ten best time travel movies to buy and own on Blu-ray and 4K UHD Blu-ray this Black Friday",
@@ -49,132 +182,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-11-webb-evidence-star-layers-merged.html",
       "published": "2026-11-23T22:20:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Bacteria and nuclear power could grow ready-made homes on Mars before astronauts arrive",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-bacteria-nuclear-power-ready-homes.html",
-      "published": "2026-11-23T22:00:34+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Hera surveys asteroids with superhuman vision",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-hera-surveys-asteroids-superhuman-vision.html",
-      "published": "2026-11-23T22:00:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Will astronauts farm on the moon? Scientists successfully grow potatoes in simulated lunar dust",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust",
-      "published": "2026-11-23T22:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Join our free Space.com membership giveaway for a chance to win this Dwarflab mini smart telescope worth $419!",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/skywatching-kit/join-our-free-space-com-membership-giveaway-for-a-chance-to-win-this-dwarflab-mini-smart-telescope-worth-usd419",
-      "published": "2026-11-23T21:21:13+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Stellar pulses reveal hidden binary in JWST calibration star sample",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-stellar-pulses-reveal-hidden-binary.html",
-      "published": "2026-11-23T21:20:04+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
-      "published": "2026-11-23T21:10:03+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Star's record eruption shows how key elements can spread through space",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-star-eruption-key-elements-space.html",
-      "published": "2026-11-23T20:20:04+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "How sci‑fi imagines sports in microgravity, and how zero‑g sports might actually work",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/how-sci-fi-imagines-sports-in-microgravity-and-how-zero-g-sports-might-actually-work",
-      "published": "2026-11-23T19:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-23-2026",
-      "published": "2026-11-23T18:10:48+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Studying Cancer Cells in Microgravity",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/",
-      "published": "2026-11-23T17:28:37+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
-      "published": "2026-11-23T17:23:50+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Image: Curiosity spots drifting twilight clouds",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-image-curiosity-drifting-twilight-clouds.html",
-      "published": "2026-11-23T17:10:02+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Rocket mission puts a new protective coating for space medicine to the test—and it holds up",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-rocket-mission-coating-space-medicine.html",
-      "published": "2026-11-23T17:00:16+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Weird 'potato chips' and 'ghostly rocks' on Mars spotted by NASA rovers Curiosity and Perseverance",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/astronomy/mars/weird-potato-chips-and-ghostly-rocks-on-mars-spotted-by-nasa-rovers-curiosity-and-perseverance",
-      "published": "2026-11-23T17:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/",
-      "published": "2026-11-23T16:08:23+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "ALMA resolves the gravitational reach of a black hole in the early universe",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-alma-gravitational-black-hole-early.html",
-      "published": "2026-11-23T15:40:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "'Avengers: Doomsday' gets final trailer, explaining why Steve Rogers is back and showing an epic battle with the X-Men",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/space-movies-shows/avengers-doomsday-gets-final-trailer-explaining-why-steve-rogers-is-back-and-showing-an-epic-battle-with-the-x-men",
-      "published": "2026-11-23T15:10:59+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
-      "published": "2026-11-23T15:00:00+00:00"
     },
     {
       "category": "Ancient Mysteries",
@@ -455,13 +462,6 @@
       "source": "The Debrief",
       "url": "https://thedebrief.org/new-defense-intelligence-report-reveals-growing-threats-in-space-and-chinas-secretive-spaceplane/",
       "published": "2026-10-29T15:16:31+00:00"
-    },
-    {
-      "category": "Ancient Mysteries",
-      "title": "A 700,000-year-old elephant tooth reveals a lost world where early humans lived",
-      "source": "Archaeology News -- ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261028232709.htm",
-      "published": "2026-10-29T12:38:53+00:00"
     },
     {
       "category": "UFO & UAP",
