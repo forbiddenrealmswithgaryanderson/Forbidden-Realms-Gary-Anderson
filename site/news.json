@@ -1,6 +1,125 @@
 {
-  "updated": "2026-11-25T15:40:36.053155+00:00",
+  "updated": "2026-11-26T00:25:29.832729+00:00",
   "articles": [
+    {
+      "category": "Space & Cosmos",
+      "title": "December full moon 2026: When, where and how to see the Cold Moon",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/stargazing/december-full-moon-2026-when-where-and-how-to-see-the-cold-moon",
+      "published": "2026-11-25T22:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "On this day in space! Nov. 25, 1970: NASA's 'wingless' M2-F3 'lifting body' aircraft makes its 1st powered flight ahead of supersonic tests",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-25-2026",
+      "published": "2026-11-25T21:22:27+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Giant lambda-shaped stellar nursery found in the Milky Way's outskirts",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-giant-lambda-stellar-nursery-milky.html",
+      "published": "2026-11-25T20:20:06+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Using lunar craters as free radiation shields for moon base nuclear reactors",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-lunar-craters-free-shields-moon.html",
+      "published": "2026-11-25T19:50:01+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Simulations reveal how a solar vortex and reconnecting magnetic fields can launch a rotating jet",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "url": "https://phys.org/news/2026-11-simulations-reveal-solar-vortex-reconnecting.html",
+      "published": "2026-11-25T19:40:10+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/",
+      "published": "2026-11-25T19:06:56+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "SpaceX Starship debris becomes art in Ashley Zelinskie's 'The Weight of Space' (video, photos)",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/entertainment/spacex-starship-debris-becomes-art-in-ashley-zelinskies-the-weight-of-space-video-photos",
+      "published": "2026-11-25T19:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites",
+      "published": "2026-11-25T18:49:15+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "‘Blade Runner 2099’ cast praise the incredible set designs that brought the sci-fi universe to life: ‘it was all so well-realized’ (interview)",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/entertainment/space-movies-shows/blade-runner-2099-cast-praise-the-incredible-set-designs-that-brought-the-sci-fi-universe-to-life-it-was-all-so-well-realized-interview",
+      "published": "2026-11-25T18:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off",
+      "published": "2026-11-25T18:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA Eyes Crop Candidates for Future Menus",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
+      "published": "2026-11-25T17:53:42+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Pakistani astronaut becomes 1st international visitor to China's Tiangong space station (photos)",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/pakistani-astronaut-becomes-1st-international-visitor-to-chinas-tiangong-space-station-photos",
+      "published": "2026-11-25T17:41:11+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Hera spacecraft gets 1st up-close look at stadium-sized hole punched in asteroid by NASA DART mission",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/astronomy/asteroids/hera-spacecraft-gets-1st-up-close-look-at-stadium-sized-hole-punched-in-asteroid-by-nasa-dart-mission",
+      "published": "2026-11-25T17:30:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/",
+      "published": "2026-11-25T16:47:29+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA sends planes to monitor US Army's lead detonation. 'Irresponsible' to compare it to Chernobyl, agency chief says",
+      "source": "Latest from Space.com",
+      "url": "https://www.space.com/technology/aerospace/nasa-sends-planes-to-monitor-us-armys-lead-detonation-irresponsible-to-compare-it-to-chernobyl-agency-chief-says",
+      "published": "2026-11-25T16:24:24+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "Eye of the Sahara",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/eye-of-the-sahara/",
+      "published": "2026-11-25T16:21:04+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA’s Europa Clipper Zooming by Earth on Way to Jupiter’s Icy Moon",
+      "source": "News and Features - NASA's Jet Propulsion Laboratory",
+      "url": "https://www.jpl.nasa.gov/news/nasas-europa-clipper-zooming-by-earth-on-way-to-jupiters-icy-moon",
+      "published": "2026-11-25T16:00:00+00:00"
+    },
     {
       "category": "Space & Cosmos",
       "title": "Hera's Didymos asteroid in eclipse",
@@ -21,6 +140,13 @@
       "source": "Latest from Space.com",
       "url": "https://www.space.com/astronomy/earth/satellites-watch-volcanic-eruptions-add-new-beaches-on-iwo-jima-space-photo-of-the-day-for-nov-25-2026",
       "published": "2026-11-25T15:00:00+00:00"
+    },
+    {
+      "category": "Space & Cosmos",
+      "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
+      "published": "2026-11-25T14:56:54+00:00"
     },
     {
       "category": "Space & Cosmos",
@@ -49,132 +175,6 @@
       "source": "Space News - Space, Astronomy, Space Exploration",
       "url": "https://phys.org/news/2026-11-japan-unveils-rover-prototype-moon.html",
       "published": "2026-11-25T11:27:27+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "China launches Shenzhou 24 spacecraft carrying 2 Chinese and 1 Pakistani astronaut",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-china-shenzhou-spacecraft-chinese-pakistani.html",
-      "published": "2026-11-25T11:24:37+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "November's full moon dazzles skywatchers with a stunning Beaver Moon supermoon (photos)",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/stargazing/novembers-full-moon-dazzles-skywatchers-with-a-stunning-beaver-moon-supermoon-photos-nov-24-2026",
-      "published": "2026-11-25T11:22:59+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
-      "published": "2026-11-25T05:05:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Georgia’s Pecan Belt",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/",
-      "published": "2026-11-25T05:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "A star's 'obliquity' likely has little impact on a given planet's habitability",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-star-obliquity-impact-planet-habitability.html",
-      "published": "2026-11-25T03:20:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Ultrathin 'rainbow' sails could power spacecraft and shade the Earth",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-ultrathin-rainbow-power-spacecraft-earth.html",
-      "published": "2026-11-25T02:00:04+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "How to watch 'Blade Runner 2099' online — stream the sci-fi sequel series from anywhere",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-blade-runner-2099-online-stream-the-sci-fi-sequel-series-from-anywhere",
-      "published": "2026-11-25T01:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Blind sample test reveals how BepiColombo could decode Mercury's mineral makeup",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-sample-reveals-bepicolombo-decode-mercury.html",
-      "published": "2026-11-24T23:20:08+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video",
-      "published": "2026-11-24T22:37:19+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Why mega-constellations have a hidden space junk blind spot",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-mega-constellations-hidden-space-junk.html",
-      "published": "2026-11-24T22:10:02+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "On this day in space! Nov. 24, 1947: The US Navy launches the 1st Aerobee sounding rocket, but it didn't reach space",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-24-2026",
-      "published": "2026-11-24T21:47:34+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "The two ways rings are carved around a newborn star",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-ways-newborn-star.html",
-      "published": "2026-11-24T21:20:01+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
-      "published": "2026-11-24T21:14:36+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Flexible simulations model how dark matter collisions may leave their fingerprints on the universe",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-flexible-simulations-dark-collisions-fingerprints.html",
-      "published": "2026-11-24T21:10:02+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/",
-      "published": "2026-11-24T21:04:32+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise continuity for Prime Video's new sci-fi series (interview)",
-      "source": "Latest from Space.com",
-      "url": "https://www.space.com/entertainment/blade-runner-2099-executive-producers-talk-architectural-easter-eggs-and-franchise-continuity-for-prime-videos-new-sci-fi-series-interview",
-      "published": "2026-11-24T21:00:00+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Vaporized rock reveals titanium oxide around massive young star for first time",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "url": "https://phys.org/news/2026-11-vaporized-reveals-titanium-oxide-massive.html",
-      "published": "2026-11-24T20:40:08+00:00"
-    },
-    {
-      "category": "Space & Cosmos",
-      "title": "Amateur Astronomer? Be a Kilonova Catcher!",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/",
-      "published": "2026-11-24T19:19:52+00:00"
     },
     {
       "category": "Ancient Mysteries",
